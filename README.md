@@ -39,6 +39,15 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Combine
 
+- [A screencast on deriving Publisher from Swift’s Sequence protocol](https://jasdev.me/sequence-to-publisher) from Jasdev Singh
+- [A publisher temperature primer](https://jasdev.me/publisher-temperature-primer) from Jasdev Singh
+- [A screencast on time-based prefixing in Combine](https://jasdev.me/prefix-duration-notes) from Jasdev Singh
+- [Multicasting, `Publisher.share(replay:)`, and ReplaySubject](https://jasdev.me/multicasting)
+- [A materialization primer](https://jasdev.me/materialization-primer) from Jasdev Singh
+- [`setFailureType`, `setOutputType`, and initial objects](https://jasdev.me/set-output-type) from Jasdev Singh
+- [An operator fusion primer](https://jasdev.me/fusion-primer) from Jasdev Singh
+- [Writing a Combine operator: variadic zipping](https://jasdev.me/zip-many) from Jasdev Singh
+
 <p>&nbsp;</p>
 
 # How to contribute
