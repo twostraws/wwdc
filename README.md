@@ -29,6 +29,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Swift
 
+* [WWDC20 Swift Student Challenge Submissions](https://wwdc.github.io/2020/)
+
 ## SwiftUI
 
 ## UIKit
