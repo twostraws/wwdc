@@ -39,6 +39,14 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Combine
 
+## ARKit
+
+* [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from Ethan Saadia
+
+## Core ML
+
+* [Machine Learning @ WWDC 2020](https://medium.com/@ethansaadia/machine-learning-wwdc-2020-519167b2678b) from Ethan Saadia
+
 <p>&nbsp;</p>
 
 # How to contribute
