@@ -25,6 +25,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer
 * [Opportunities for watchOS 7](https://www.david-smith.org/blog/2020/05/15/opportunities-for-watchos-7/) from David Smith
 * [SwiftUI wishlist for WWDC20](https://swiftwithmajid.com/2020/06/10/swiftui-wishlist-for-wwdc20/) from Majid Jabrayilov
+* [My SwiftUI wishlist for WWDC 2020](https://vmanot.com/my-swiftui-wishlist-for-wwdc-2020) from Vatsal Manot
 
 
 
