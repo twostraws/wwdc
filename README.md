@@ -18,6 +18,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Pre-WWDC Virtual Trivia](https://www.eventbrite.com/e/pre-wwdc-virtual-trivia-tickets-108879668018)
 * [Post-WWDC Spanish Virtual Meetup](https://www.meetup.com/es-ES/NSCoder-Night-Madrid/events/271330253/)
 * [WWDC Together](https://wwdctogether.com/)
+* [WWDC by Sundell & Friends](https://wwdcbysundell.com/)
 
 ## Offers
 
@@ -100,6 +101,7 @@ We are:
 - [Meng To](https://twitter.com/mengto)
 - [Donny Wals](https://twitter.com/donnywals)
 - [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
+- [Kristaps Grinbergs](https://twitter.com/fassko)
 
 If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
