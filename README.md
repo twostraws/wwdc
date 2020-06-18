@@ -22,6 +22,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Offers
 
 * [Unofficial WWDC20 pins](https://www.kickstarter.com/projects/josephslinker/wwdc-2020-pin-set)
+* [WWDC T-Shirt Interest Form](https://forms.gle/5SSf8Gi7D69Vc6SB7)
 
 ## Wishlists
 
