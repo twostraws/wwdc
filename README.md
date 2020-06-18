@@ -24,6 +24,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Unofficial WWDC20 pins](https://www.kickstarter.com/projects/josephslinker/wwdc-2020-pin-set)
 * [WWDC T-Shirt Interest Form](https://forms.gle/5SSf8Gi7D69Vc6SB7)
 * [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
+* [Save 25% on Practical Combine](https://gumroad.com/l/practical-combine/wwdc2020)
 
 ## Wishlists
 
