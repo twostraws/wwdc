@@ -34,6 +34,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [My SwiftUI wishlist for WWDC 2020](https://vmanot.com/my-swiftui-wishlist-for-wwdc-2020) from Vatsal Manot
 * [Non-SwiftUI wishlist for WWDC 2020](https://nemecek.be/blog/27/non-swiftui-wishlist-for-wwdc-2020) from Filip Němeček
 * [WWDC20 wishlist](https://mixedcase.nl/articles/2020/06/18/wwdc20-wishlist/) from Kevin Renskers
+* [WWDC 2020 Wishlist](https://www.pnguin.app/post/wwdc-2020-wishlist) from Shihab Mehboob
 
 ## Swift
 
