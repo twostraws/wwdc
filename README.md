@@ -36,6 +36,8 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC20 wishlist](https://mixedcase.nl/articles/2020/06/18/wwdc20-wishlist/) from Kevin Renskers
 * [WWDC 2020 Wishlist](https://www.pnguin.app/post/wwdc-2020-wishlist) from Shihab Mehboob
 * [iPad-focused WWDC 2020 wish list](https://douglashill.co/wwdc-2020-wish-list/) from Douglas Hill
+* [Swift Playgrounds and Reality Composer WWDC 2020 wish list](https://www.thecodehub.ie/news/2020/06/20/the-code-hubs-wwdc2020-wishlist/) from Matt Hanlon
+
 
 ## Swift
 
