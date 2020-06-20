@@ -38,6 +38,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [iPad-focused WWDC 2020 wish list](https://douglashill.co/wwdc-2020-wish-list/) from Douglas Hill
 * [Swift Playgrounds and Reality Composer WWDC 2020 wish list](https://www.thecodehub.ie/news/2020/06/20/the-code-hubs-wwdc2020-wishlist/) from Matt Hanlon
 
+## Guides
+
+* [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
 
 ## Swift
 
@@ -52,10 +55,6 @@ So, a number of us decided to start this repository to host links to various WWD
 ## WatchKit
 
 ## Combine
-
-## Guides
-
-* [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
 
 <p>&nbsp;</p>
 
@@ -113,6 +112,7 @@ We are:
 - [Donny Wals](https://twitter.com/donnywals)
 - [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
 - [Kristaps Grinbergs](https://twitter.com/fassko)
+- [Natalia Panferova](https://twitter.com/natpanferova)
 
 If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
