@@ -53,6 +53,10 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Combine
 
+## Guides
+
+* [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
+
 <p>&nbsp;</p>
 
 # How to contribute
