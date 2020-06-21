@@ -18,6 +18,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Pre-WWDC Virtual Trivia](https://www.eventbrite.com/e/pre-wwdc-virtual-trivia-tickets-108879668018)
 * [Post-WWDC Spanish Virtual Meetup](https://www.meetup.com/es-ES/NSCoder-Night-Madrid/events/271330253/)
 * [WWDC Together](https://wwdctogether.com/)
+* [WWDC 2020 Daily Hangouts by STHLM.swift](https://www.meetup.com/STHLM-swift/events/fqhltrybcjbdc/)
 
 ## Offers
 
