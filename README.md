@@ -32,8 +32,10 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 50% on SwiftUI Masterclass Course](https://swiftuimasterclass.com/)
 
 ## Swift
+* [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
 
 ## SwiftUI
+* [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14) from Hacking with Swift
 
 ## UIKit
 
