@@ -52,6 +52,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## SwiftUI
 
+* [List of SwiftUI resources](https://github.com/ygit/swiftui) from ygit
+
 ## UIKit
 
 ## AppKit
