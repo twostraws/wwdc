@@ -26,6 +26,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC T-Shirt Interest Form](https://twitter.com/AdrianEves07/status/1273721198677983238)
 * [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 * [Save 25% on Practical Combine](https://gumroad.com/l/practical-combine/wwdc2020)
+* [Save 40% on all Sean Allen courses (Use code WWDC2020)](https://seanallen.teachable.com)
 
 ## Wishlists
 
