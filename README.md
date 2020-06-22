@@ -31,6 +31,18 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 40% on all Sean Allen courses (Use code WWDC2020)](https://seanallen.teachable.com)
 * [Save 50% on SwiftUI Masterclass Course](https://swiftuimasterclass.com/)
 
+## Swift
+
+## SwiftUI
+
+## UIKit
+
+## AppKit
+
+## WatchKit
+
+## Combine
+
 ## Wishlists
 
 * [My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer
@@ -45,23 +57,11 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2020 Wishlist](https://blog.sindresorhus.com/wwdc-2020-wishlist-21844ded9a9d) from Sindre Sorhus
 * [Web Developer/Safari for iOS 14 Wishlist](https://christianoliff.com/blog/safari-ios14-wishlist) from Christian Oliff
 
-## Guides
-
-* [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
-
-## Swift
+## Misc
 
 * [WWDC20 Swift Student Challenge Submissions](https://wwdc.github.io/2020/)
+* [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
 
-## SwiftUI
-
-## UIKit
-
-## AppKit
-
-## WatchKit
-
-## Combine
 
 <p>&nbsp;</p>
 
