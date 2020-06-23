@@ -39,6 +39,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Up and Running with SwiftUI Grids](https://youtu.be/VdGMk7MRDww) from Kilo Loco
 * [What is new in SwiftUI](https://swiftwithmajid.com/2020/06/23/what-is-new-in-swiftui/) from Swift with Majid
 * [Using SceneStorage for State Restoration in SwiftUI Apps](https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/) from [Natalia Panferova](https://twitter.com/natpanferova)
+* [Lazy Stacks in SwiftUI](https://nsscreencast.com/episodes/443-swiftui-lazy-stacks) from NSScreencast (free video)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
