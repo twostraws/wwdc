@@ -20,8 +20,6 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC Together](https://wwdctogether.com/)
 * [WWDC 2020 Daily Hangouts by STHLM.swift](https://www.meetup.com/STHLM-swift/events/fqhltrybcjbdc/)
 * [WWDC Keynote 2020 - Watch Party by iOS Dev Scout Singapore](https://www.meetup.com/Singapore-iOS-Dev-Scout-Meetup/events/270859074/)
-* [WWDC 2020 First Impressions raywenderlich.com Livecast](https://www.raywenderlich.com/11081118-don-t-miss-our-wwdc-2020-livecast-june-22-9pm-edt)
-* [WWDC Debrief Livestream on Twitch (Tues-Fri 6/23-6/26 at 8 PM EDT)](https://twitch.tv/ferrousguy) from Ben Gohlke.
 
 ## Offers
 
@@ -89,6 +87,8 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Podcasts
 * [Swift News - WWDC 2020 Content, SwiftUI, AirBnB Calendar, Accessibility & More!](https://podcasts.apple.com/us/podcast/swift-news-wwdc-2020-content-swiftui-airbnb-calendar/id1426167395?i=1000479075929) from Sean Allen
 * [WWDC 2020 - Quick Thoughts](https://www.empowerapps.show/53) from Leo Dion
+* [WWDC 2020 First Impressions raywenderlich.com Livecast](https://www.raywenderlich.com/11081118-don-t-miss-our-wwdc-2020-livecast-june-22-9pm-edt)
+* [WWDC Debrief Livestream on Twitch (Tues-Fri 6/23-6/26 at 8 PM EDT)](https://twitch.tv/ferrousguy) from Ben Gohlke.
 
 <p>&nbsp;</p>
 
