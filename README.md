@@ -73,6 +73,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC20 Swift Student Challenge Submissions](https://wwdc.github.io/2020/)
 * [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
 * [WWDC20 SOTU Overview](https://swiftcompiled.com/wwdc20-whats-new-for-developers/) by Alex Brown (SwiftCompiled.com)
+* [Inferring the "D" in "WWDC"](https://mailchi.mp/6ba0b7dd3432/news-from-apples-developer-conference) from Daniel H Steinberg
 
 
 <p>&nbsp;</p>
