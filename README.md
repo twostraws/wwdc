@@ -60,6 +60,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [AR Location Anchors in ARKit](https://medium.com/@ethansaadia/ar-location-anchors-in-arkit-4-9a7ca19652f5) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 
+## App Clips
+* [App Clips: when is an app an app and when should it be a webpage?](https://ericasadun.com/2020/06/23/app-clips-when-is-an-app-an-app-and-when-should-it-be-a-webpage/) from [Erica Sadun](https://twitter.com/ericasadun)
+
 ## Wishlists
 
 * [My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer
