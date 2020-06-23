@@ -48,6 +48,10 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Combine
 * [Using custom publishers to drive SwiftUI views](https://www.donnywals.com/using-custom-publishers-to-drive-swiftui-views/) from Donny Wals
 
+## ARKit
+* [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+* [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+
 ## Wishlists
 
 * [My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer
