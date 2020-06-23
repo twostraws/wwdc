@@ -41,6 +41,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Using SceneStorage for State Restoration in SwiftUI Apps](https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/) from [Natalia Panferova](https://twitter.com/natpanferova)
 
 ## UIKit
+* [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
 
 ## AppKit
 
