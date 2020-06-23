@@ -44,6 +44,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## WatchKit
 
 ## Combine
+* [Using custom publishers to drive SwiftUI views](https://www.donnywals.com/using-custom-publishers-to-drive-swiftui-views/) from Donny Wals
 
 ## Wishlists
 
