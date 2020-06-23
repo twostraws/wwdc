@@ -77,8 +77,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 
 ## Podcasts
-* [Swift News - WWDC 2020 Content, SwiftUI, AirBnB Calendar, Accessibility & More!](https://overcast.fm/+OPbA2Y1xk) from Sean Allen
-* [WWDC 2020 - Quick Thoughts](https://overcast.fm/+OhIbPoaRI) from Leo Dion
+* [Swift News - WWDC 2020 Content, SwiftUI, AirBnB Calendar, Accessibility & More!](https://podcasts.apple.com/us/podcast/swift-news-wwdc-2020-content-swiftui-airbnb-calendar/id1426167395?i=1000479075929) from Sean Allen
+* [WWDC 2020 - Quick Thoughts](https://www.empowerapps.show/53) from Leo Dion
 
 <p>&nbsp;</p>
 
