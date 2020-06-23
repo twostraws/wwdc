@@ -36,6 +36,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## SwiftUI
 * [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14) from Hacking with Swift
+* [Up and Running with SwiftUI Grids](https://youtu.be/VdGMk7MRDww) from Kilo Loco
 
 ## UIKit
 
