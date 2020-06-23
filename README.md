@@ -76,6 +76,10 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Inferring the "D" in "WWDC"](https://mailchi.mp/6ba0b7dd3432/news-from-apples-developer-conference) from Daniel H Steinberg
 
 
+## Podcasts
+* [Swift News - WWDC 2020 Content, SwiftUI, AirBnB Calendar, Accessibility & More!](https://overcast.fm/+OPbA2Y1xk) from Sean Allen
+* [WWDC 2020 - Quick Thoughts](https://overcast.fm/+OhIbPoaRI) from Leo Dion
+
 <p>&nbsp;</p>
 
 # How to contribute
