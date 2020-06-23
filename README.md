@@ -51,6 +51,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## ARKit
 * [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+* [AR Location Anchors in ARKit](https://medium.com/@ethansaadia/ar-location-anchors-in-arkit-4-9a7ca19652f5) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 
 ## Wishlists
 
