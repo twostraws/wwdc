@@ -30,6 +30,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 25% on Practical Combine](https://gumroad.com/l/practical-combine/wwdc2020)
 * [Save 40% on all Sean Allen courses (Use code WWDC2020)](https://seanallen.teachable.com)
 * [Save 50% on SwiftUI Masterclass Course](https://swiftuimasterclass.com/)
+* [Save 50% on a yearly NSScreencast subscription](https://nsscreencast.com/coupons/wwdc20)
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
