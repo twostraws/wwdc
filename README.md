@@ -36,7 +36,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## SwiftUI
 * [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14) from Hacking with Swift
-* [Up and Running with SwiftUI Grids](https://youtu.be/VdGMk7MRDww) from Kilo Loco
+* [Up and Running with SwiftUI 2.0 Grids](https://youtu.be/VdGMk7MRDww) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [What is new in SwiftUI](https://swiftwithmajid.com/2020/06/23/what-is-new-in-swiftui/) from Swift with Majid
 * [Using SceneStorage for State Restoration in SwiftUI Apps](https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/) from [Natalia Panferova](https://twitter.com/natpanferova)
 * [Lazy Stacks in SwiftUI](https://nsscreencast.com/episodes/443-swiftui-lazy-stacks) from NSScreencast (free video)
@@ -61,6 +61,9 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## App Clips
 * [App Clips: when is an app an app and when should it be a webpage?](https://ericasadun.com/2020/06/23/app-clips-when-is-an-app-an-app-and-when-should-it-be-a-webpage/) from [Erica Sadun](https://twitter.com/ericasadun)
+
+## Widgets
+* [Creating Your First SwiftUI Widget | iOS 14](https://youtu.be/wOrkcdeui4U) from [Kilo Loco](https://twitter.com/kilo_loco)
 
 ## Wishlists
 
