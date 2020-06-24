@@ -44,6 +44,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Customize your app’s Launch Screen using its Info Plist](https://wwdcbysundell.com/2020/launch-screen-info-plist/) from Kaya Thomas
 * [The UIKit views that now have built-in SwiftUI counterparts in iOS 14](https://wwdcbysundell.com/2020/uikit-views-that-now-have-swiftui-counterparts-in-ios14/) from WWDC by Sundell
 * [Scroll to Newly Added Item using ScrollViewReader and onChange Modifier in SwiftUI](https://lostmoa.com/blog/ScrollToNewlyAddedItemUsingScrollViewReaderAndOnChangeModifier/) from [Natalia Panferova](https://twitter.com/natpanferova)
+* [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
