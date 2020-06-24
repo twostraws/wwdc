@@ -31,6 +31,10 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 50% on SwiftUI Masterclass Course](https://swiftuimasterclass.com/)
 * [Save 50% on a yearly NSScreencast subscription](https://nsscreencast.com/coupons/wwdc20)
 
+## Summaries
+* [WWDC20 SOTU Overview](https://swiftcompiled.com/wwdc20-whats-new-for-developers/) by Alex Brown (SwiftCompiled.com)
+* [WWDC20 Session Summaries](https://github.com/Blackjacx/WWDC) from Stefan Herold
+
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
 
@@ -44,12 +48,18 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Customize your app’s Launch Screen using its Info Plist](https://wwdcbysundell.com/2020/launch-screen-info-plist/) from Kaya Thomas
 * [The UIKit views that now have built-in SwiftUI counterparts in iOS 14](https://wwdcbysundell.com/2020/uikit-views-that-now-have-swiftui-counterparts-in-ios14/) from WWDC by Sundell
 * [Scroll to Newly Added Item using ScrollViewReader and onChange Modifier in SwiftUI](https://lostmoa.com/blog/ScrollToNewlyAddedItemUsingScrollViewReaderAndOnChangeModifier/) from [Natalia Panferova](https://twitter.com/natpanferova)
-* [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
+* [Add custom SwiftUI view to View Library with LibraryContentProvider](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/) from [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
+* [Use PinnedScrollableViews to make sticky headers](https://yoswift.dev/swiftui/pinnedScrollableViews/) from [Manoj Karki](https://twitter.com/mskarki)
+* [SwiftUI's Native Progress Views](https://nsscreencast.com/episodes/444-swiftui-native-progress-views) from NSScreencast (free video)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
 * [Configure CollectionView Cells with UICollectionView.CellRegistration](https://www.donnywals.com/configure-collection-view-cells-with-uicollectionview-cellregistration/) from Donny Wals
 * [How to add custom swipe actions to a UICollectionViewListCell?](https://www.donnywals.com/how-to-add-custom-swipe-actions-to-a-uicollectionviewlistcell/) from Donny Wals
+* [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
+
+## Xcode
+* [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
 
 ## AppKit
 
@@ -94,9 +104,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [WWDC20 Swift Student Challenge Submissions](https://wwdc.github.io/2020/)
 * [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
-* [WWDC20 SOTU Overview](https://swiftcompiled.com/wwdc20-whats-new-for-developers/) by Alex Brown (SwiftCompiled.com)
 * [Inferring the "D" in "WWDC"](https://mailchi.mp/6ba0b7dd3432/news-from-apples-developer-conference) from Daniel H Steinberg
-* [WWDC20 Session Summaries](https://github.com/Blackjacx/WWDC) from Stefan Herold
 
 
 ## Podcasts
