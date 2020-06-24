@@ -42,6 +42,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Lazy Stacks in SwiftUI](https://nsscreencast.com/episodes/443-swiftui-lazy-stacks) from NSScreencast (free video)
 * [What's the difference between @StateObject and @ObservedObject?](https://www.donnywals.com/whats-the-difference-between-stateobject-and-observedobject/) from Donny Wals
 * [Customize your app’s Launch Screen using its Info Plist](https://wwdcbysundell.com/2020/launch-screen-info-plist/) from Kaya Thomas
+* [The UIKit views that now have built-in SwiftUI counterparts in iOS 14](https://wwdcbysundell.com/2020/uikit-views-that-now-have-swiftui-counterparts-in-ios14/) from WWDC by Sundell
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
