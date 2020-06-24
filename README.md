@@ -56,6 +56,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
 * [Configure CollectionView Cells with UICollectionView.CellRegistration](https://www.donnywals.com/configure-collection-view-cells-with-uicollectionview-cellregistration/) from Donny Wals
 * [How to add custom swipe actions to a UICollectionViewListCell?](https://www.donnywals.com/how-to-add-custom-swipe-actions-to-a-uicollectionviewlistcell/) from Donny Wals
+* [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
 
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
