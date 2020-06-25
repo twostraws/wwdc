@@ -70,6 +70,9 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Combine
 * [Using custom publishers to drive SwiftUI views](https://www.donnywals.com/using-custom-publishers-to-drive-swiftui-views/) from Donny Wals
 
+## Networking
+* [Getting Ready for New iOS 14 Local Network Privacy Restrictions](https://lostmoa.com/blog/GettingReadyForNewiOS14LocalNetworkPrivacyRestrictions/) from [Natalia Panferova](https://twitter.com/natpanferova)
+
 ## ARKit
 * [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
