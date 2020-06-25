@@ -51,6 +51,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Add custom SwiftUI view to View Library with LibraryContentProvider](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/) from [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
 * [Use PinnedScrollableViews to make sticky headers](https://yoswift.dev/swiftui/pinnedScrollableViews/) from [Manoj Karki](https://twitter.com/mskarki)
 * [SwiftUI's Native Progress Views](https://nsscreencast.com/episodes/444-swiftui-native-progress-views) from NSScreencast (free video)
+* [AWS Amplify DataStore with SwiftUI 2.0 | Todo App](https://youtu.be/n1mV6m4xBF8) from [Kilo Loco](https://twitter.com/kilo_loco)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
