@@ -57,6 +57,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [SwiftUI Grids](https://nsscreencast.com/episodes/445-swiftui-grids) from NSScreencast (free video)
 * [Coloring SVG assets in SwiftUI](https://ericasadun.com/2020/06/25/coloring-svg-assets-in-swiftui/) from [Erica Sadun](https://twitter.com/ericasadun)
 * [How do I Add a Global Accent Color to a SwiftUI 1.0 Project?](https://www.bigmountainstudio.com/members/posts/27630-how-do-i-add-a-global-accent-color-to-a-swiftui-1-0-project) from [Mark Moeykens](https://twitter.com/bigmtnstudio)
+* [Build interactions using SceneKit and SwiftUI](https://munirwanis.github.io/blog/2020/wwdc20-scenekit-swiftui/) from [Munir Wanis](https://twitter.com/munirwanis)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
