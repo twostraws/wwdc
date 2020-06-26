@@ -20,6 +20,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC Together](https://wwdctogether.com/)
 * [WWDC 2020 Daily Hangouts by STHLM.swift](https://www.meetup.com/STHLM-swift/events/fqhltrybcjbdc/)
 * [WWDC Keynote 2020 - Watch Party by iOS Dev Scout Singapore](https://www.meetup.com/Singapore-iOS-Dev-Scout-Meetup/events/270859074/)
+* [LIVE near WWDC 2020](https://livenearwwdc.com)
 
 ## Offers
 
