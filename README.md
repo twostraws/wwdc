@@ -56,6 +56,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [AWS Amplify DataStore with SwiftUI 2.0 | Todo App](https://youtu.be/n1mV6m4xBF8) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [SwiftUI Grids](https://nsscreencast.com/episodes/445-swiftui-grids) from NSScreencast (free video)
 * [Coloring SVG assets in SwiftUI](https://ericasadun.com/2020/06/25/coloring-svg-assets-in-swiftui/) from [Erica Sadun](https://twitter.com/ericasadun)
+* [How do I Add a Global Accent Color to a SwiftUI 1.0 Project?](https://www.bigmountainstudio.com/members/posts/27630-how-do-i-add-a-global-accent-color-to-a-swiftui-1-0-project) from [Mark Moeykens](https://twitter.com/bigmtnstudio)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
