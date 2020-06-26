@@ -94,6 +94,9 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Default Apps
 * [The secret entitlements behind Default Apps on iOS](https://www.andyibanez.com/posts/default-apps-may-not-be-possible-all-devs/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
 
+## Core ML
+* [Machine Learning @ WWDC 2020](https://medium.com/@ethansaadia/machine-learning-wwdc-2020-519167b2678b) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+
 ## Wishlists
 
 * [My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer
