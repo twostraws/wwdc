@@ -20,7 +20,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC Together](https://wwdctogether.com/)
 * [WWDC 2020 Daily Hangouts by STHLM.swift](https://www.meetup.com/STHLM-swift/events/fqhltrybcjbdc/)
 * [WWDC Keynote 2020 - Watch Party by iOS Dev Scout Singapore](https://www.meetup.com/Singapore-iOS-Dev-Scout-Meetup/events/270859074/)
-* [WWDC 2020 First Impressions raywenderlich.com Livecast](https://www.raywenderlich.com/11081118-don-t-miss-our-wwdc-2020-livecast-june-22-9pm-edt)
+* [LIVE near WWDC 2020](https://livenearwwdc.com)
 
 ## Offers
 
@@ -30,16 +30,45 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 25% on Practical Combine](https://gumroad.com/l/practical-combine/wwdc2020)
 * [Save 40% on all Sean Allen courses (Use code WWDC2020)](https://seanallen.teachable.com)
 * [Save 50% on SwiftUI Masterclass Course](https://swiftuimasterclass.com/)
+* [Save 50% on a yearly NSScreencast subscription](https://nsscreencast.com/coupons/wwdc20)
+
+## Summaries
+* [WWDC20 SOTU Overview](https://swiftcompiled.com/wwdc20-whats-new-for-developers/) by Alex Brown (SwiftCompiled.com)
+* [WWDC20 Session Summaries](https://github.com/Blackjacx/WWDC) from Stefan Herold
+* [WWDC Notes](https://wwdcnotes.com) from the WWDC community
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
+* [Swift Package Testing](https://roundwallsoftware.com/swift-package-testing/) from Samuel at Roundwall Software
 
 ## SwiftUI
 * [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14) from Hacking with Swift
-* [Up and Running with SwiftUI Grids](https://youtu.be/VdGMk7MRDww) from Kilo Loco
+* [Up and Running with SwiftUI 2.0 Grids](https://youtu.be/VdGMk7MRDww) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [What is new in SwiftUI](https://swiftwithmajid.com/2020/06/23/what-is-new-in-swiftui/) from Swift with Majid
+* [Using SceneStorage for State Restoration in SwiftUI Apps](https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/) from [Natalia Panferova](https://twitter.com/natpanferova)
+* [Lazy Stacks in SwiftUI](https://nsscreencast.com/episodes/443-swiftui-lazy-stacks) from NSScreencast (free video)
+* [What's the difference between @StateObject and @ObservedObject?](https://www.donnywals.com/whats-the-difference-between-stateobject-and-observedobject/) from Donny Wals
+* [Customize your app’s Launch Screen using its Info Plist](https://wwdcbysundell.com/2020/launch-screen-info-plist/) from Kaya Thomas
+* [The UIKit views that now have built-in SwiftUI counterparts in iOS 14](https://wwdcbysundell.com/2020/uikit-views-that-now-have-swiftui-counterparts-in-ios14/) from WWDC by Sundell
+* [Scroll to Newly Added Item using ScrollViewReader and onChange Modifier in SwiftUI](https://lostmoa.com/blog/ScrollToNewlyAddedItemUsingScrollViewReaderAndOnChangeModifier/) from [Natalia Panferova](https://twitter.com/natpanferova)
+* [Add custom SwiftUI view to View Library with LibraryContentProvider](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/) from [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
+* [Use PinnedScrollableViews to make sticky headers](https://yoswift.dev/swiftui/pinnedScrollableViews/) from [Manoj Karki](https://twitter.com/mskarki)
+* [SwiftUI's Native Progress Views](https://nsscreencast.com/episodes/444-swiftui-native-progress-views) from NSScreencast (free video)
+* [AWS Amplify DataStore with SwiftUI 2.0 | Todo App](https://youtu.be/n1mV6m4xBF8) from [Kilo Loco](https://twitter.com/kilo_loco)
+* [SwiftUI Grids](https://nsscreencast.com/episodes/445-swiftui-grids) from NSScreencast (free video)
+* [Coloring SVG assets in SwiftUI](https://ericasadun.com/2020/06/25/coloring-svg-assets-in-swiftui/) from [Erica Sadun](https://twitter.com/ericasadun)
+* [How do I Add a Global Accent Color to a SwiftUI 1.0 Project?](https://www.bigmountainstudio.com/members/posts/27630-how-do-i-add-a-global-accent-color-to-a-swiftui-1-0-project) from [Mark Moeykens](https://twitter.com/bigmtnstudio)
+* [Build interactions using SceneKit and SwiftUI](https://munirwanis.github.io/blog/2020/wwdc20-scenekit-swiftui/) from [Munir Wanis](https://twitter.com/munirwanis)
 
 ## UIKit
+* [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
+* [Configure CollectionView Cells with UICollectionView.CellRegistration](https://www.donnywals.com/configure-collection-view-cells-with-uicollectionview-cellregistration/) from Donny Wals
+* [How to add custom swipe actions to a UICollectionViewListCell?](https://www.donnywals.com/how-to-add-custom-swipe-actions-to-a-uicollectionviewlistcell/) from Donny Wals
+* [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
+* [Checking out the new PHPickerViewController in iOS 14](https://nemecek.be/blog/30/checking-out-the-new-phpickerviewcontroller-in-ios-14-to-select-photos-or-videos) from [Filip Němeček](https://twitter.com/nemecek_f)
+
+## Xcode
+* [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
 
 ## AppKit
 
@@ -48,12 +77,24 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Combine
 * [Using custom publishers to drive SwiftUI views](https://www.donnywals.com/using-custom-publishers-to-drive-swiftui-views/) from Donny Wals
 
+## Networking
+* [Getting Ready for New iOS 14 Local Network Privacy Restrictions](https://lostmoa.com/blog/GettingReadyForNewiOS14LocalNetworkPrivacyRestrictions/) from [Natalia Panferova](https://twitter.com/natpanferova)
+
 ## ARKit
 * [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [AR Location Anchors in ARKit](https://medium.com/@ethansaadia/ar-location-anchors-in-arkit-4-9a7ca19652f5) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 
-## Machine Learning
+## App Clips
+* [App Clips: when is an app an app and when should it be a webpage?](https://ericasadun.com/2020/06/23/app-clips-when-is-an-app-an-app-and-when-should-it-be-a-webpage/) from [Erica Sadun](https://twitter.com/ericasadun)
+
+## Widgets
+* [Creating Your First SwiftUI Widget | iOS 14](https://youtu.be/wOrkcdeui4U) from [Kilo Loco](https://twitter.com/kilo_loco)
+
+## Default Apps
+* [The secret entitlements behind Default Apps on iOS](https://www.andyibanez.com/posts/default-apps-may-not-be-possible-all-devs/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
+
+## Core ML
 * [Machine Learning @ WWDC 2020](https://medium.com/@ethansaadia/machine-learning-wwdc-2020-519167b2678b) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 
 ## Wishlists
@@ -70,11 +111,22 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2020 Wishlist](https://blog.sindresorhus.com/wwdc-2020-wishlist-21844ded9a9d) from Sindre Sorhus
 * [Web Developer/Safari for iOS 14 Wishlist](https://christianoliff.com/blog/safari-ios14-wishlist) from Christian Oliff
 
+
+## Swift Playgrounds
+* [A playground feed for the WWDC Swan's Quest Playground Books](https://www.thecodehub.ie/playgrounds/) from The Code Hub -- this is an unofficial feed to make it easier to add the playgrounds to your iPad
+
 ## Misc
 
 * [WWDC20 Swift Student Challenge Submissions](https://wwdc.github.io/2020/)
 * [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
+* [Inferring the "D" in "WWDC"](https://mailchi.mp/6ba0b7dd3432/news-from-apples-developer-conference) from Daniel H Steinberg
 
+
+## Podcasts
+* [Swift News - WWDC 2020 Content, SwiftUI, AirBnB Calendar, Accessibility & More!](https://podcasts.apple.com/us/podcast/swift-news-wwdc-2020-content-swiftui-airbnb-calendar/id1426167395?i=1000479075929) from Sean Allen
+* [WWDC 2020 - Quick Thoughts](https://www.empowerapps.show/53) from Leo Dion
+* [WWDC 2020 First Impressions raywenderlich.com Livecast](https://www.raywenderlich.com/11081118-don-t-miss-our-wwdc-2020-livecast-june-22-9pm-edt)
+* [WWDC Debrief Livestream on Twitch (Tues-Fri 6/23-6/26 at 8 PM EDT)](https://twitch.tv/ferrousguy) from Ben Gohlke.
 
 <p>&nbsp;</p>
 
