@@ -92,6 +92,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Widgets
 * [Creating Your First SwiftUI Widget | iOS 14](https://youtu.be/wOrkcdeui4U) from [Kilo Loco](https://twitter.com/kilo_loco)
+* [Create a Tube Status Widget](https://medium.com/@oliverbinns/create-a-tube-status-home-screen-widget-for-ios-14-7f25f7a0a7e1) from [Oliver Binns](https://twitter.com/Oliver_Binns)
 
 ## Default Apps
 * [The secret entitlements behind Default Apps on iOS](https://www.andyibanez.com/posts/default-apps-may-not-be-possible-all-devs/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
