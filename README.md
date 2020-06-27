@@ -60,6 +60,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [How do I Add a Global Accent Color to a SwiftUI 1.0 Project?](https://www.bigmountainstudio.com/members/posts/27630-how-do-i-add-a-global-accent-color-to-a-swiftui-1-0-project) from [Mark Moeykens](https://twitter.com/bigmtnstudio)
 * [Build interactions using SceneKit and SwiftUI](https://munirwanis.github.io/blog/2020/wwdc20-scenekit-swiftui/) from [Munir Wanis](https://twitter.com/munirwanis)
 * [Building a Cash Flow App with Amplify DataStore and SwiftUI](https://aws.amazon.com/blogs/mobile/building-a-cash-flow-app-with-amplify-datastore-and-swiftui/) from [Kilo Loco](https://twitter.com/kilo_loco)
+* [A compositional wrapper around the new SwiftUI's Grid API](https://github.com/jVirus/grid-compositional-layout) from [Astemir Eleev](https://jvirus.github.io)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
