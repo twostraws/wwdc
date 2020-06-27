@@ -121,6 +121,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC20 Swift Student Challenge Submissions](https://wwdc.github.io/2020/)
 * [A Guide to Maximizing the Value of WWDC](https://www.hireappdeveloper.org/blog/A-Guide-to-Maximizing-the-Value-of-WWDC.html) from John M. P. Knox
 * [Inferring the "D" in "WWDC"](https://mailchi.mp/6ba0b7dd3432/news-from-apples-developer-conference) from Daniel H Steinberg
+* [WWDC Tracker](https://github.com/Matthewspear/WWDCTracker) from Matthew Spear
 
 
 ## Podcasts
