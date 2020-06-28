@@ -73,10 +73,6 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
 
-## AppKit
-
-## WatchKit
-
 ## Combine
 * [Using custom publishers to drive SwiftUI views](https://www.donnywals.com/using-custom-publishers-to-drive-swiftui-views/) from Donny Wals
 
