@@ -36,6 +36,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC20 SOTU Overview](https://swiftcompiled.com/wwdc20-whats-new-for-developers/) by Alex Brown (SwiftCompiled.com)
 * [WWDC20 Session Summaries](https://github.com/Blackjacx/WWDC) from Stefan Herold
 * [WWDC Notes](https://wwdcnotes.com) from the WWDC community
+* [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) from [Keith Harrison](https://useyourloaf.com)
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
