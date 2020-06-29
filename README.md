@@ -62,6 +62,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Building a Cash Flow App with Amplify DataStore and SwiftUI](https://aws.amazon.com/blogs/mobile/building-a-cash-flow-app-with-amplify-datastore-and-swiftui/) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [A compositional wrapper around the new SwiftUI's Grid API](https://github.com/jVirus/grid-compositional-layout) from [Astemir Eleev](https://jvirus.github.io)
 * [Multiplatform template to use the new Sidebar on macOS, iOS and iPadOS](https://github.com/Volker88/UniversalSwiftUISidebar) from [Volker Schmitt](https://github.com/Volker88)
+* [New property wrappers in SwiftUI](https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/) from Swift with Majid
 
 
 ## UIKit
