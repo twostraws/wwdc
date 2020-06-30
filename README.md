@@ -106,6 +106,9 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Core ML
 * [Machine Learning @ WWDC 2020](https://medium.com/@ethansaadia/machine-learning-wwdc-2020-519167b2678b) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 
+## Vision
+* [Vision Contour Detection](https://heartbeat.fritz.ai/new-in-ios-14-vision-contour-detection-68fd5849816e) from [Anupam Chugh](https://twitter.com/chughanupam)
+
 ## Wishlists
 
 * [My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer
