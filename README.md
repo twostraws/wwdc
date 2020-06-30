@@ -64,7 +64,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [A compositional wrapper around the new SwiftUI's Grid API](https://github.com/jVirus/grid-compositional-layout) from [Astemir Eleev](https://jvirus.github.io)
 * [Multiplatform template to use the new Sidebar on macOS, iOS and iPadOS](https://github.com/Volker88/UniversalSwiftUISidebar) from [Volker Schmitt](https://github.com/Volker88)
 * [New property wrappers in SwiftUI](https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/) from Swift with Majid
-
+* [Adding optional @Bindings to SwiftUI views](https://www.fivestars.blog/code/optional-binding.html) from [Federico Zanetello](http://twitter.com/zntfdr)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
