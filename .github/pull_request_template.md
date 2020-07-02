@@ -1,5 +1,5 @@
 ## Checklist
-* [ ] The links is freely available for everyone to read.
+* [ ] The link is freely available for everyone to read.
 * [ ] The link hasn't already been submitted.
 * [ ] I placed the link at the bottom of its category.
 * [ ] The link is in the correct format: `[Post name](link to post) from [Author name](optional author link)`. For example, `[My WWDC 2020 Wishlist](https://beckyhansmeyer.com/2020/05/13/my-wwdc-2020-wishlist/) from Becky Hansmeyer`.
