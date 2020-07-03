@@ -37,11 +37,13 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC20 Session Summaries](https://github.com/Blackjacx/WWDC) from Stefan Herold
 * [WWDC Notes](https://wwdcnotes.com) from the WWDC community
 * [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) from [Keith Harrison](https://useyourloaf.com)
+* [WWDC20](https://engineering.monstar-lab.com/2020/06/26/WWDC20-summary) from [Heidi Puk](https://twitter.com/HeidiPuk), Tom Müller, Jigna Patel and [Christian Weinberger](https://twitter.com/_cweinberger)
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
 * [Swift Package Testing](https://roundwallsoftware.com/swift-package-testing/) from Samuel at Roundwall Software
 * [Gosh Darn Multiple Trailing Closure Syntax](https://goshdarnmultipletrailingclosuresyntax.com) by [Prathamesh Kowarkar](https://twitter.com/prtmshk)
+* [What's new in Swift](https://engineering.monstar-lab.com/2020/06/29/Whats-new-in-Swift) from [Heidi Puk](https://twitter.com/HeidiPuk)
 
 ## SwiftUI
 * [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14) from Hacking with Swift
@@ -79,6 +81,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Checking out the new PHPickerViewController in iOS 14](https://nemecek.be/blog/30/checking-out-the-new-phpickerviewcontroller-in-ios-14-to-select-photos-or-videos) from [Filip Němeček](https://twitter.com/nemecek_f)
 * [Exploring the New UISegmentedControl Initializer Available in iOS 14](https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14) by [Prathamesh Kowarkar](https://twitter.com/prtmshk)
 * [UICollectionView Compositional List Layout | iOS 14 | UIKIt](https://youtu.be/5Q4KgyESHRA) from [Kilo Loco](https://twitter.com/kilo_loco)
+* [Privacy for Photos Access](https://engineering.monstar-lab.com/2020/06/29/Privacy-for-Photos-Access) from Jigna Patel
 
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
@@ -96,9 +99,11 @@ So, a number of us decided to start this repository to host links to various WWD
 * [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [AR Location Anchors in ARKit](https://medium.com/@ethansaadia/ar-location-anchors-in-arkit-4-9a7ca19652f5) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+* [A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features) from [Roxana Jula](https://twitter.com/RoxanaJula)
 
 ## App Clips
 * [App Clips: when is an app an app and when should it be a webpage?](https://ericasadun.com/2020/06/23/app-clips-when-is-an-app-an-app-and-when-should-it-be-a-webpage/) from [Erica Sadun](https://twitter.com/ericasadun)
+* [Introducing App Clips](https://engineering.monstar-lab.com/2020/06/26/Introducing-App-Clips) from Tom Müller
 
 ## Widgets
 * [Creating Your First SwiftUI Widget | iOS 14](https://youtu.be/wOrkcdeui4U) from [Kilo Loco](https://twitter.com/kilo_loco)
