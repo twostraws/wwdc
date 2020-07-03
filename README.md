@@ -72,6 +72,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/) from [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
 * [Backward Compatibility with SwiftUI](https://swiftui-lab.com/backward-compatibility) from [SwiftUI-Lab](https://swiftui-lab.com)
 * [The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI](https://swiftwithmajid.com/2020/07/02/the-difference-between-stateobject-environmentobject-and-observedobject-in-swiftui/) from Swift with Majid
+* [SwiftUI 2.0 Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) from SimpleBoilerplates
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
