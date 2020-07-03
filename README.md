@@ -140,6 +140,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Xcode Playgrounds and SwiftPM
 * [Playground workspaces for SwiftPM in Xcode 12](https://ericasadun.com/2020/07/03/my-xcopen-adventures-playground-workspaces/) from [Erica Sadun](https://twitter.com/ericasadun)
+* [Importing Web-based SwiftPM packages to your Xcode Playground](https://ericasadun.com/2020/07/03/importing-web-based-swiftpm-packages-to-your-xcode-playground/) from [Erica Sadun](https://twitter.com/ericasadun)
+
 
 ## Swift Playgrounds
 * [A playground feed for the WWDC Swan's Quest Playground Books](https://www.thecodehub.ie/playgrounds/) from The Code Hub -- this is an unofficial feed to make it easier to add the playgrounds to your iPad
