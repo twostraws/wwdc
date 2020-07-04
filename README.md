@@ -83,6 +83,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Exploring the New UISegmentedControl Initializer Available in iOS 14](https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14) by [Prathamesh Kowarkar](https://twitter.com/prtmshk)
 * [UICollectionView Compositional List Layout | iOS 14 | UIKIt](https://youtu.be/5Q4KgyESHRA) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [Privacy for Photos Access](https://engineering.monstar-lab.com/2020/06/29/Privacy-for-Photos-Access) from Jigna Patel
+* [iOS 14: Quick dive into the new UIColorWell](https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell) from [Filip Němeček](https://twitter.com/nemecek_f)
 
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
