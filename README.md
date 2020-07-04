@@ -94,12 +94,9 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Networking
 * [Getting Ready for New iOS 14 Local Network Privacy Restrictions](https://lostmoa.com/blog/GettingReadyForNewiOS14LocalNetworkPrivacyRestrictions/) from [Natalia Panferova](https://twitter.com/natpanferova)
 
-<<<<<<< HEAD
-=======
 ## Logging
 * [Explore Apple's new Swift logging API for iOS 14](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
 
->>>>>>> upstream/main
 ## WebKit
 * [iOS 14: What is new for WKWebView](https://nemecek.be/blog/32/ios-14-what-is-new-for-wkwebview) from [Filip Němeček](https://twitter.com/nemecek_f)
 
