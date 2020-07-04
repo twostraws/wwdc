@@ -36,10 +36,14 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC20 SOTU Overview](https://swiftcompiled.com/wwdc20-whats-new-for-developers/) by Alex Brown (SwiftCompiled.com)
 * [WWDC20 Session Summaries](https://github.com/Blackjacx/WWDC) from Stefan Herold
 * [WWDC Notes](https://wwdcnotes.com) from the WWDC community
+* [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) from [Keith Harrison](https://useyourloaf.com)
+* [WWDC20](https://engineering.monstar-lab.com/2020/06/26/WWDC20-summary) from [Heidi Puk](https://twitter.com/HeidiPuk), Tom Müller, Jigna Patel and [Christian Weinberger](https://twitter.com/_cweinberger)
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
 * [Swift Package Testing](https://roundwallsoftware.com/swift-package-testing/) from Samuel at Roundwall Software
+* [Gosh Darn Multiple Trailing Closure Syntax](https://goshdarnmultipletrailingclosuresyntax.com) by [Prathamesh Kowarkar](https://twitter.com/prtmshk)
+* [What's new in Swift](https://engineering.monstar-lab.com/2020/06/29/Whats-new-in-Swift) from [Heidi Puk](https://twitter.com/HeidiPuk)
 
 ## SwiftUI
 * [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14) from Hacking with Swift
@@ -62,7 +66,13 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Building a Cash Flow App with Amplify DataStore and SwiftUI](https://aws.amazon.com/blogs/mobile/building-a-cash-flow-app-with-amplify-datastore-and-swiftui/) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [A compositional wrapper around the new SwiftUI's Grid API](https://github.com/jVirus/grid-compositional-layout) from [Astemir Eleev](https://jvirus.github.io)
 * [Multiplatform template to use the new Sidebar on macOS, iOS and iPadOS](https://github.com/Volker88/UniversalSwiftUISidebar) from [Volker Schmitt](https://github.com/Volker88)
-
+* [New property wrappers in SwiftUI](https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/) from Swift with Majid
+* [Adding optional @Bindings to SwiftUI views](https://www.fivestars.blog/code/optional-binding.html) from [Federico Zanetello](http://twitter.com/zntfdr)
+* [SwiftUI Property wrappers - When to use @State, @Binding, @StateObject, and @ObservedObject](http://swiftuipropertywrappers.com) from Donny Wals
+* [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/) from [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
+* [Backward Compatibility with SwiftUI](https://swiftui-lab.com/backward-compatibility) from [SwiftUI-Lab](https://swiftui-lab.com)
+* [The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI](https://swiftwithmajid.com/2020/07/02/the-difference-between-stateobject-environmentobject-and-observedobject-in-swiftui/) from Swift with Majid
+* [SwiftUI 2.0 Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) from SimpleBoilerplates
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
@@ -71,6 +81,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
 * [Checking out the new PHPickerViewController in iOS 14](https://nemecek.be/blog/30/checking-out-the-new-phpickerviewcontroller-in-ios-14-to-select-photos-or-videos) from [Filip Němeček](https://twitter.com/nemecek_f)
 * [Exploring the New UISegmentedControl Initializer Available in iOS 14](https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14) by [Prathamesh Kowarkar](https://twitter.com/prtmshk)
+* [UICollectionView Compositional List Layout | iOS 14 | UIKIt](https://youtu.be/5Q4KgyESHRA) from [Kilo Loco](https://twitter.com/kilo_loco)
+* [Privacy for Photos Access](https://engineering.monstar-lab.com/2020/06/29/Privacy-for-Photos-Access) from Jigna Patel
+* [iOS 14: Quick dive into the new UIColorWell](https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell) from [Filip Němeček](https://twitter.com/nemecek_f)
 
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
@@ -81,6 +94,12 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Networking
 * [Getting Ready for New iOS 14 Local Network Privacy Restrictions](https://lostmoa.com/blog/GettingReadyForNewiOS14LocalNetworkPrivacyRestrictions/) from [Natalia Panferova](https://twitter.com/natpanferova)
 
+<<<<<<< HEAD
+=======
+## Logging
+* [Explore Apple's new Swift logging API for iOS 14](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
+
+>>>>>>> upstream/main
 ## WebKit
 * [iOS 14: What is new for WKWebView](https://nemecek.be/blog/32/ios-14-what-is-new-for-wkwebview) from [Filip Němeček](https://twitter.com/nemecek_f)
 
@@ -88,19 +107,26 @@ So, a number of us decided to start this repository to host links to various WWD
 * [ARKit @ WWDC 2020](https://medium.com/@ethansaadia/arkit-wwdc-2020-d08be2d48f01) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [Video Materials in RealityKit](https://medium.com/@ethansaadia/video-materials-in-realitykit-35038d3758d3) from [Ethan Saadia](https://twitter.com/EthanSaadia)
 * [AR Location Anchors in ARKit](https://medium.com/@ethansaadia/ar-location-anchors-in-arkit-4-9a7ca19652f5) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+* [A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features) from [Roxana Jula](https://twitter.com/RoxanaJula)
 
 ## App Clips
 * [App Clips: when is an app an app and when should it be a webpage?](https://ericasadun.com/2020/06/23/app-clips-when-is-an-app-an-app-and-when-should-it-be-a-webpage/) from [Erica Sadun](https://twitter.com/ericasadun)
+* [Introducing App Clips](https://engineering.monstar-lab.com/2020/06/26/Introducing-App-Clips) from Tom Müller
 
 ## Widgets
 * [Creating Your First SwiftUI Widget | iOS 14](https://youtu.be/wOrkcdeui4U) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [Create a Tube Status Widget](https://www.oliverbinns.co.uk/index.php/create-a-tube-status-home-screen-widget-for-ios-14/) from [Oliver Binns](https://twitter.com/Oliver_Binns)
+* [Getting Started With Widgets tutorial](https://www.raywenderlich.com/11303363-getting-started-with-widgets) from [raywenderlich.com](https://twitter.com/rwenderlich/)
+
 
 ## Default Apps
 * [The secret entitlements behind Default Apps on iOS](https://www.andyibanez.com/posts/default-apps-may-not-be-possible-all-devs/) from [Andy Ibanez](https://twitter.com/AndyIbanezK)
 
 ## Core ML
 * [Machine Learning @ WWDC 2020](https://medium.com/@ethansaadia/machine-learning-wwdc-2020-519167b2678b) from [Ethan Saadia](https://twitter.com/EthanSaadia)
+
+## Vision
+* [Vision Contour Detection](https://heartbeat.fritz.ai/new-in-ios-14-vision-contour-detection-68fd5849816e) from [Anupam Chugh](https://twitter.com/chughanupam)
 
 ## Wishlists
 
@@ -115,6 +141,10 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Swift Playgrounds and Reality Composer WWDC 2020 wish list](https://www.thecodehub.ie/news/2020/06/20/the-code-hubs-wwdc2020-wishlist/) from Matt Hanlon
 * [WWDC 2020 Wishlist](https://blog.sindresorhus.com/wwdc-2020-wishlist-21844ded9a9d) from Sindre Sorhus
 * [Web Developer/Safari for iOS 14 Wishlist](https://christianoliff.com/blog/safari-ios14-wishlist) from Christian Oliff
+
+## Xcode Playgrounds and SwiftPM
+* [Playground workspaces for SwiftPM in Xcode 12](https://ericasadun.com/2020/07/03/my-xcopen-adventures-playground-workspaces/) from [Erica Sadun](https://twitter.com/ericasadun)
+* [Importing Web-based SwiftPM packages to your Xcode Playground](https://ericasadun.com/2020/07/03/importing-web-based-swiftpm-packages-to-your-xcode-playground/) from [Erica Sadun](https://twitter.com/ericasadun)
 
 
 ## Swift Playgrounds
