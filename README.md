@@ -38,6 +38,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC Notes](https://wwdcnotes.com) from the WWDC community
 * [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) from [Keith Harrison](https://useyourloaf.com)
 * [WWDC20](https://engineering.monstar-lab.com/2020/06/26/WWDC20-summary) from [Heidi Puk](https://twitter.com/HeidiPuk), Tom Müller, Jigna Patel and [Christian Weinberger](https://twitter.com/_cweinberger)
+* [All WWDC 2020 Sessions in one Airtable base](https://airtable.com/shrBnfnUp4DpC6ktO/tblG1cvawBxvA6wUS) by [Gregory Berngardt](https://github.com/gregoryvit)
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
