@@ -149,6 +149,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Swift Playgrounds
 * [A playground feed for the WWDC Swan's Quest Playground Books](https://www.thecodehub.ie/playgrounds/) from The Code Hub -- this is an unofficial feed to make it easier to add the playgrounds to your iPad
+* [A series of videos walking you through the Swan's Quest playground books](https://www.thecodehub.ie/news/wwdc20-swans-quest/) from [The Code Hub](https://www.thecodehub.ie/)
 
 ## Misc
 
