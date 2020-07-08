@@ -77,6 +77,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Reusable Oboarding screens using new PageTabViewStyle](https://youtu.be/xMYAJv42SzA) on [Stewart Lynch's YouTube Channel](https://youtube.com/StewartLynch)
 * [Custom navigation bar title view in SwiftUI](https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/) from Sarun Wongpatcharapakorn
 * [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture](https://www.fivestars.blog/code/section-title-index-swiftui.html) from [Federico Zanetello](http://twitter.com/zntfdr)
+* [Mastering grids in SwiftUI](https://swiftwithmajid.com/2020/07/08/mastering-grids-in-swiftui/) from Swift with Majid
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
