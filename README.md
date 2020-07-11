@@ -168,6 +168,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2020 First Impressions raywenderlich.com Livecast](https://www.raywenderlich.com/11081118-don-t-miss-our-wwdc-2020-livecast-june-22-9pm-edt)
 * [WWDC Debrief Livestream on Twitch (Tues-Fri 6/23-6/26 at 8 PM EDT)](https://twitch.tv/ferrousguy) from Ben Gohlke.
 
+## Testing
+* [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/) from [Jon Reid](https://twitter.com/qcoding/)
+
 <p>&nbsp;</p>
 
 # How to contribute
