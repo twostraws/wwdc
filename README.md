@@ -79,7 +79,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture](https://www.fivestars.blog/code/section-title-index-swiftui.html) from [Federico Zanetello](http://twitter.com/zntfdr)
 * [Mastering grids in SwiftUI](https://swiftwithmajid.com/2020/07/08/mastering-grids-in-swiftui/) from Swift with Majid
 * [Gosh Darn SwiftUI: SwiftUI Cheat Sheet](https://goshdarnswiftui.com/) from Sarun Wongpatcharapakorn
-* [MatchedGeomtryEffect Part 1](https://swiftui-lab.com/matchedgeometryeffect-part1) and [Part 2](https://swiftui-lab.com/matchedgeometryeffect-part2) from [SwiftUI-Lab](https://swiftui-lab.com)
+* [MatchedGeometryEffect Part 1](https://swiftui-lab.com/matchedgeometryeffect-part1) and [Part 2](https://swiftui-lab.com/matchedgeometryeffect-part2) from [SwiftUI-Lab](https://swiftui-lab.com)
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
