@@ -7,7 +7,7 @@ The Apple development community is open and inclusive to everyone, and during WW
 
 So, a number of us decided to start this repository to host links to various WWDC events, news, and tutorials from around the community. That means this repo will contain links to events being organized around our community, plus content from SwiftUI Lab, Hacking with Swift, Donny Wals, Swift with Majid, and many more – and we would love to share *your* articles too.
 
-**Note:** As WWDC hasn’t started yet, many of the categories below will remain empty until Apple’s announcements. If you have links to add to one of the categories, please see [How to contribute](#how-to-contribute) below.
+**Note:** WWDC20 is now long over, so this repository is not accepting more links at this time. We will reopen and clear the decks shortly before WWDC21 – thank you so much for contributing!
 
 
 ## Events and Meetups
