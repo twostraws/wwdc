@@ -82,6 +82,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [MatchedGeometryEffect Part 1](https://swiftui-lab.com/matchedgeometryeffect-part1) and [Part 2](https://swiftui-lab.com/matchedgeometryeffect-part2) from [SwiftUI-Lab](https://swiftui-lab.com)
 * [SwiftUI Hierarchy List](https://www.fivestars.blog/code/swiftui-hierarchy-list.html) from [Federico Zanetello](http://twitter.com/zntfdr)
 * [Mastering toolbars in SwiftUI](https://swiftwithmajid.com/2020/07/15/mastering-toolbars-in-swiftui/) from Swift with Majid
+* [UIToolbar in SwiftUI](https://sarunw.com/posts/uitoolbar-in-swiftui/) from Sarun Wongpatcharapakorn
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
@@ -96,6 +97,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
+* [What should you know about a navigation history stack in iOS 14](https://sarunw.com/posts/what-should-you-know-about-navigation-history-stack-in-ios14/) from Sarun Wongpatcharapakorn
+* [SVG image assets supported in Xcode 12](https://sarunw.com/posts/svg-image-assets-supported-in-xcode12/) from Sarun Wongpatcharapakorn
 
 ## Combine
 * [Using custom publishers to drive SwiftUI views](https://www.donnywals.com/using-custom-publishers-to-drive-swiftui-views/) from Donny Wals
@@ -133,6 +136,9 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Vision
 * [Vision Contour Detection](https://heartbeat.fritz.ai/new-in-ios-14-vision-contour-detection-68fd5849816e) from [Anupam Chugh](https://twitter.com/chughanupam)
+
+## StoreKit
+* [Cross-promote apps with SKOverlay](https://sarunw.com/posts/cross-promote-apps-with-skoverlay/) from Sarun Wongpatcharapakorn
 
 ## Wishlists
 
