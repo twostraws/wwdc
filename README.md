@@ -83,6 +83,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [SwiftUI Hierarchy List](https://www.fivestars.blog/code/swiftui-hierarchy-list.html) from [Federico Zanetello](http://twitter.com/zntfdr)
 * [Mastering toolbars in SwiftUI](https://swiftwithmajid.com/2020/07/15/mastering-toolbars-in-swiftui/) from Swift with Majid
 * [UIToolbar in SwiftUI](https://sarunw.com/posts/uitoolbar-in-swiftui/) from Sarun Wongpatcharapakorn
+* [Sidebar navigation in SwiftUI](https://swiftwithmajid.com/2020/07/21/sidebar-navigation-in-swiftui/) from Swift with Majid
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
