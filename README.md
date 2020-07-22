@@ -137,6 +137,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Vision
 * [Vision Contour Detection](https://heartbeat.fritz.ai/new-in-ios-14-vision-contour-detection-68fd5849816e) from [Anupam Chugh](https://twitter.com/chughanupam)
+* [What's New In iOS 14 Vision Framework](https://heartbeat.fritz.ai/whats-new-in-the-vision-framework-in-ios-14-73d22a942ba5) from [Anupam Chugh](https://twitter.com/chughanupam)
 
 ## StoreKit
 * [Cross-promote apps with SKOverlay](https://sarunw.com/posts/cross-promote-apps-with-skoverlay/) from Sarun Wongpatcharapakorn
