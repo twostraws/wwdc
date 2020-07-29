@@ -85,6 +85,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [UIToolbar in SwiftUI](https://sarunw.com/posts/uitoolbar-in-swiftui/) from Sarun Wongpatcharapakorn
 * [Sidebar navigation in SwiftUI](https://swiftwithmajid.com/2020/07/21/sidebar-navigation-in-swiftui/) from Swift with Majid
 * [Impossible Grids with SwiftUI](https://swiftui-lab.com/impossible-grids) from [SwiftUI-Lab](https://swiftui-lab.com)
+* [Using MapKit with SwiftUI](https://swiftwithmajid.com/2020/07/29/using-mapkit-with-swiftui/) from Swift with Majid
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
