@@ -35,6 +35,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2021 Wishes](https://www.caseyliss.com/2021/5/11/wwdc-wishes) by Casey Liss
 * [SwiftUI wishlist for WWDC21](https://swiftwithmajid.com/2021/05/26/swiftui-wishlist-for-wwdc21/) from Majid Jabrayilov
 * [Wishes for WWDC 2021](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/) by Becky Hansmeyer
+* [WWDC 2021 Predictions](https://twitter.com/martinho_t) by Tiago Martinho
 
 
 ## SwiftUI
