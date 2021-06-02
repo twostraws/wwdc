@@ -29,6 +29,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Misc
 
 * [WWDC21 Swift Student Challenge Submissions](https://github.com/wwdc/2021)
+* [The iOS Developer's guide to WWDC 2021](https://www.donnywals.com/the-ios-developers-guide-to-wwdc-2021/) by Donny Wals
 
 
 ## Wishlists
