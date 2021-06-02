@@ -32,6 +32,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [WWDC21 Swift Student Challenge Submissions](https://github.com/wwdc/2021)
 * [The iOS Developer's guide to WWDC 2021](https://www.donnywals.com/the-ios-developers-guide-to-wwdc-2021/) by Donny Wals
+* [WWDC Scholarship Projects](https://github.com/TurkishKit/WWDC-Projeleri)
 
 
 ## Wishlists
@@ -42,6 +43,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [The Code Hub's WWDC 2021 Wish List](https://www.thecodehub.ie/news/2021/05/31/wwdc21-wish-list/) from Matt Hanlon
 * [WWDC 2021 Predictions](https://twitter.com/martinho_t) by Tiago Martinho
 * [WWDC21 Expectations interview playlist](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
+* [Dear iPad](https://medium.com/geekculture/dear-ipad-6bcd8b2a81d7)
 
 
 ## SwiftUI
