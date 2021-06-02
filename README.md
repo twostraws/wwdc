@@ -109,6 +109,7 @@ We are:
 - [Donny Wals](https://twitter.com/donnywals)
 - [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
 - [Kristaps Grinbergs](https://twitter.com/fassko)
+- [tundsdev](https://twitter.com/tundsdev)
 
 If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
