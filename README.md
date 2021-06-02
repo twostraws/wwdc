@@ -18,7 +18,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Women in Swift Meetup](https://www.eventbrite.com/e/women-in-swift-meetup-tickets-157111852781)
 * [Pride in Swift Meetup](https://www.eventbrite.com/e/pride-in-swift-meetup-tickets-157116013225)
 * [Diversity in Swift Meetup](https://www.eventbrite.com/e/diversity-in-swift-meetup-tickets-157262096163)
-* [Post-WWDC Expectations v Reality live discussion] (https://www.bitrise.io/webinar/wwdc2021-recap-panel-discussion)
+* [Post-WWDC Expectations v Reality live discussion](https://www.bitrise.io/webinar/wwdc2021-recap-panel-discussion)
 
 ## Offers
 
@@ -35,7 +35,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2021 Wishes](https://www.caseyliss.com/2021/5/11/wwdc-wishes) by Casey Liss
 * [SwiftUI wishlist for WWDC21](https://swiftwithmajid.com/2021/05/26/swiftui-wishlist-for-wwdc21/) from Majid Jabrayilov
 * [Wishes for WWDC 2021](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/) by Becky Hansmeyer
-* [WWDC21 Expectations interview playlist] (https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
+* [The Code Hub's WWDC 2021 Wish List](https://www.thecodehub.ie/news/2021/05/31/wwdc21-wish-list/) from Matt Hanlon
+* [WWDC 2021 Predictions](https://twitter.com/martinho_t) by Tiago Martinho
+* [WWDC21 Expectations interview playlist](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
 
 
 ## SwiftUI
