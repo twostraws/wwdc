@@ -41,7 +41,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [The Code Hub's WWDC 2021 Wish List](https://www.thecodehub.ie/news/2021/05/31/wwdc21-wish-list/) from Matt Hanlon
 * [WWDC 2021 Predictions](https://twitter.com/martinho_t) by Tiago Martinho
 * [WWDC21 Expectations interview playlist](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
-
+* [FIVE STARS's WWDC21 Wishlist](https://www.fivestars.blog/articles/wwdc21-wishlist/) by Federico Zanetello
 
 ## SwiftUI
 
