@@ -45,6 +45,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2021 Predictions](https://twitter.com/martinho_t) by Tiago Martinho
 * [WWDC21 Expectations interview playlist](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
 * [FIVE STARS's WWDC21 Wishlist](https://www.fivestars.blog/articles/wwdc21-wishlist/) by Federico Zanetello
+* [WWDC21 Wishlist](https://world.hey.com/jasonm/wwdc21-wishlist-1b13bdb9) by Jason Mitchell
 
 ## SwiftUI
 
