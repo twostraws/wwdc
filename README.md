@@ -26,6 +26,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 * [Save 20% on Practical Combine and Practical Core Data](https://www.donnywals.com/wwdc-2021-booksale/)
 * [Save 20% on Adaptivity developer tool for iOS and Mac Catalyst](https://apps.apple.com/app/id1054670022)
+* [Save 30-40% on all Sean Allen iOS Development Video Courses](https://seanallen.teachable.com/)
 
 
 ## Misc
