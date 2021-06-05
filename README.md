@@ -20,6 +20,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Diversity in Swift Meetup](https://www.eventbrite.com/e/diversity-in-swift-meetup-tickets-157262096163)
 * [Post-WWDC Expectations v Reality live discussion](https://www.bitrise.io/webinar/wwdc2021-recap-panel-discussion)
 * [WWDC First Impressions Livecast, Early Registration](https://us02web.zoom.us/webinar/register/WN_Rljgpr44Twag3K9BbM3kuw)
+* [Fireside Swift Podcast - WWDC21 live episode with Sean Allen](https://www.firesideswift.com/wwdc21)
 
 ## Offers
 
