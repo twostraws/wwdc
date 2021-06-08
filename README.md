@@ -68,6 +68,10 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
 
+## Augmented Reality
+
+* [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by Ethan Saadia
+
 
 <p>&nbsp;</p>
 
