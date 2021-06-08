@@ -64,6 +64,10 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [Thoughts on Combine in an async/await world](https://www.donnywals.com/thoughts-on-combine-in-an-async-await-world/) by Donny Wals
 
+## Foundation
+
+* [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
+
 
 <p>&nbsp;</p>
 
