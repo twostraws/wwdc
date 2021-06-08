@@ -25,6 +25,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## SwiftUI
 
 * [What’s new in SwiftUI for iOS 15](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15) by Paul Hudson
+* [What is new in SwiftUI after WWDC21](https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/) by Majid Jabrayilov
 
 
 ## Offers
