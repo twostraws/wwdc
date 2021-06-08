@@ -22,6 +22,11 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC First Impressions Livecast, Early Registration](https://us02web.zoom.us/webinar/register/WN_Rljgpr44Twag3K9BbM3kuw)
 * [Fireside Swift Podcast - WWDC21 live episode with Sean Allen](https://www.firesideswift.com/wwdc21)
 
+## SwiftUI
+
+* [What’s new in SwiftUI for iOS 15](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15) by Paul Hudson
+
+
 ## Offers
 
 * [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
@@ -49,8 +54,6 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC21 Expectations interview playlist](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
 * [FIVE STARS's WWDC21 Wishlist](https://www.fivestars.blog/articles/wwdc21-wishlist/) by Federico Zanetello
 * [WWDC21 Wishlist](https://world.hey.com/jasonm/wwdc21-wishlist-1b13bdb9) by Jason Mitchell
-
-## SwiftUI
 
 ## UIKit
 
