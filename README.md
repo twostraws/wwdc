@@ -59,6 +59,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## UIKit
 
+* [Big improvements to UIButton in iOS 15](https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15) by Filip Němeček
+
 ## Xcode
 
 ## Combine
