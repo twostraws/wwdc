@@ -74,9 +74,9 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Augmented Reality
 
-* [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by Ethan Saadia
+* [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by [Ethan Saadia](https://twitter.com/ethansaadia)
 * [WWDC21 - A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features) by [Roxana Jula](https://twitter.com/RoxanaJula)
-* [What's New in RealityKit 2](https://codrs.tumblr.com/post/653488487287439360/sketchnoting-dive-into-realitykit-2) by Ethan Saadia
+* [What's New in RealityKit 2](https://codrs.tumblr.com/post/653488487287439360/sketchnoting-dive-into-realitykit-2) by [Ethan Saadia](https://twitter.com/ethansaadia)
 ## Podcasts
 * [EmpowerApps.Show - WWDC 2021 - Platforms State of the Union with Peter Witham](https://share.transistor.fm/s/ace13930) by Leo Dion
 
