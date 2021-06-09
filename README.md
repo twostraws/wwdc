@@ -46,6 +46,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Summaries
 * [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
+* [WWDC21 – Initial Thoughts](https://matthallatt.wordpress.com/2021/06/08/wwdc21-initial-thoughts/) by Matt Hallatt
 
 ## Wishlists
 
