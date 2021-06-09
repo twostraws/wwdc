@@ -74,7 +74,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Augmented Reality
 
 * [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by Ethan Saadia
-
+* [WWDC21 - A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features) by [Roxana Jula](https://twitter.com/RoxanaJula)
 
 <p>&nbsp;</p>
 
