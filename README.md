@@ -26,6 +26,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [What’s new in SwiftUI for iOS 15](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15) by Paul Hudson
 * [What is new in SwiftUI after WWDC21](https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/) by Majid Jabrayilov
+* [What's new in SwiftUI](https://www.fivestars.blog/articles/swiftui-wwdc21/) by Federico Zanetello
 
 
 ## Offers
@@ -58,6 +59,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## UIKit
 
+* [Big improvements to UIButton in iOS 15](https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15) by Filip Němeček
+
 ## Xcode
 
 ## Combine
@@ -67,6 +70,11 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Foundation
 
 * [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
+
+## Augmented Reality
+
+* [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by Ethan Saadia
+* [WWDC21 - A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features) by [Roxana Jula](https://twitter.com/RoxanaJula)
 
 ## Podcasts
 * [EmpowerApps.Show - WWDC 2021 - Platforms State of the Union with Peter Witham](https://share.transistor.fm/s/ace13930) by Leo Dion
