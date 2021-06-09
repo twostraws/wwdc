@@ -68,6 +68,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
 
+## Podcasts
+* [EmpowerApps.Show - WWDC 2021 - Platforms State of the Union with Peter Witham](https://share.transistor.fm/s/ace13930)
 
 <p>&nbsp;</p>
 
