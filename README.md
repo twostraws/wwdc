@@ -46,6 +46,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [The iOS Developer's guide to WWDC 2021](https://www.donnywals.com/the-ios-developers-guide-to-wwdc-2021/) by Donny Wals
 
 ## Summaries
+
 * [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
 * [WWDC21 – Initial Thoughts](https://matthallatt.wordpress.com/2021/06/08/wwdc21-initial-thoughts/) by Matt Hallatt
 
@@ -66,6 +67,8 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Meet the new bottom sheet in iOS 15](https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15) by Filip Němeček
 
 ## Xcode
+
+* [What's New in Xcode 13](https://youtu.be/8OIyptQpzMQ) by Sean Allen
 
 ## Combine
 
