@@ -77,6 +77,10 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [What's New in Xcode 13](https://youtu.be/8OIyptQpzMQ) by Sean Allen
 
+## Notifications
+
+* [iOS Notification Changes & Updates from Apple’s WWDC ‘21](https://onesignal.com/blog/ios-notification-changes-updates-from-apples-wwdc-21/) by Elliot Mawby and Eva Wei 
+
 
 ## Misc
 
