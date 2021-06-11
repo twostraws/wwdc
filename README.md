@@ -77,6 +77,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Foundation
 
 * [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
+* [Attributed Strings](https://matthallatt.wordpress.com/2021/06/11/attributed-strings/) by Matt Hallatt
 
 ## Augmented Reality
 
