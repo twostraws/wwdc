@@ -82,6 +82,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [WWDC21 Swift Student Challenge Submissions](https://github.com/wwdc/2021)
 * [The iOS Developer's guide to WWDC 2021](https://www.donnywals.com/the-ios-developers-guide-to-wwdc-2021/) by Donny Wals
+* [The wonders of async/await in iOS](https://blog.moove-it.com/the-wonders-of-async-await-in-ios/) by Maite Mañana
 
 
 ## Offers
