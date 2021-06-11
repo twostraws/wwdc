@@ -87,6 +87,10 @@ So, a number of us decided to start this repository to host links to various WWD
 * [EmpowerApps.Show - WWDC 2021 - Platforms State of the Union with Peter Witham](https://share.transistor.fm/s/ace13930) by Leo Dion
 * [CompileSwift - WWDC 2021 - Keynote with Leo Dion](https://anchor.fm/compileswift/episodes/WWDC21-Keynote-reactions-with-Leo-Dion-e12dgqf) by Peter Witham
 
+## Core Location UI
+
+[Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
+
 
 <p>&nbsp;</p>
 
