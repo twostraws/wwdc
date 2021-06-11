@@ -22,6 +22,18 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC First Impressions Livecast, Replay Now Available](https://www.raywenderlich.com/24751268-wwdc-2021-first-impressions-livecast)
 * [Fireside Swift Podcast - WWDC21 live episode with Sean Allen](https://www.firesideswift.com/wwdc21)
 
+
+## Summaries
+
+* [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
+* [WWDC21 – Initial Thoughts](https://matthallatt.wordpress.com/2021/06/08/wwdc21-initial-thoughts/) by Matt Hallatt
+
+
+## Podcasts
+* [EmpowerApps.Show - WWDC 2021 - Platforms State of the Union with Peter Witham](https://share.transistor.fm/s/ace13930) by Peter Witham
+* [CompileSwift - WWDC 2021 - Keynote with Leo Dion](https://anchor.fm/compileswift/episodes/WWDC21-Keynote-reactions-with-Leo-Dion-e12dgqf) by Leo Dion
+
+
 ## SwiftUI
 
 * [What’s new in SwiftUI for iOS 15](https://www.hackingwithswift.com/articles/235/whats-new-in-swiftui-for-ios-15) by Paul Hudson
@@ -31,6 +43,47 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Pull to refresh in SwiftUI with refreshable](https://sarunw.com/posts/pull-to-refresh-in-swiftui/) by Sarun Wongpatcharapakorn
 * [SwiftUI List Bindings - Behind the Scenes](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/) by [Peter Friese](https://twitter.com/peterfriese)
 
+
+## UIKit
+
+* [Big improvements to UIButton in iOS 15](https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15) by Filip Němeček
+* [Meet the new bottom sheet in iOS 15](https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15) by Filip Němeček
+
+
+## Augmented Reality
+
+* [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by [Ethan Saadia](https://twitter.com/ethansaadia)
+* [WWDC21 - A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features) by [Roxana Jula](https://twitter.com/RoxanaJula)
+* [What's New in RealityKit 2](https://codrs.tumblr.com/post/653488487287439360/sketchnoting-dive-into-realitykit-2) by [Ethan Saadia](https://twitter.com/ethansaadia)
+
+
+## Combine
+
+* [Thoughts on Combine in an async/await world](https://www.donnywals.com/thoughts-on-combine-in-an-async-await-world/) by Donny Wals
+
+
+## CoreLocationUI
+
+[Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
+
+
+## Foundation
+
+* [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
+* [Attributed Strings](https://matthallatt.wordpress.com/2021/06/11/attributed-strings/) by Matt Hallatt
+
+
+## Xcode
+
+* [What's New in Xcode 13](https://youtu.be/8OIyptQpzMQ) by Sean Allen
+
+
+## Misc
+
+* [WWDC21 Swift Student Challenge Submissions](https://github.com/wwdc/2021)
+* [The iOS Developer's guide to WWDC 2021](https://www.donnywals.com/the-ios-developers-guide-to-wwdc-2021/) by Donny Wals
+
+
 ## Offers
 
 * [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
@@ -39,16 +92,6 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 30-40% on all Sean Allen iOS Development Video Courses](https://seanallen.teachable.com/)
 * [Save $42 on the annual plan for CWC+, by CodeWithChris](https://cwc.to/unicorn)
 
-
-## Misc
-
-* [WWDC21 Swift Student Challenge Submissions](https://github.com/wwdc/2021)
-* [The iOS Developer's guide to WWDC 2021](https://www.donnywals.com/the-ios-developers-guide-to-wwdc-2021/) by Donny Wals
-
-## Summaries
-
-* [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
-* [WWDC21 – Initial Thoughts](https://matthallatt.wordpress.com/2021/06/08/wwdc21-initial-thoughts/) by Matt Hallatt
 
 ## Wishlists
 
@@ -61,39 +104,8 @@ So, a number of us decided to start this repository to host links to various WWD
 * [FIVE STARS's WWDC21 Wishlist](https://www.fivestars.blog/articles/wwdc21-wishlist/) by Federico Zanetello
 * [WWDC21 Wishlist](https://world.hey.com/jasonm/wwdc21-wishlist-1b13bdb9) by Jason Mitchell
 
-## UIKit
-
-* [Big improvements to UIButton in iOS 15](https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15) by Filip Němeček
-* [Meet the new bottom sheet in iOS 15](https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15) by Filip Němeček
-
-## Xcode
-
-* [What's New in Xcode 13](https://youtu.be/8OIyptQpzMQ) by Sean Allen
-
-## Combine
-
-* [Thoughts on Combine in an async/await world](https://www.donnywals.com/thoughts-on-combine-in-an-async-await-world/) by Donny Wals
-
-## Foundation
-
-* [New approach to formatters in iOS 15](https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15) by Filip Němeček
-* [Attributed Strings](https://matthallatt.wordpress.com/2021/06/11/attributed-strings/) by Matt Hallatt
-
-## Augmented Reality
-
-* [Augmented Reality at WWDC 2021](https://ethansaadia.medium.com/augmented-reality-wwdc-2021-1a556046f27b) by [Ethan Saadia](https://twitter.com/ethansaadia)
-* [WWDC21 - A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features) by [Roxana Jula](https://twitter.com/RoxanaJula)
-* [What's New in RealityKit 2](https://codrs.tumblr.com/post/653488487287439360/sketchnoting-dive-into-realitykit-2) by [Ethan Saadia](https://twitter.com/ethansaadia)
-## Podcasts
-* [EmpowerApps.Show - WWDC 2021 - Platforms State of the Union with Peter Witham](https://share.transistor.fm/s/ace13930) by Leo Dion
-* [CompileSwift - WWDC 2021 - Keynote with Leo Dion](https://anchor.fm/compileswift/episodes/WWDC21-Keynote-reactions-with-Leo-Dion-e12dgqf) by Peter Witham
-
-## Core Location UI
-
-[Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
-
-
 <p>&nbsp;</p>
+
 
 # How to contribute
 
