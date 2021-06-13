@@ -64,7 +64,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## CoreLocationUI
 
-[Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
+* [Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
 
 
 ## Foundation
@@ -80,6 +80,10 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Notifications
 
 * [iOS Notification Changes & Updates from Apple’s WWDC ‘21](https://onesignal.com/blog/ios-notification-changes-updates-from-apples-wwdc-21/) by Elliot Mawby and Eva Wei 
+
+## Safari & WebKit
+
+* [SFSafariViewController improvements in iOS 15](https://nemecek.be/blog/110/sfsafariviewcontroller-improvements-in-ios-15) by Filip Němeček
 
 
 ## Misc
