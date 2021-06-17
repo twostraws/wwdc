@@ -48,6 +48,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [Big improvements to UIButton in iOS 15](https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15) by Filip Němeček
 * [Meet the new bottom sheet in iOS 15](https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15) by Filip Němeček
+* [A new way to style UIButton with UIButton.Configuration in iOS 15](https://sarunw.com/posts/new-way-to-style-uibutton-in-ios15/) by Sarun Wongpatcharapakorn
 
 
 ## Augmented Reality
