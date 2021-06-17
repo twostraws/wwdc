@@ -84,6 +84,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Safari & WebKit
 
 * [SFSafariViewController improvements in iOS 15](https://nemecek.be/blog/110/sfsafariviewcontroller-improvements-in-ios-15) by Filip Němeček
+* [WKWebView improvements in iOS 15](https://nemecek.be/blog/111/wkwebview-improvements-in-ios-15) by Filip Němeček
 
 
 ## Misc
