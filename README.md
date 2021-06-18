@@ -42,6 +42,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Building a music recognization app in SwiftUI with ShazamKit](https://swapnanildhol.medium.com/building-a-music-recognization-app-in-swiftui-with-shazamkit-7cab76407d10) by Swapnanil Dhol
 * [Pull to refresh in SwiftUI with refreshable](https://sarunw.com/posts/pull-to-refresh-in-swiftui/) by Sarun Wongpatcharapakorn
 * [SwiftUI List Bindings - Behind the Scenes](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/) by [Peter Friese](https://twitter.com/peterfriese)
+* [How to control safe area insets in SwiftUI](https://www.fivestars.blog/articles/safe-area-insets/) by Federico Zanetello
 
 
 ## UIKit
