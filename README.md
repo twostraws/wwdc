@@ -43,6 +43,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Pull to refresh in SwiftUI with refreshable](https://sarunw.com/posts/pull-to-refresh-in-swiftui/) by Sarun Wongpatcharapakorn
 * [SwiftUI List Bindings - Behind the Scenes](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/) by [Peter Friese](https://twitter.com/peterfriese)
 * [How to control safe area insets in SwiftUI](https://www.fivestars.blog/articles/safe-area-insets/) by Federico Zanetello
+* [Mastering search in SwiftUI](https://swiftwithmajid.com/2021/06/23/mastering-search-in-swiftui/) by Majid Jabrayilov
 
 
 ## UIKit
