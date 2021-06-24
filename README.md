@@ -69,6 +69,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## CoreLocationUI
 
 * [Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
+* [A better way to ask for a one-time user's location with the Location Button](https://sarunw.com/posts/location-button/) by Sarun Wongpatcharapakorn
 
 
 ## Foundation
