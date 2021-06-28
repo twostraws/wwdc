@@ -81,6 +81,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Xcode
 
 * [What's New in Xcode 13](https://youtu.be/8OIyptQpzMQ) by Sean Allen
+* [Adding a Swift Package Dependency in Xcode 13](https://iiroalhonen.medium.com/adding-a-swift-package-dependency-in-xcode-13-937b2caaf218?sk=a3105e3ea11968cd0752047d8b5fa561) by Iiro Alhonen
 
 ## Notifications
 
