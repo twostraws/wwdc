@@ -44,7 +44,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [SwiftUI List Bindings - Behind the Scenes](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/) by [Peter Friese](https://twitter.com/peterfriese)
 * [How to control safe area insets in SwiftUI](https://www.fivestars.blog/articles/safe-area-insets/) by Federico Zanetello
 * [Mastering search in SwiftUI](https://swiftwithmajid.com/2021/06/23/mastering-search-in-swiftui/) by Majid Jabrayilov
-
+* [Highlights of SwiftUI Release 3](https://rudrank.blog/highlights-swiftui-3) by Rudrank Riyam
 
 ## UIKit
 
