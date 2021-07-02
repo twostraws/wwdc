@@ -46,6 +46,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Mastering search in SwiftUI](https://swiftwithmajid.com/2021/06/23/mastering-search-in-swiftui/) by Majid Jabrayilov
 * [Highlights of SwiftUI Release 3](https://rudrank.blog/highlights-swiftui-3) by Rudrank Riyam
 * [The many faces of button in SwiftUI](https://swiftwithmajid.com/2021/06/30/the-many-faces-of-button-in-swiftui/) by Majid Jabrayilov
+* [SwiftUI patterns evolution: view builders](https://www.fivestars.blog/articles/swiftui-patterns-view-builders/), by Federico Zanetello
 
 ## UIKit
 
