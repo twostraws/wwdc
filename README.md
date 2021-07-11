@@ -73,6 +73,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Core Location UI: New way to get one-time location](https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location) by Filip Němeček
 * [A better way to ask for a one-time user's location with the Location Button](https://sarunw.com/posts/location-button/) by Sarun Wongpatcharapakorn
 
+## CreateML
+
+* [ML recommendation app with Create ML on iOS 15](https://martinmitrevski.com/2021/07/11/ml-recommendation-app-with-create-ml-on-ios-15/) by Martin Mitrevski
 
 ## Foundation
 
