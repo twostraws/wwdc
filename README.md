@@ -95,6 +95,10 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WKWebView improvements in iOS 15](https://nemecek.be/blog/111/wkwebview-improvements-in-ios-15) by Filip Němeček
 
 
+## Testing
+
+* [WWDC21: What’s New in Unit Testing for Xcode 12.5](https://qualitycoding.org/wwdc21-unit-testing/) by Jon Reid
+
 ## Misc
 
 * [WWDC21 Swift Student Challenge Submissions](https://github.com/wwdc/2021)
