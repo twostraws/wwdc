@@ -47,6 +47,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Highlights of SwiftUI Release 3](https://rudrank.blog/highlights-swiftui-3) by Rudrank Riyam
 * [The many faces of button in SwiftUI](https://swiftwithmajid.com/2021/06/30/the-many-faces-of-button-in-swiftui/) by Majid Jabrayilov
 * [SwiftUI patterns evolution: view builders](https://www.fivestars.blog/articles/swiftui-patterns-view-builders/), by Federico Zanetello
+* [Displaying Markdown using SwiftUI](https://iiroalhonen.medium.com/displaying-markdown-using-swiftui-e16131a9dc52?sk=95bb3822494bbcfbc4bfaa99e4f7994f), by Iiro Alhonen
 
 ## UIKit
 
