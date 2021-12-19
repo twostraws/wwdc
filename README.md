@@ -88,6 +88,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [What's New in Xcode 13](https://youtu.be/8OIyptQpzMQ) by Sean Allen
 * [Adding a Swift Package Dependency in Xcode 13](https://iiroalhonen.medium.com/adding-a-swift-package-dependency-in-xcode-13-937b2caaf218?sk=a3105e3ea11968cd0752047d8b5fa561) by Iiro Alhonen
+* [Getting Started With Xcode Cloud](https://iiroalhonen.medium.com/f929bd1ef3b0?sk=66ceac3d49a143e62f44d22246039d8f) by Iiro Alhonen
 
 ## Notifications
 
