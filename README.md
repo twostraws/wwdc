@@ -104,7 +104,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 This repository has a number of “official” contributors who are posting links to their work and events here and are also able to merge pull requests. But it’s completely open for everyone to contribute articles, videos, tips, and more, from any source.
 
-So, if you’ve written about something new from WWDC21, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC21 – we want to represent the full spectrum of voices in our community.
+So, if you’ve written about something new from WWDC22, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC22 – we want to represent the full spectrum of voices in our community.
 
 Please check that:
 
