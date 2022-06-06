@@ -11,7 +11,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Events and Meetups
 
 * [Beyond WWDC Page Events](https://developer.apple.com/wwdc22/beyond-wwdc/) - Events listed on Apple's website.
-* [WWDCCommunity](https://wwdc.community/events) - Events made by the community.
+* [WWDCCommunity](https://wwdc.community/events) - Events made by the community - watch parties, hackathon, daily recap and more.
 
 
 
