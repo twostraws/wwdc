@@ -22,6 +22,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 
 ## Podcasts
+* [WWDC 2022 First Impressions Livecast](https://www.raywenderlich.com/34291068-don-t-miss-our-wwdc-2022-livecast-june-6-9pm-edt) Join Dru, Susannah and other members of the RayWenderlich.com community as we discuss the keynote, developer state of the union and perhaps the design awards too!
+
 
 
 
