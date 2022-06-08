@@ -22,7 +22,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 
 ## Podcasts
-* [WWDC 2022 First Impressions Livecast](https://www.raywenderlich.com/34291068-don-t-miss-our-wwdc-2022-livecast-june-6-9pm-edt) from RayWenderlich.com.
+* [WWDC 2022 First Impressions Livecast](https://www.raywenderlich.com/34461858-wwdc-2022-first-impressions-livecast) from RayWenderlich.com.
 
 
 
