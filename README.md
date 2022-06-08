@@ -63,7 +63,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 
 ## Xcode
-
+* [Meet Developer Mode; a required option to run Xcode projects on physical devices in iOS 16](https://blog.makwanbk.com/meet-developer-mode-a-required-option-to-run-xcode-projects-on-physical-devices-in-ios-16) from Makwan Barzan.
 
 
 
