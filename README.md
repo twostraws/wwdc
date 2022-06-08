@@ -92,6 +92,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 * [Save 30% on all Sean Allen iOS Development Video Courses](https://seanallen.teachable.com/)
+* [Save 30% on ImpressKit subscription for the first year (code WWDC22)](https://impresskit.net/page/wwdc-22-discount)
 
 
 
