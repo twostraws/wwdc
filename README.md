@@ -1,4 +1,3 @@
-
 <p align="center">
     <img src="https://www.hackingwithswift.com/files/wwdc/wwdc-community.png" alt="WWDC Community logo" width="600" />
 </p>
@@ -7,6 +6,9 @@ The Apple development community is open and inclusive to everyone, and during WW
 
 So, a number of us decided to start this repository to host links to various WWDC events, news, and tutorials from around the community. That means this repo will contain links to events being organized around our community, plus content from SwiftUI Lab, Hacking with Swift, Donny Wals, Swift with Majid, and many more – and we would love to share *your* articles too.
 
+## Tips
+
+* [WWDCTips from the Community - Video](https://www.youtube.com/watch?v=SvrxJtpQDcU)
 
 ## Events and Meetups
 
