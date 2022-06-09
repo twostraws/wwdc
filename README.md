@@ -37,7 +37,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 
 ## UIKit
-
+* [How to configure UIKit bottom sheet with custom size](https://nemecek.be/blog/159/how-to-configure-uikit-bottom-sheet-with-custom-size) from [Filip Němeček](https://twitter.com/nemecek_f)
 
 
 ## Augmented Reality
