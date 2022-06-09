@@ -31,6 +31,9 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## SwiftUI
 
+* [Overview of the New SwiftUI Navigation APIs](https://nilcoalescing.com/blog/SwiftUINavigation2022/) from [Natalia Panferova](https://twitter.com/natpanferova)
+* [Build and Style a Chart with the New Swift Charts Framework](https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework/) from [Matthaus Woolard](https://twitter.com/hishnash)
+
 
 
 ## UIKit
