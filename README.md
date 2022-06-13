@@ -15,13 +15,13 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Beyond WWDC Page Events](https://developer.apple.com/wwdc22/beyond-wwdc/) - Events listed on Apple's website.
 * [WWDCCommunity](https://wwdc.community/events) - Events made by the community - watch parties, hackathon, daily recap and more.
 
-
-
 ## Summaries
 
 * [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
 
+## Digital Lounge Archives
 
+* [SwiftUI-Lounge](https://midnight-beanie-ccb.notion.site/swiftui-lounge-wwdc22-e20094b91f074398ba395c3fa245e63d) by [Bardi Golriz](https://twitter.com/mtrostyle)
 
 ## Podcasts
 * [WWDC 2022 First Impressions Livecast](https://www.raywenderlich.com/34461858-wwdc-2022-first-impressions-livecast) from RayWenderlich.com.
