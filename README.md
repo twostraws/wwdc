@@ -6,28 +6,21 @@ The Apple development community is open and inclusive to everyone, and during WW
 
 So, a number of us decided to start this repository to host links to various WWDC events, news, and tutorials from around the community. That means this repo will contain links to events being organized around our community, plus content from SwiftUI Lab, Hacking with Swift, Donny Wals, Swift with Majid, and many more – and we would love to share *your* articles too.
 
-## Tips
-
-* [WWDCTips from the Community - Video](https://www.youtube.com/watch?v=SvrxJtpQDcU)
-
-## Events and Meetups
-
-* [Beyond WWDC Page Events](https://developer.apple.com/wwdc22/beyond-wwdc/) - Events listed on Apple's website.
-* [WWDCCommunity](https://wwdc.community/events) - Events made by the community - watch parties, hackathon, daily recap and more.
 
 ## Summaries
 
 * [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
+* [WWDC22: Wrap up and recommended talks](https://www.hackingwithswift.com/articles/254/wwdc22-wrap-up-and-recommended-talks) by [Paul Hudson](https://twitter.com/twostraws)
+
 
 ## Digital Lounge Archives
 
 * [SwiftUI-Lounge](https://midnight-beanie-ccb.notion.site/swiftui-lounge-wwdc22-e20094b91f074398ba395c3fa245e63d) by [Bardi Golriz](https://twitter.com/mtrostyle)
 * [Machine Learning-Lounge](https://yono.ai/articles/wwdc22-machine-learning-digital-lounge/) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
 
+
 ## Podcasts
 * [WWDC 2022 First Impressions Livecast](https://www.raywenderlich.com/34461858-wwdc-2022-first-impressions-livecast) from RayWenderlich.com.
-
-
 
 
 ## SwiftUI
@@ -37,63 +30,16 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Resizable Sheet in SwiftUI](https://nilcoalescing.com/blog/ResizableSheetInSwiftUI/) from [Natalia Panferova](https://twitter.com/natpanferova)
 * [Ridgeline Plot with Swift Charts](https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts/) from [Matthaus Woolard](https://twitter.com/hishnash)
 * [Quick guide on the Grid container in SwiftUI](https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
+* [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16) by [Paul Hudson](https://twitter.com/twostraws)
 
 
 ## UIKit
 * [How to configure UIKit bottom sheet with custom size](https://nemecek.be/blog/159/how-to-configure-uikit-bottom-sheet-with-custom-size) from [Filip Němeček](https://twitter.com/nemecek_f)
 
 
-## Augmented Reality
-
-
-
-
-## Combine
-
-
-
-
-
-## CoreLocationUI
-
-
-
-
-
-## CreateML
-
-
-
-
-## Foundation
-
-
-
-
 ## Xcode
 * [Meet Developer Mode; a required option to run Xcode projects on physical devices in iOS 16](https://blog.makwanbk.com/meet-developer-mode-a-required-option-to-run-xcode-projects-on-physical-devices-in-ios-16) from Makwan Barzan.
-
-
-
-## Notifications
-
-
-
-
-## Safari & WebKit
-
-
-
-
-## Testing
-
-
-
-
-## Misc
-
-
-
+* [What's new in Xcode 14](https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14) by [Paul Hudson](https://twitter.com/twostraws)
 
 
 ## Offers
@@ -103,9 +49,15 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Save 30% on ImpressKit subscription for the first year (code WWDC22)](https://impresskit.net/page/wwdc-22-discount)
 
 
+## Tips
 
-## Wishlists
+* [WWDCTips from the Community - Video](https://www.youtube.com/watch?v=SvrxJtpQDcU)
 
+
+## Events and Meetups
+
+* [Beyond WWDC Page Events](https://developer.apple.com/wwdc22/beyond-wwdc/) - Events listed on Apple's website.
+* [WWDCCommunity](https://wwdc.community/events) - Events made by the community - watch parties, hackathon, daily recap and more.
 
 
 <p>&nbsp;</p>
