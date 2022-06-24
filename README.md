@@ -11,6 +11,8 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
 * [WWDC22: Wrap up and recommended talks](https://www.hackingwithswift.com/articles/254/wwdc22-wrap-up-and-recommended-talks) by [Paul Hudson](https://twitter.com/twostraws)
+* [Reflections on WWDC 2022](https://beckyhansmeyer.com/2022/06/13/reflections-on-wwdc-2022) by [Becky Hansmeyer](https://twitter.com/bhansmeyer)
+* [SwiftUI ’22 in Numbers (and a few Charts)](https://swiftui-lab.com/swiftui-22-in-numbers/) by [Javier Nigro](https://twitter.com/SwiftUILab)
 
 
 ## Digital Lounge Archives
@@ -32,6 +34,8 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Quick guide on the Grid container in SwiftUI](https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
 * [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16) by [Paul Hudson](https://twitter.com/twostraws)
 * [What is new in SwiftUI after WWDC22](https://swiftwithmajid.com/2022/06/07/what-is-new-in-swiftui-after-wwdc22/) by [Majid Jabrayilov](https://twitter.com/mecid)
+* [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022) by [Sarah Reichelt](https://twitter.com/trozware)
+* [Presenting a partially visible bottom sheet in SwiftUI on iOS 16](https://www.donnywals.com/presenting-a-partially-visible-bottom-sheet-in-swiftui-on-ios-16/) by [Donny Wals](https://twitter.com/donnywals)
 
 
 ## UIKit
@@ -41,6 +45,7 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Xcode
 * [Meet Developer Mode; a required option to run Xcode projects on physical devices in iOS 16](https://blog.makwanbk.com/meet-developer-mode-a-required-option-to-run-xcode-projects-on-physical-devices-in-ios-16) from Makwan Barzan.
 * [What's new in Xcode 14](https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14) by [Paul Hudson](https://twitter.com/twostraws)
+* [Xcode integration of Swift Package Plugins in Xcode 14](https://blog.eidinger.info/xcode-integration-of-swift-package-plugins-in-xcode-14) by [Marco Eidinger](https://twitter.com/MarcoEidinger)
 
 
 ## Offers
