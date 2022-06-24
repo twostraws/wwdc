@@ -36,6 +36,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Build and Style a Chart with the New Swift Charts Framework](https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework/) from [Matthaus Woolard](https://twitter.com/hishnash)
 * [Resizable Sheet in SwiftUI](https://nilcoalescing.com/blog/ResizableSheetInSwiftUI/) from [Natalia Panferova](https://twitter.com/natpanferova)
 * [Ridgeline Plot with Swift Charts](https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts/) from [Matthaus Woolard](https://twitter.com/hishnash)
+* [Quick guide on the Grid container in SwiftUI](https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
 
 
 ## UIKit
