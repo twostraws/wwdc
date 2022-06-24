@@ -31,6 +31,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Ridgeline Plot with Swift Charts](https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts/) from [Matthaus Woolard](https://twitter.com/hishnash)
 * [Quick guide on the Grid container in SwiftUI](https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
 * [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16) by [Paul Hudson](https://twitter.com/twostraws)
+* [What is new in SwiftUI after WWDC22](https://swiftwithmajid.com/2022/06/07/what-is-new-in-swiftui-after-wwdc22/) by [Majid Jabrayilov](https://twitter.com/mecid)
 
 
 ## UIKit
