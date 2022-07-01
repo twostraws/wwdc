@@ -19,6 +19,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 * [SwiftUI-Lounge](https://midnight-beanie-ccb.notion.site/swiftui-lounge-wwdc22-e20094b91f074398ba395c3fa245e63d) by [Bardi Golriz](https://twitter.com/mtrostyle)
 * [Machine Learning-Lounge](https://yono.ai/articles/wwdc22-machine-learning-digital-lounge/) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
+* [Augmented Reality-Lounge](https://yono.ai/articles/wwdc22-arkit-realitykit-usdz-digital-lounge/) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
 
 
 ## Podcasts
