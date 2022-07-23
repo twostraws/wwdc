@@ -51,6 +51,9 @@ So, a number of us decided to start this repository to host links to various WWD
 ## Vision
 * [How to use Live Text API in your iOS app](https://nemecek.be/blog/160/how-to-use-live-text-api-in-your-ios-app) from [Filip Němeček](https://twitter.com/nemecek_f)
 
+## WeatherKit
+* [WeatherKit: Build a Simple iOS Weather App](https://blog.makwanbk.com/weatherkit-build-a-simple-ios-weather-app) by [Makwan Barzan](https://twitter.com/makwanbk)
+
 
 ## Offers
 
