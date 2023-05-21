@@ -32,6 +32,7 @@ If you’re in the Bay Area around WWDC, you can look for tickets for the follow
 There are lots of other events and watch parties taking place around the world and online:
 
 - Sunday 4th through Sunday 11th: [Community Week: WWDC23](https://wwdc.community)
+- Sunday June 4th through Friday 9th: [boulderOS WWDC 2023](https://boulderos.com/wwdc2023.html), Boulder, Colorado, USA
 - Monday 5th through Saturday 10th: [SwiftGG-WWDC.playground](https://swift.gg/wwdc23/index_en.html)
 - Friday June 9th, [try! Swift Dub Dub](https://www.tryswift.co/dub-dub)
 
