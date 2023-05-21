@@ -7,70 +7,57 @@ The Apple development community is open and inclusive to everyone, and during WW
 So, a number of us decided to start this repository to host links to various WWDC events, news, and tutorials from around the community. That means this repo will contain links to events being organized around our community, plus content from SwiftUI Lab, Hacking with Swift, Donny Wals, Swift with Majid, and many more – and we would love to share *your* articles too.
 
 
+## Events and Meetups
+
+There are lots of events happening in and around Cupertino, along with other events happening around the world. Most in-person events require tickets, and are likely to sell out quickly.
+
+**Note:** Please check the times and locations for each event just in case we made a mistake or something has changed.
+
+
+### Events in Cupertino
+
+If you’re in the Bay Area around WWDC, you can look for tickets for the following events:
+
+- Sunday June 4th, 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc23) (requires WWDC ticket)
+- Sunday June 4th, 6pm-10pm: [RevenueCat’s Pre-WWDC Barcade Bash, at MINIBOSS, San Jose](https://rcwwdc23.rsvpify.com)
+- Monday June 5th: [Special Event at Apple Park](https://developer.apple.com/wwdc23/special-event/) (requires WWDC ticket)
+- Tuesday June 6th at 10am, 2pm, and 6pm: [Special Event at Apple Park Developer Center](https://developer.apple.com/wwdc23) (requires WWDC ticket)
+- Tuesday June 6th, 5:30pm-7:30pm: [iOS Dev Happy Hour IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc23-irl-tickets-637437722387)
+- Tuesday June 6th, 6pm-9pm PT: [Students, Swift, Stars at Il Fornaio, San Jose](https://www.eventbrite.com/e/students-swift-stars-tickets-632561838487)
+- Wednesday June 7th, evening: [James Dempsey and the Breakpoints](https://livenearwwdc.com)
+
+
+### Events around the world and online
+
+There are lots of other events and watch parties taking place around the world and online:
+
+- Sunday 4th through Sunday 11th: [Community Week: WWDC23](https://wwdc.community)
+- Monday 5th through Saturday 10th: [SwiftGG-WWDC.playground](https://swift.gg/wwdc23/index_en.html)
+- Friday June 9th, [try! Swift Dub Dub](https://www.tryswift.co/dub-dub)
+
+
+### Keynote watch parties
+
+If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 5th, but the following events are taking place to stream it elsewhere:
+
+- June 5th, 6pm EEST: [CocoaHeads Cyprus WWDC Keynote Watch Party at Rio Cinemas Limassol, Cyprus](https://www.eventbrite.com/e/cocoaheads-cyprus-wwdc-keynote-watch-party-0506-tickets-629888462347)
+- June 5th, 6pm CEST: [CocoaHeads Oslo WWDC23 Watch Party at Rebel Auditorium Oslo, Norway](https://www.meetup.com/cocoaheads-oslo/events/293084881/)
+- June 5th, 6:30pm-8:30pm CEST: [WWDC23 Watch Together at CHECK24 Frankfurt, Germany](https://www.meetup.com/check-it-rhein-main/events/292903172)
+- June 5th, 22:30pm-4am JST: [Extended Tokyo at Yahoo Kioicho, Tokyo](https://yj-meetup.connpass.com/event/281562/)
+- June 6th, 1am SGT: [iOS Dev Scout WWDC Watch Party, online](https://www.meetup.com/singapore-ios-dev-scout-meetup/events/292400807/)
+
+
 ## Summaries
 
-* [WWDC NOTES](http://wwdcnotes.com) from the WWDC community
-* [WWDC22: Wrap up and recommended talks](https://www.hackingwithswift.com/articles/254/wwdc22-wrap-up-and-recommended-talks) by [Paul Hudson](https://twitter.com/twostraws)
-* [Reflections on WWDC 2022](https://beckyhansmeyer.com/2022/06/13/reflections-on-wwdc-2022) by [Becky Hansmeyer](https://twitter.com/bhansmeyer)
-* [SwiftUI ’22 in Numbers (and a few Charts)](https://swiftui-lab.com/swiftui-22-in-numbers/) by [Javier Nigro](https://twitter.com/SwiftUILab)
-
-
-## Digital Lounge Archives
-
-* [SwiftUI-Lounge](https://midnight-beanie-ccb.notion.site/swiftui-lounge-wwdc22-e20094b91f074398ba395c3fa245e63d) by [Bardi Golriz](https://twitter.com/mtrostyle)
-* [Machine Learning-Lounge](https://yono.ai/articles/wwdc22-machine-learning-digital-lounge/) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
-* [Augmented Reality-Lounge](https://yono.ai/articles/wwdc22-arkit-realitykit-usdz-digital-lounge/) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
-
-
 ## Podcasts
-* [WWDC 2022 First Impressions Livecast](https://www.raywenderlich.com/34461858-wwdc-2022-first-impressions-livecast) from RayWenderlich.com.
-
 
 ## SwiftUI
 
-* [Overview of the New SwiftUI Navigation APIs](https://nilcoalescing.com/blog/SwiftUINavigation2022/) from [Natalia Panferova](https://twitter.com/natpanferova)
-* [Build and Style a Chart with the New Swift Charts Framework](https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework/) from [Matthaus Woolard](https://twitter.com/hishnash)
-* [Resizable Sheet in SwiftUI](https://nilcoalescing.com/blog/ResizableSheetInSwiftUI/) from [Natalia Panferova](https://twitter.com/natpanferova)
-* [Ridgeline Plot with Swift Charts](https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts/) from [Matthaus Woolard](https://twitter.com/hishnash)
-* [Quick guide on the Grid container in SwiftUI](https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui/) from [Natascha Fadeeva](https://twitter.com/tanaschita)
-* [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16) by [Paul Hudson](https://twitter.com/twostraws)
-* [What is new in SwiftUI after WWDC22](https://swiftwithmajid.com/2022/06/07/what-is-new-in-swiftui-after-wwdc22/) by [Majid Jabrayilov](https://twitter.com/mecid)
-* [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022) by [Sarah Reichelt](https://twitter.com/trozware)
-* [Presenting a partially visible bottom sheet in SwiftUI on iOS 16](https://www.donnywals.com/presenting-a-partially-visible-bottom-sheet-in-swiftui-on-ios-16/) by [Donny Wals](https://twitter.com/donnywals)
-
-
 ## UIKit
-* [How to configure UIKit bottom sheet with custom size](https://nemecek.be/blog/159/how-to-configure-uikit-bottom-sheet-with-custom-size) from [Filip Němeček](https://twitter.com/nemecek_f)
-* [How to use UICalendarView in iOS](https://nemecek.be/blog/161/how-to-use-uicalendarview-in-ios) from [Filip Němeček](https://twitter.com/nemecek_f)
 
 ## Xcode
-* [Meet Developer Mode; a required option to run Xcode projects on physical devices in iOS 16](https://blog.makwanbk.com/meet-developer-mode-a-required-option-to-run-xcode-projects-on-physical-devices-in-ios-16) from Makwan Barzan.
-* [What's new in Xcode 14](https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14) by [Paul Hudson](https://twitter.com/twostraws)
-* [Xcode integration of Swift Package Plugins in Xcode 14](https://blog.eidinger.info/xcode-integration-of-swift-package-plugins-in-xcode-14) by [Marco Eidinger](https://twitter.com/MarcoEidinger)
-
-## Vision
-* [How to use Live Text API in your iOS app](https://nemecek.be/blog/160/how-to-use-live-text-api-in-your-ios-app) from [Filip Němeček](https://twitter.com/nemecek_f)
-
-## WeatherKit
-* [WeatherKit: Build a Simple iOS Weather App](https://blog.makwanbk.com/weatherkit-build-a-simple-ios-weather-app) by [Makwan Barzan](https://twitter.com/makwanbk)
-
-
-## Offers
-
-* [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
-* [Save 30% on all Sean Allen iOS Development Video Courses](https://seanallen.teachable.com/)
-* [Save 30% on ImpressKit subscription for the first year (code WWDC22)](https://impresskit.net/page/wwdc-22-discount)
-
 
 ## Tips
-
-* [WWDCTips from the Community - Video](https://www.youtube.com/watch?v=SvrxJtpQDcU)
-
-
-## Events and Meetups
-
-* [Beyond WWDC Page Events](https://developer.apple.com/wwdc22/beyond-wwdc/) - Events listed on Apple's website.
-* [WWDCCommunity](https://wwdc.community/events) - Events made by the community - watch parties, hackathon, daily recap and more.
 
 
 <p>&nbsp;</p>
@@ -86,7 +73,7 @@ Please check that:
 
 1. All links are freely available to read for everyone. If you are linking to a paid product that has a discount, please put it in the Offers category.
 2. The link hasn’t been submitted previously.
-3. You place your link at the *bottom* of its category, not the top, so that it comes below other links.
+3. Unless you’re adding an event, please place your link at the *bottom* of its category, not the top, so that it comes below other links. If you’re adding an event, please try to place it chronologically alongside the others.
 4. Ensure that your link follows the following format: **`[Post name](link to post)` from [Author name]**. For example **`[Wishes for WWDC 2021](https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/)` from Becky Hansmeyer**.
 
 If you are running sales or special offers on developer-related products, books, or services, please add them under the Offers category. **If you have several products or offers, please just send in one link to avoid overwhelming the list.**
@@ -136,10 +123,12 @@ We are:
 If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
 
-# Looking for last year's links?
+# Looking for links from previous years?
 
-Last year you helped us share a huge number of tutorials, videos, events, and more, and you can find them all archived below:
+Previously you helped us share a huge number of tutorials, videos, events, and more, and you can find them all archived below:
 
+- [WWDC22](https://github.com/twostraws/wwdc/blob/1325639286a3adfc1dddfa6d1c16a2fd222b4d0d/README.md)
+- [WWDC21](https://github.com/twostraws/wwdc/blob/c5131a4be13cd3743a73cf829da5602e3be117d1/README.md)
 - [WWDC20](https://github.com/twostraws/wwdc/blob/3d3b093218af06465b6b268b23e13e2ad6e2d9f8/README.md)
 
 
