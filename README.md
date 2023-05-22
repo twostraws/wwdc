@@ -18,14 +18,18 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 If you’re in the Bay Area around WWDC, you can look for tickets for the following events:
 
+- Sunday June 4th, 1:30pm-3pm: [Core Coffee – WWDC Meetup Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/292537684/)
 - Sunday June 4th, 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc23) (requires WWDC ticket)
 - Sunday June 4th, 6pm-10pm: [RevenueCat’s Pre-WWDC Barcade Bash, at MINIBOSS, San Jose](https://rcwwdc23.rsvpify.com)
 - Monday June 5th: [Special Event at Apple Park](https://developer.apple.com/wwdc23/special-event/) (requires WWDC ticket)
 - Monday June 5th at 9:30am to 4pm: [iOS Dev Happy Hour and WWDCCommunity Watch Party](https://wwdc23-watch-party.eventbrite.com/)
 - Tuesday June 6th at 10am, 2pm, and 6pm: [Special Event at Apple Park Developer Center](https://developer.apple.com/wwdc23) (requires WWDC ticket)
+- Tuesday June 6th, 11am-12:30pm: [Core Coffee – WWDC Meetup Edition pt. 2](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/293553719/)
 - Tuesday June 6th, 5:30pm-7:30pm: [iOS Dev Happy Hour IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc23-irl-tickets-637437722387)
 - Tuesday June 6th, 6pm-9pm PT: [Students, Swift, Stars at Il Fornaio, San Jose](https://www.eventbrite.com/e/students-swift-stars-tickets-632561838487)
+- Wednesday June 7th, 11am-12:30pm: [Core Coffee – WWDC Meetup Edition pt. 3](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/292607366/)
 - Wednesday June 7th, evening: [James Dempsey and the Breakpoints](https://livenearwwdc.com)
+- Thursday June 8th, 11am-12:30pm: [Core Coffee – WWDC Meetup Edition pt. 4](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/292912617/)
 
 
 ### Events around the world and online
