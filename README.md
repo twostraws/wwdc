@@ -68,7 +68,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 This repository has a number of “official” contributors who are posting links to their work and events here and are also able to merge pull requests. But it’s completely open for everyone to contribute articles, videos, tips, and more, from any source.
 
-So, if you’ve written about something new from WWDC22, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC22 – we want to represent the full spectrum of voices in our community.
+So, if you’ve written about something new from WWDC23, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC23 – we want to represent the full spectrum of voices in our community.
 
 Please check that:
 
@@ -90,7 +90,7 @@ WWDC is such an amazing time for our community, but the best bit about WWDC is t
 
 And so this repository exists to promote events, articles, videos, and more from folks across the whole spectrum of our community. You might have heard of some contributors previously, but we hope you’ll also discover some new voices who are doing amazing work.
 
-So, if you’re setting up social events, Slack groups, quiz nights or more, please add links to them here for others to find. Or if you’re writing about new APIs from WWDC21, if you’re making videos about them, or even if you’re just tweeting cool code samples or Xcode tips, we would love for you to be involved and to share them here.
+So, if you’re setting up social events, Slack groups, quiz nights or more, please add links to them here for others to find. Or if you’re writing about new APIs from WWDC23, if you’re making videos about them, or even if you’re just tweeting cool code samples or Xcode tips, we would love for you to be involved and to share them here.
 
 **We want to encourage you to contribute even if it’s your very first blog post.** This is a community effort, and we want everyone to have their voice heard – we appreciate you and your hard work, and want to celebrate that here!
 
