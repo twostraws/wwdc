@@ -39,6 +39,7 @@ WEDNESDAY, June 7th
 - 8:00am - 5:00pm: [WWDCCommunity Open Space (Community Get Togethers, BYO Breakfast/Lunch, Open Mic, 
 A space for the community to watch and join WWDC activities & more)](https://www.eventbrite.com/e/wwdccommunity-open-space-in-cupertino-get-togethers-hackathon-open-mic-tickets-632034511237)
 - 11am-12:30pm: [Core Coffee – WWDC Meetup Edition pt. 3](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/292607366/)
+- 5pm: [The Talk Show Live from WWDC 2023](https://daringfireball.net/thetalkshow/)
 - Evening: [James Dempsey and the Breakpoints](https://livenearwwdc.com)
 
 THURSDAY, June 8th
