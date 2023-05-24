@@ -60,8 +60,8 @@ There are lots of other events and watch parties taking place around the world a
 - Sunday June 4th through Sunday 11th: [Community Week: WWDC23](https://wwdc.community)
 - Sunday June 4th through Friday 9th: [boulderOS WWDC 2023](https://boulderos.com/wwdc2023.html), Boulder, Colorado, USA
 - Monday June 5th through Saturday 10th: [SwiftGG-WWDC.playground](https://swift.gg/wwdc23/index_en.html)
-- Friday June 9th, [try! Swift Dub Dub](https://www.tryswift.co/dub-dub)
 - Thursday June 8th: [NSLondon 2023.2 at AWS](https://www.meetup.com/nslondon/events/293445940/), London, UK
+- Friday June 9th, [try! Swift Dub Dub](https://www.tryswift.co/dub-dub)
 
 
 ### Keynote watch parties
@@ -71,11 +71,11 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - June 5th, 6pm EEST: [CocoaHeads Cyprus WWDC Keynote Watch Party at Rio Cinemas Limassol, Cyprus](https://www.eventbrite.com/e/cocoaheads-cyprus-wwdc-keynote-watch-party-0506-tickets-629888462347)
 - June 5th, 17:30 - 20:30 CEST [CocoaHeads NL Keynote meetup. Amsterdam NL](https://www.meetup.com/cocoaheadsnl/events/292621384/)
 - June 5th, 6pm CEST: [CocoaHeads Oslo WWDC23 Watch Party at Rebel Auditorium Oslo, Norway](https://www.meetup.com/cocoaheads-oslo/events/293084881/)
+- June 5th, 17:30 - 20:30 BST [NSLondon WWDC keynote viewing party at Deloitte Digital, London, UK](https://www.meetup.com/nslondon/events/293687295/)
 - June 5th, 6:30pm-8:30pm CEST: [WWDC23 Watch Together at CHECK24 Frankfurt, Germany](https://www.meetup.com/check-it-rhein-main/events/292903172)
 - June 5th, 22:30pm-4am JST: [Extended Tokyo at Yahoo Kioicho, Tokyo](https://yj-meetup.connpass.com/event/281562/)
 - June 6th, 1am SGT: [iOS Dev Scout WWDC Watch Party, online](https://www.meetup.com/singapore-ios-dev-scout-meetup/events/292400807/)
 - June 6th, 12am PHT: [SwiftPH WWDC23 Watch Party, online](bit.ly/swiftph-members-form)
-- June 5th, 17:30 - 20:30 BST [NSLondon WWDC keynote viewing party at Deloitte Digital, London, UK](https://www.meetup.com/nslondon/events/293687295/)
 
 ## Summaries
 
