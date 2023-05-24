@@ -61,6 +61,7 @@ There are lots of other events and watch parties taking place around the world a
 - Sunday June 4th through Friday 9th: [boulderOS WWDC 2023](https://boulderos.com/wwdc2023.html), Boulder, Colorado, USA
 - Monday June 5th through Saturday 10th: [SwiftGG-WWDC.playground](https://swift.gg/wwdc23/index_en.html)
 - Friday June 9th, [try! Swift Dub Dub](https://www.tryswift.co/dub-dub)
+- Thursday June 8th: [NSLondon 2023.2 at AWS](https://www.meetup.com/nslondon/events/293445940/)
 
 
 ### Keynote watch parties
