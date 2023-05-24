@@ -18,6 +18,9 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 If you’re in the Bay Area around WWDC, you can look for tickets for the following events:
 
+SATURDAY, June 3rd
+- 7pm-10pm: [Dub Dub Pub Quiz 2023](https://www.eventbrite.com/e/dub-dub-pub-quiz-2023-tickets-641642348537)
+
 SUNDAY, June 4th
 - 1:30pm-3pm: [Core Coffee – WWDC Meetup Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/292537684/)
 - 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc23) (requires WWDC ticket)
