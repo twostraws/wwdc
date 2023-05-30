@@ -81,6 +81,12 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - June 6th, 1am SGT: [iOS Dev Scout WWDC Watch Party, online](https://www.meetup.com/singapore-ios-dev-scout-meetup/events/292400807/)
 - June 6th, 12am PHT: [SwiftPH WWDC23 Watch Party, online](bit.ly/swiftph-members-form)
 
+
+## WWDC23 Deals
+
+- [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
+
+
 ## Summaries
 
 ## Podcasts
