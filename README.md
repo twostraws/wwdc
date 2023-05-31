@@ -86,6 +86,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 - [Save 40% on "Integrating SwiftUI into UIKit Apps" book](https://books.nilcoalescing.com/integrating-swiftui) by [Natalia Panferova](https://twitter.com/natpanferova)
+- [Save 15% on "Practical Bundle" books](https://donnywals.gumroad.com/l/practical-bundle/wwdc2023) by [Donny Wals](https://twitter.com/donnywals)
 
 
 ## Summaries
