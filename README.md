@@ -94,6 +94,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 ## WWDC23 Deals: Apps
 
 - [Save 50% on all RemafoX subscription plans](https://www.fline.dev/remafox-wwdc-sale/) by [Cihat Gündüz](https://twitter.com/Jeehut)
+- [Save 35% on Snippety lifetime access](https://twitter.com/AppSnippety/status/1665418849083170820) by [Wojciech Kulik](https://twitter.com/kulik_wojciech)
 
 
 ## Summaries
