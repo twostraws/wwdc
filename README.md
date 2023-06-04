@@ -97,6 +97,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - [Save up to 50% off your first year of söka+ until June 9th](https://trysoka.app/download) by [Roddy Munro](https://iosdev.space/@podomunro) - use promo code `FIRSTYEAR50` on the in-app paywall
 - [Save 35% on Snippety lifetime access](https://twitter.com/AppSnippety/status/1665418849083170820) by [Wojciech Kulik](https://twitter.com/kulik_wojciech)
 - [Save 80% on Swifty Compiler lifetime access](https://apps.apple.com/app/id1544749600) by [Hassan Taleb](https://twitter.com/hassantaleb90)
+- [WWDC week sale: 50% off on Watch Calendar](https://apps.apple.com/us/app/watch-calendar/id1453181433) by [Marcel Mendes](https://twitter.com/ios_watch)
 
 ## Summaries
 
