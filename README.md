@@ -107,6 +107,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 ## Podcasts
 
 - [WWDC 2023 First Impressions Livecast event](https://www.kodeco.com/40370994-don-t-miss-our-wwdc-2023-livecast-june-5-9pm-edt) from Kodeco.
+- [Code Completion](https://youtube.com/live/RAxMMurpyXU) iOS Development Podcast by [Dimitri Bouniol](http://mastodon.social/@dimitribouniol) and [Spencer Curtis](https://mastodon.social/@spencercurtis), live on Keynote Monday at 4pm Pacific.
 
 ## SwiftUI
 
