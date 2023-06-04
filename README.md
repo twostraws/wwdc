@@ -83,13 +83,17 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - June 5th, 7pm-21pm CEST: [CocoaHeadsMK: WWDC'23 Keynote Watch Along](https://cocoaheads.mk/#meetups)
 
 
-## WWDC23 Deals
+## WWDC23 Deals: Books and Courses
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 - [Save 40% on "Integrating SwiftUI into UIKit Apps" book](https://books.nilcoalescing.com/integrating-swiftui) by [Natalia Panferova](https://twitter.com/natpanferova)
 - [Save 15% on "Practical Bundle" books](https://donnywals.gumroad.com/l/practical-bundle/wwdc2023) by [Donny Wals](https://twitter.com/donnywals)
-- [Save 50% on all RemafoX subscription plans](https://www.fline.dev/remafox-wwdc-sale/) by [Cihat Gündüz](https://twitter.com/Jeehut)
 - [Save 20% on "Asynchronous Programming with SwiftUI and Combine"](https://bit.ly/async-swiftui-combine-book-buy) by [Peter Friese](https://twitter.com/peterfriese) - use code **SwiftUI** during checkout
+
+
+## WWDC23 Deals: Apps
+
+- [Save 50% on all RemafoX subscription plans](https://www.fline.dev/remafox-wwdc-sale/) by [Cihat Gündüz](https://twitter.com/Jeehut)
 
 
 ## Summaries
