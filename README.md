@@ -98,6 +98,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - [Save 35% on Snippety lifetime access](https://twitter.com/AppSnippety/status/1665418849083170820) by [Wojciech Kulik](https://twitter.com/kulik_wojciech)
 - [Save 80% on Swifty Compiler lifetime access](https://apps.apple.com/app/id1544749600) by [Hassan Taleb](https://twitter.com/hassantaleb90)
 - [WWDC week sale: 50% off on Watch Calendar](https://apps.apple.com/us/app/watch-calendar/id1453181433) by [Marcel Mendes](https://twitter.com/ios_watch)
+- [Save 50% on your first year of Amato Pro with code WWDC23](https://apps.apple.com/app/id1614085893) by [Anika Seibezeder](https://twitter.com/anikaseibezeder)
 
 ## Summaries
 
