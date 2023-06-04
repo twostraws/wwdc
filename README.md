@@ -93,10 +93,10 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 ## WWDC23 Deals: Apps
 
-- [Save 80% on Swifty Compiler lifetime access](https://apps.apple.com/app/id1544749600) by [Hassan Taleb](https://twitter.com/hassantaleb90)
 - [Save 50% on all RemafoX subscription plans](https://www.fline.dev/remafox-wwdc-sale/) by [Cihat Gündüz](https://twitter.com/Jeehut)
 - [Save up to 50% off your first year of söka+ until June 9th](https://trysoka.app/download) by [Roddy Munro](https://iosdev.space/@podomunro) - use promo code `FIRSTYEAR50` on the in-app paywall
 - [Save 35% on Snippety lifetime access](https://twitter.com/AppSnippety/status/1665418849083170820) by [Wojciech Kulik](https://twitter.com/kulik_wojciech)
+- [Save 80% on Swifty Compiler lifetime access](https://apps.apple.com/app/id1544749600) by [Hassan Taleb](https://twitter.com/hassantaleb90)
 
 ## Summaries
 
