@@ -102,6 +102,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - [Save 50% on your first year of Amato Pro with code WWDC23](https://apps.apple.com/app/id1614085893) by [Anika Seibezeder](https://twitter.com/anikaseibezeder)
 - [Save 40% on MediaMate](https://twitter.com/mediamateapp/status/1665438922464165891) by [Wouter Hennen](https://twitter.com/wouterhennen)
 - [Save 67% on Mango 5Star](https://apps.apple.com/app/mango-5star/id1473088658) by [Yilei "Dolee" Yang](https://twitter.com/DoleeYang)
+- [Save 50% on Haptrix](https://apps.apple.com/us/app/haptrix/id887185157) by [Chris Davis](https://twitter.com/nthState)
 
 ## Summaries
 
