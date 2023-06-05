@@ -80,7 +80,8 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - June 5th, 22:30pm-4am JST: [Extended Tokyo at Yahoo Kioicho, Tokyo](https://yj-meetup.connpass.com/event/281562/)
 - June 6th, 1am SGT: [iOS Dev Scout WWDC Watch Party, online](https://www.meetup.com/singapore-ios-dev-scout-meetup/events/292400807/)
 - June 6th, 12am PHT: [SwiftPH WWDC23 Watch Party, online](bit.ly/swiftph-members-form)
-- June 5th, 7pm-21pm CEST: [CocoaHeadsMK: WWDC'23 Keynote Watch Along](https://cocoaheads.mk/#meetups)
+- June 5th, 7pm-9pm CEST: [CocoaHeadsMK: WWDC'23 Keynote Watch Along](https://cocoaheads.mk/#meetups)
+- June 5th, 7pm-9pm IDT: [WWDC23 Keynote Watch Party @ monday.com](https://forms.monday.com/forms/2475c7d2d209833c54e10da7ab6e5c9a?r=use1)
 
 
 ## WWDC23 Deals: Books and Courses
