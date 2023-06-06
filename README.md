@@ -35,7 +35,7 @@ TUESDAY, June 6th
 - 7:30 am: [The Dub Dub Climb](https://dubdub.fitness/climb.html)
 - 8:00am - 5:00pm: [WWDCCommunity Open Space (Community Get Togethers, BYO Breakfast/Lunch, Open Mic, 
 A space for the community to watch and join WWDC activities & more)](https://www.eventbrite.com/e/wwdccommunity-open-space-in-cupertino-get-togethers-hackathon-open-mic-tickets-632034471117)
-- 8:30am - 10:00am: [Coffee Coffee Coffee - WWDC Discussion] (https://www.coffeecoffeecoffee.coffee/sf-ios-coffee)
+- 8:30am - 10:00am: [Coffee Coffee Coffee - WWDC Discussion](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee)
 - 11am-12:30pm: [Core Coffee – WWDC Meetup Edition pt. 2](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/293553719/)
 - 5:30pm-7:30pm: [iOS Dev Happy Hour IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc23-irl-tickets-637437722387)
 - 6pm-9pm PT: [Students, Swift, Stars at Il Fornaio, San Jose](https://www.eventbrite.com/e/students-swift-stars-tickets-632561838487)
