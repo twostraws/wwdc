@@ -105,7 +105,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - [Save 40% on MediaMate](https://twitter.com/mediamateapp/status/1665438922464165891) by [Wouter Hennen](https://twitter.com/wouterhennen)
 - [Save 67% on Mango 5Star](https://apps.apple.com/app/mango-5star/id1473088658) by [Yilei "Dolee" Yang](https://twitter.com/DoleeYang)
 - [Save 50% on Haptrix](https://apps.apple.com/us/app/haptrix/id887185157) by [Chris Davis](https://twitter.com/nthState)
-- [One year for FREE then early adopters annual price on Maisomage. You can cancel before paid renewal](https://apps.apple.com/fr/app/maisomage/id1630831223) by [Maisomage](https://twitter.com/Maisomage) Go to Settings in the app and use promo code `#WWDC23` Works on Mac iPhone iPad, soon AppleTV and we plan Vision Pro! Save energy at home.
+- [One year for FREE then early adopters annual price on Maisomage. You can cancel before paid renewal](https://apps.apple.com/redeem?ctx=offercodes&id=1630831223&code=WWDC23) by [Maisomage](https://twitter.com/Maisomage) Works on Mac iPhone iPad, soon AppleTV and we plan Vision Pro! Save energy at home.
 
 ## Summaries
 
