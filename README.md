@@ -111,6 +111,8 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 ## Summaries
 
+- [WWDC Notes](https://wwdcnotes.com/)` from 25+ members of the Apple Developer Community
+
 ## Podcasts
 
 - [WWDC 2023 First Impressions Livecast recording](https://www.kodeco.com/40610152-wwdc-2023-first-impressions-livecast) from Kodeco.
