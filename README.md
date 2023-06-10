@@ -119,6 +119,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - [Code Completion](https://youtube.com/live/RAxMMurpyXU) iOS Development Podcast by [Dimitri Bouniol](http://mastodon.social/@dimitribouniol) and [Spencer Curtis](https://mastodon.social/@spencercurtis), live on Keynote Monday at 4pm Pacific.
 
 ## SwiftUI
+- [New Metal + Scroll View Features](https://github.com/eleev/swiftui-new-metal-shaders) by [Astemir Eleev](https://github.com/eleev)
 
 ## UIKit
 
