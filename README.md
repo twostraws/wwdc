@@ -24,8 +24,10 @@ MONDAY, June 10th
 
 There are lots of other events and watch parties taking place around the world and online:
 
-- Add your event here with a pull request!
+TUESDAY, June 11th
+- [WWDC Notes](https://wwdcnotes.com/) from voluntary members of our community, maybe you? (organized by Cihat Gündüz)
 
+- Add your event here with a pull request!
 
 ### Keynote watch parties
 
