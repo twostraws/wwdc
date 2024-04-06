@@ -18,7 +18,13 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- [Go to pub after special event @ WWDC24](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
 
+TUESDAY, June 11th
+- [Morning Coffee&Code @ WWDC24](https://locals.org/coffeecode-wwdc24-loxb)
+
+WEDESDAY, June 12th
+- [visionOS: meet with Loóna team @ WWDC24](https://locals.org/visionos-meet-with-loona-team-wwdc24-eivj)
 
 ### Events around the world and online
 
