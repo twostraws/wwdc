@@ -13,15 +13,19 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 **Note:** Please check the times and locations for each event just in case we made a mistake or something has changed.
 
+### Events in and around Cupertino
 
-### Events in Cupertino
+SUNDAY, June 9th
+- 12pm-2pm: [Core Coffee – WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224553/)
+- 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
 
 MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
-- [Go to pub after special event @ WWDC24](https://locals.org/go-to-pub-after-special-event-wwdc24-clle) from [Sergey Gonchar](https://twitter.com/the_gonchar)
+- [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
 
 TUESDAY, June 11th
-- [Morning Coffee&Code @ WWDC24](https://locals.org/coffeecode-wwdc24-loxb) from [Sergey Gonchar](https://twitter.com/the_gonchar)
+- [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
+
 
 ### Events around the world and online
 
