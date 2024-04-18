@@ -21,21 +21,21 @@ SUNDAY, June 9th
 
 MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
-- [One More Thing conference keynote stream](https://omt-conf.com/) (requires free ticket)
+- [One More Thing conference keynote stream](https://omt-conf.com/) (requires ticket; limited capacity)
 - [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
 
 TUESDAY, June 11th
 - [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
-- [One More Thing Conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires free ticket)
+- [One More Thing Conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
 
 WEDNESDAY, June 12th
-- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires free ticket)
+- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
 
 THURSDAY, June 13th
-- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by Paul Hudson (requires free ticket)
+- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by Paul Hudson (requires ticket; limited capacity)
 
 FRIDAY, June 14th
-- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by James Dempsey (requires free ticket)
+- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by James Dempsey (requires ticket; limited capacity)
 
 
 ### Events around the world and online
