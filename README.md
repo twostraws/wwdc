@@ -18,6 +18,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 SUNDAY, June 9th
 - 12pm-2pm: [Core Coffee – WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224553/)
 - 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
+- 6:30pm-10:30pm: [RevenueCat's Barcade Bash](https://rcwwdc24.rsvpify.com/?securityToken=no1ZqQkqUPr5TnZvsayP3U5kcLpd3Mc3)
 
 MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
