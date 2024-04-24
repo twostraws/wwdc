@@ -28,6 +28,7 @@ MONDAY, June 10th
 TUESDAY, June 11th
 - [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
 - [One More Thing Conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
+- [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077) 7pm-10pm
 
 WEDNESDAY, June 12th
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
