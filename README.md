@@ -24,6 +24,7 @@ MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - [One More Thing conference keynote stream](https://omt-conf.com/) (requires ticket; limited capacity)
 - [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
+- [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2024) 7pm-9:30pm
 
 TUESDAY, June 11th
 - [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
