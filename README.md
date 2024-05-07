@@ -16,6 +16,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 ### Events in and around Cupertino
 
 SUNDAY, June 9th
+- 9am-10am: [r/VisionPro Coffee Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (informal)
 - 12pm-2pm: [Core Coffee – WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224553/)
 - 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
 - 6:30pm-10:30pm: [RevenueCat's Barcade Bash](https://rcwwdc24.rsvpify.com/?securityToken=no1ZqQkqUPr5TnZvsayP3U5kcLpd3Mc3)
@@ -24,6 +25,7 @@ MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - [One More Thing conference keynote stream](https://omt-conf.com/) (requires ticket; limited capacity)
 - [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
+- [r/VisionPro Drinks Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (5pm-7pm+)
 - [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2024) 7pm-9:30pm
 
 TUESDAY, June 11th
