@@ -57,8 +57,13 @@ There are lots of other events and watch parties taking place around the world a
 
 If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 10th, but the following events are taking place to stream it elsewhere:
 
-- Add your event here with a pull request!
+- 🇩🇰 June 10th 5pm CEST: [WWDC24 BBQ & Watch Party at Shape](https://shape.dk/event/wwdc24), Copenhagen, Denmark
+- 🇮🇳 June 10th, 7pm IST: [WWDC24 Keynote and SOTU Watch Party](https://www.meetup.com/swiftbengaluru/events/300922614/) – Bangalore, India
+- 🇳🇴 June 10th, 6pm CEST: [WWDC24 Watch Party](https://www.rebel.no/events/wwdc2024-watch-party) – Oslo, Norway
+- 🇺🇸 June 10th, 10am PDT: [WWDC24 Watch Party](https://www.eventbrite.com/e/wwdc24-watch-party-tickets-895479391967) – Spokane, WA, United States
+- 🇺🇸 June 10th, 12pm CDT: [WWDC Watch Event](https://www.eventbrite.com/e/wwdc-watch-event-tickets-905139044247) – St Louis, MO, United States
 
+You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
 
 <p>&nbsp;</p>
