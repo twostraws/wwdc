@@ -64,7 +64,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇳🇴 June 10th, 6pm CEST: [WWDC24 Watch Party](https://www.rebel.no/events/wwdc2024-watch-party) – Oslo, Norway
 - 🇺🇸 June 10th, 10am PDT: [WWDC24 Watch Party](https://www.eventbrite.com/e/wwdc24-watch-party-tickets-895479391967) – Spokane, WA, United States
 - 🇺🇸 June 10th, 12pm CDT: [WWDC Watch Event](https://www.eventbrite.com/e/wwdc-watch-event-tickets-905139044247) – St Louis, MO, United States
-- 🇳🇱 June 10th, 18:00 CET: [CocoaHeads NL Keynote meetup @ ABNAMRO](https://www.meetup.com/cocoaheadsnl/events/298694068) from Axel Roest. 
+- 🇳🇱 June 10th, 18:00 CET: [CocoaHeads NL Keynote meetup @ ABNAMRO](https://www.meetup.com/cocoaheadsnl/events/298694068) - Amsterdam, The Netherlands, from Axel Roest. 
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
