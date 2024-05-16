@@ -17,6 +17,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 SATURDAY, JUNE 8th
 - 5pm-8pm: [Informal Pre-WWDC 24 Gathering in San Pedro Square](https://pre-wwdc24-gathering.splashthat.com) (informal)
+- 6:30pm: [Apple Park Happy Hour](https://www.paperlesspost.com/go/k6dqVkMh93ebWwSLpB3Ml)
 
 SUNDAY, June 9th
 - 9am-10am: [r/VisionPro Coffee Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (informal)
