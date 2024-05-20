@@ -65,6 +65,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇮🇳 June 10th, 7pm IST: [WWDC24 Keynote and SOTU Watch Party](https://www.meetup.com/swiftbengaluru/events/300922614/) – Bangalore, India
 - 🇳🇱 June 10th, 6pm CEST: [CocoaHeads NL Keynote meetup @ ABNAMRO](https://www.meetup.com/cocoaheadsnl/events/298694068) - Amsterdam, The Netherlands
 - 🇳🇴 June 10th, 6pm CEST: [WWDC24 Watch Party](https://www.rebel.no/events/wwdc2024-watch-party) – Oslo, Norway
+- 🇬🇧 June 10th, 6pm BST: [NSLondon WWDC24 Watch Party](https://www.meetup.com/nslondon/events/300905884) - London, United Kingdom
 - 🇺🇸 June 10th, 10am PDT: [WWDC24 Watch Party](https://www.eventbrite.com/e/wwdc24-watch-party-tickets-895479391967) – Spokane, WA, United States
 - 🇺🇸 June 10th, 12pm CDT: [WWDC Watch Event](https://www.eventbrite.com/e/wwdc-watch-event-tickets-905139044247) – St Louis, MO, United States
 
