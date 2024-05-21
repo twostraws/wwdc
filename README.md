@@ -41,6 +41,7 @@ TUESDAY, June 11th
 
 WEDNESDAY, June 12th
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
+- [James Dempsey <sup>and</sup><sub>the</sub> Breakpoints: LIVE near WWDC](https://livenearwwdc.com) 7pm-11pm, music starts about 8, (requires ticket; limited capacity)
 
 THURSDAY, June 13th
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by Paul Hudson (requires ticket; limited capacity)
