@@ -28,25 +28,29 @@ SUNDAY, June 9th
 
 MONDAY, June 10th
 - [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- [WWDC Coffee @ Berraco Colombian Cafe](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
 - [One More Thing conference keynote stream](https://omt-conf.com/) (requires ticket; limited capacity)
 - [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
-- [r/VisionPro Drinks Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (5pm-7pm+)
+- [r/VisionPro Drinks Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) 5pm-7pm+
 - [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2024) 7pm-9:30pm
 - [Apple Vision Pro Meetup by XR Bootcamp](https://www.eventbrite.com/e/vision-pro-meetup-at-wwdc24-tickets-884217657817?aff=ebdsoporgprofile) 7pm-11:30pm
 
 TUESDAY, June 11th
-- [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
+- [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb) 8:30am
 - [One More Thing Conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
 - [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077) 7pm-10pm
 
 WEDNESDAY, June 12th
+- [WWDC Coffee @ Coffee & Water Lab](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
 - [James Dempsey <sup>and</sup><sub>the</sub> Breakpoints: LIVE near WWDC](https://livenearwwdc.com) 7pm-11pm, music starts about 8, (requires ticket; limited capacity)
 
 THURSDAY, June 13th
+- [WWDC Coffee Nirvana Soul](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by Paul Hudson (requires ticket; limited capacity)
 
 FRIDAY, June 14th
+- [WWDC Coffee Berraco Coffee](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by James Dempsey (requires ticket; limited capacity)
 
 
@@ -66,12 +70,15 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇨🇳 June 10th, 11pm CST: [WWDC24.playground Watch Party](https://wwdc24.swiftgg.team/en/), Shanghai, China
 - 🇨🇳 June 10th, 11pm CST: [WWDC24.playground Watch Party](https://wwdc24.swiftgg.team/en/), Shenzhen, China
 - 🇩🇰 June 10th 5pm CEST: [WWDC24 BBQ & Watch Party at Shape](https://shape.dk/event/wwdc24), Copenhagen, Denmark
+- 🇩🇪 June 10th, 6:30pm CEST: [WWDC Watch Party](https://www.meetup.com/cocoaheads-berlin/events/301096559), Berlin, Germany
 - 🇩🇪 June 10th, 6:30pm CEST: [WWDC24 Watch Together](https://www.meetup.com/check-it-rhein-main/events/300948238/) - Frankfurt am Main, Germany
 - 🇮🇳 June 10th, 7pm IST: [WWDC24 Keynote and SOTU Watch Party](https://www.meetup.com/swiftbengaluru/events/300922614/) – Bangalore, India
 - 🇳🇱 June 10th, 6pm CEST: [CocoaHeads NL Keynote meetup @ ABNAMRO](https://www.meetup.com/cocoaheadsnl/events/298694068) - Amsterdam, The Netherlands
 - 🇳🇴 June 10th, 6pm CEST: [WWDC24 Watch Party](https://www.rebel.no/events/wwdc2024-watch-party) – Oslo, Norway
 - 🇸🇬 June 11th, 12am SGT: [iOS Dev Scout - WWDC 2024 Watch Party](https://www.meetup.com/singapore-ios-dev-scout-meetup/events/300718200/) – Singapore
 - 🇬🇧 June 10th, 6pm BST: [NSLondon WWDC24 Watch Party](https://www.meetup.com/nslondon/events/300905884) - London, United Kingdom
+- 🇺🇸 June 10th, 11:45am CDT: [WWDC Keynote Watch Party](https://www.meetup.com/austin-iphone-developer-group/events/300862227) – Austin, TX, United States
+- 🇺🇸 June 10th, 10am EDT: [Underdog Dev's WWDC Watch Party](https://www.eventbrite.com/e/underdog-devs-wwdc-watch-party-tickets-911131598137) – Orlando, FL, United States
 - 🇺🇸 June 10th, 10am PDT: [WWDC24 Watch Party](https://www.eventbrite.com/e/wwdc24-watch-party-tickets-895479391967) – Spokane, WA, United States
 - 🇺🇸 June 10th, 12pm CDT: [WWDC Watch Event](https://www.eventbrite.com/e/wwdc-watch-event-tickets-905139044247) – St Louis, MO, United States
 
