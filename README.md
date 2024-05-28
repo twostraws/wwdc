@@ -84,11 +84,12 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
-### Communicating with other attendees
 
-We have created an open Slack workspace to ease communication with other attendees and to help organizing ad-hoc events around Cupertino.
+### Chat groups
 
-- [Join WWDC24 Slack Workspace](https://join.slack.com/t/slack-uhn7876/shared_invite/zt-2j7bs29bb-sJhC_gs1d_RriNGakJaQsw)
+There is an unofficial Slack workspace where you can find some other attendees discussing ad-hoc events around Cupertino:
+
+- [Join an unofficial Slack workspace](https://join.slack.com/t/slack-uhn7876/shared_invite/zt-2j7bs29bb-sJhC_gs1d_RriNGakJaQsw)
 
 <p>&nbsp;</p>
 
