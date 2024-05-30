@@ -42,7 +42,7 @@ TUESDAY, June 11th
 
 WEDNESDAY, June 12th
 - [WWDC Coffee @ Coffee & Water Lab](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
-- [#WWDCScholars Meetup](https://coda.io/@wwdccommunity/wwdcscholars-wwdc24) 9:00am for early starters, 10am-1pm full event (for past & current Swift Student Challenge & WWDC Scholarship winners)
+- [#WWDCScholars Meetup](https://coda.io/@wwdccommunity/wwdcscholars-meetup-wwdc24) 9:00am for early starters, 10am-1pm full event (for past & current Swift Student Challenge & WWDC Scholarship winners)
 - [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
 - [Swift Community Social @ WWDC24](https://www.eventbrite.com/e/swift-community-social-wwdc24-tickets-897550506727) 5pm-7:30pm (requires ticket; limited capacity)
 - [James Dempsey <sup>and</sup><sub>the</sub> Breakpoints: LIVE near WWDC](https://livenearwwdc.com) 7pm-11pm, music starts about 8, (requires ticket; limited capacity)
