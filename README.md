@@ -20,7 +20,7 @@ SATURDAY, JUNE 8th
 - 6:30pm: [Apple Park Happy Hour](https://www.paperlesspost.com/go/k6dqVkMh93ebWwSLpB3Ml)
 
 SUNDAY, June 9th
-- 8:30am-10am: [Electronics Flea Market street photography meetup](https://mastodon.social/@tommarmstrong/112531183474565117)
+- 8:30am-10am: [Pre-WWDC street photography meetup @ Electronics Flea Market](https://mastodon.social/@tommarmstrong/112531183474565117)
 - 9am-10am: [r/VisionPro Coffee Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (informal)
 - 12pm-2pm: [Core Coffee – WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224553/)
 - 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
