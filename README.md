@@ -80,6 +80,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇳🇴 June 10th, 6pm CEST: [WWDC24 Watch Party](https://www.rebel.no/events/wwdc2024-watch-party) – Oslo, Norway
 - 🇸🇬 June 11th, 12am SGT: [iOS Dev Scout - WWDC 2024 Watch Party](https://www.meetup.com/singapore-ios-dev-scout-meetup/events/300718200/) – Singapore
 - 🇬🇧 June 10th, 6pm BST: [NSLondon WWDC24 Watch Party](https://www.meetup.com/nslondon/events/300905884) - London, United Kingdom
+- 🇬🇧 June 10th, 5pm BST: [NSManchester WWDC24 Watch Party](https://www.meetup.com/nsmanchester/events/301005707/) - Manchester, United Kingdom
 - 🇺🇸 June 10th, 11:45am CDT: [WWDC Keynote Watch Party](https://www.meetup.com/austin-iphone-developer-group/events/300862227) – Austin, TX, United States
 - 🇺🇸 June 10th, 10am EDT: [Underdog Dev's WWDC Watch Party](https://www.eventbrite.com/e/underdog-devs-wwdc-watch-party-tickets-911131598137) – Orlando, FL, United States
 - 🇺🇸 June 10th, 10am PDT: [WWDC24 Watch Party](https://www.eventbrite.com/e/wwdc24-watch-party-tickets-895479391967) – Spokane, WA, United States
