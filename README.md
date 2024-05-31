@@ -113,6 +113,13 @@ There is an unofficial Slack workspace where you can find some other attendees d
 <p>&nbsp;</p>
 
 
+## WWDC24 Deals: Books and Courses
+
+- [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
+
+
+<p>&nbsp;</p>
+
 # How to contribute
 
 This repository has a number of “official” contributors who are posting links to their work and events here and are also able to merge pull requests. But it’s completely open for everyone to contribute articles, videos, tips, and more, from any source.
