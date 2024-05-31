@@ -16,45 +16,56 @@ There are lots of events happening in and around Cupertino, along with other eve
 ### Events in and around Cupertino
 
 SATURDAY, JUNE 8th
-- 5pm-8pm: [Informal Pre-WWDC 24 Gathering in San Pedro Square](https://pre-wwdc24-gathering.splashthat.com) (informal)
-- 6:30pm: [Apple Park Happy Hour](https://www.paperlesspost.com/go/k6dqVkMh93ebWwSLpB3Ml)
+- 5:00pm-8:00pm: [Informal Pre-WWDC 24 Gathering in San Pedro Square](https://pre-wwdc24-gathering.splashthat.com) (informal)
+- 6:30pm-Onwards: [Apple Park Happy Hour](https://www.paperlesspost.com/go/k6dqVkMh93ebWwSLpB3Ml)
 
 SUNDAY, June 9th
-- 8:30am-10am: [Pre-WWDC street photography meetup @ Electronics Flea Market](https://mastodon.social/@tommarmstrong/112531183474565117)
-- 9am-10am: [r/VisionPro Coffee Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (informal)
-- 12pm-2pm: [Core Coffee – WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224553/)
-- 3pm-7pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
+- 8:30am-10:00am: [Pre-WWDC street photography meetup @ Electronics Flea Market](https://mastodon.social/@tommarmstrong/112531183474565117)
+- 9:00am-10:00am: [r/VisionPro Coffee Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) (informal)
+- 12:00pm-2:00pm: [Core Coffee – WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224553/)
+- 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
 - 6:30pm-10:30pm: [RevenueCat's Barcade Bash](https://rcwwdc24.rsvpify.com/?securityToken=no1ZqQkqUPr5TnZvsayP3U5kcLpd3Mc3)
 - 7:00pm-9:00pm: [Dr. Funk's Tech House @ WWDC](https://www.eventbrite.com/e/dr-funks-tech-house-wwdc-tickets-899192758747?aff=github)
 
 MONDAY, June 10th
-- [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
-- [WWDC Coffee @ Berraco Colombian Cafe](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
-- [One More Thing conference keynote stream](https://omt-conf.com/) (requires ticket; limited capacity)
-- [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
-- [r/VisionPro Drinks Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/) 5pm-7pm+
-- [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2024) 7pm-9:30pm
-- [Apple Vision Pro Meetup by XR Bootcamp](https://www.eventbrite.com/e/vision-pro-meetup-at-wwdc24-tickets-884217657817?aff=ebdsoporgprofile) 7pm-11:30pm
+- 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- 8:30am-Onwards: [WWDC Coffee @ Berraco Colombian Cafe](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee)
+- 9:00am-5:00pm: [iOSDevHappyHour X WWDCCommunity WWDC + SOTU Watch Party](https://watchparty2024.eventbrite.com)
+- 10:00am-5:00pm: [One More Thing conference keynote stream](https://omt-conf.com/) (requires ticket; limited capacity)
+- 6:00pm-10:00pm: [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
+- 5:00pm-7:00pm+: [r/VisionPro Drinks Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/)
+- 7:00pm-9:30pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2024)
+- 7:00pm-11:30pm: [Apple Vision Pro Meetup by XR Bootcamp](https://www.eventbrite.com/e/vision-pro-meetup-at-wwdc24-tickets-884217657817?aff=ebdsoporgprofile)
 
 TUESDAY, June 11th
-- [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb) 8:30am
-- [One More Thing Conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
-- [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077) 7pm-10pm
+- 8:30am-onwards: [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
+- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- 10:00am-3:00pm: [WWDCCommunity Career Fair](https://coda.io/@wwdccommunity/wwdccommunity-career-fair)
+- 11:00am-2:00pm: [Core Coffee – WWDC Edition pt.2](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224796/)
+- 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
+- 10:00am-5:00pm: [One More Thing Conference](https://omt-conf.com/) talks TBA (requires ticket; limited capacity)
+- 3:00pm-5:00pm: [WWDCCommunity Women's Get Together](https://coda.io/@wwdccommunity/wwdccommunity-ladies-meetup)
+- 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077)
 
 WEDNESDAY, June 12th
-- [WWDC Coffee @ Coffee & Water Lab](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
-- [#WWDCScholars Meetup](https://coda.io/@wwdccommunity/wwdcscholars-meetup-wwdc24) 9:00am for early starters, 10am-1pm full event (for past & current Swift Student Challenge & WWDC Scholarship winners)
-- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
-- [Swift Community Social @ WWDC24](https://www.eventbrite.com/e/swift-community-social-wwdc24-tickets-897550506727) 5pm-7:30pm (requires ticket; limited capacity)
-- [James Dempsey <sup>and</sup><sub>the</sub> Breakpoints: LIVE near WWDC](https://livenearwwdc.com) 7pm-11pm, music starts about 8, (requires ticket; limited capacity)
+- 8:30am-onwards: [WWDC Coffee @ Coffee & Water Lab](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
+- 9:00am-1:00pm: [#WWDCScholars Meetup](https://coda.io/@wwdccommunity/wwdcscholars-meetup-wwdc24) 9:00am for early starters, 10am-1pm full event (for past & current Swift Student Challenge & WWDC Scholarship winners)
+- 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
+- 10:00am-5:00pm: [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
+- 11:00am-2:00pm: [Core Coffee X LookUp 10 Year Anniversary - WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300261500/)
+- 1:00pm-4:00pm: [WWDCCommunity Vision Pro Enthusiast Meetup](https://coda.io/@wwdccommunity/wwdccommunity-vision-pro-enthusiast-meetup)
+- 5:00pm-7:30pm [Swift Community Social @ WWDC24](https://www.eventbrite.com/e/swift-community-social-wwdc24-tickets-897550506727) (requires ticket; limited capacity)
+- 7:00pm-11:00pm: [James Dempsey <sup>and</sup><sub>the</sub> Breakpoints: LIVE near WWDC](https://livenearwwdc.com) Music starts about 8, (requires ticket; limited capacity)
 
 THURSDAY, June 13th
-- [WWDC Coffee Nirvana Soul](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
-- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by Paul Hudson (requires ticket; limited capacity)
+- 8:30am-onwards: [WWDC Coffee Nirvana Soul](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee)
+- 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
+- 10:00am-5:00pm: [One More Thing conference](https://omt-conf.com/) talks TBA, special event by Paul Hudson (requires ticket; limited capacity)
+- 11:00am-2:00pm: [Core Coffee – WWDC Edition pt.4](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300261523/)
 
 FRIDAY, June 14th
-- [WWDC Coffee Berraco Coffee](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
-- [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA, special event by James Dempsey (requires ticket; limited capacity)
+- 8:30am-onwards: [WWDC Coffee Berraco Coffee](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee)
+- 10:00am-5:00pm: [One More Thing conference](https://omt-conf.com/) talks TBA, special event by James Dempsey (requires ticket; limited capacity)
 
 
 ### Events around the world and online
@@ -85,6 +96,10 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇺🇸 June 10th, 10am EDT: [Underdog Dev's WWDC Watch Party](https://www.eventbrite.com/e/underdog-devs-wwdc-watch-party-tickets-911131598137) – Orlando, FL, United States
 - 🇺🇸 June 10th, 10am PDT: [WWDC24 Watch Party](https://www.eventbrite.com/e/wwdc24-watch-party-tickets-895479391967) – Spokane, WA, United States
 - 🇺🇸 June 10th, 12pm CDT: [WWDC Watch Event](https://www.eventbrite.com/e/wwdc-watch-event-tickets-905139044247) – St Louis, MO, United States
+- 🇵🇭 June 11th, 12am PHT: [SwiftPH WWDC Watch Party - Manila](https://bit.ly/swiftph-members-form) - Manila, Philippines
+- 🇵🇭 June 11th, 12am PHT: [SwiftPH WWDC Watch Party - Davao](https://bit.ly/swiftph-members-form) - Davao, Philippines
+
+
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
