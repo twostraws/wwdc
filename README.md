@@ -46,6 +46,8 @@ TUESDAY, June 11th
 - 10:00am-5:00pm: [One More Thing Conference](https://omt-conf.com/) talks TBA (requires ticket; limited capacity)
 - 3:00pm-5:00pm: [WWDCCommunity Women's Get Together](https://coda.io/@wwdccommunity/wwdccommunity-ladies-meetup)
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077)
+- 7:00pm: [The Talk Show Live from WWDC 2024](https://daringfireball.net/linked/2024/06/03/tickets-for-the-talk-show-live-from-wwdc-2024)
+
 
 WEDNESDAY, June 12th
 - 8:30am-onwards: [WWDC Coffee @ Coffee & Water Lab](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) 8:30am
