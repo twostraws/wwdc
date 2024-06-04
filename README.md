@@ -45,6 +45,7 @@ TUESDAY, June 11th
 - 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
 - 10:00am-5:00pm: [One More Thing Conference](https://omt-conf.com/) talks TBA (requires ticket; limited capacity)
 - 3:00pm-5:00pm: [WWDCCommunity Women's Get Together](https://coda.io/@wwdccommunity/wwdccommunity-ladies-meetup)
+- 3:00pm-5:00pm: [Shortcuts User Group Meetup for WWDC’24 in San Jose](https://matthewcassinelli.com/event-join-me-at-the-shortcuts-user-group-meetup-for-wwdc24-in-san-jose/)
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077)
 - 6:00pm-9:00pm: [The Talk Show Live from WWDC 2024](https://daringfireball.net/linked/2024/06/03/tickets-for-the-talk-show-live-from-wwdc-2024)
 
