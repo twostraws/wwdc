@@ -35,7 +35,7 @@ MONDAY, June 10th
 - 6:00pm-10:00pm: [Go to pub after Special Event](https://locals.org/go-to-pub-after-special-event-wwdc24-clle)
 - 5:00pm-7:00pm+: [r/VisionPro Drinks Meetup](https://www.reddit.com/r/VisionPro/comments/1cmg3pj/wwdc24_rvisionpro_meetup/)
 - 7:00pm-9:30pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2024)
-- 7:00pm-11:30pm: [Apple Vision Pro Meetup by XR Bootcamp](https://www.eventbrite.com/e/vision-pro-meetup-at-wwdc24-tickets-884217657817?aff=ebdsoporgprofile)
+- 6:00pm-11:30pm: [Vision Pro Meetup by XR Bootcamp](https://www.eventbrite.com/e/vision-pro-meetup-at-wwdc24-tickets-884217657817?aff=ebdsoporgprofile)
 
 TUESDAY, June 11th
 - 8:30am-onwards: [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
