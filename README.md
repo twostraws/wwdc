@@ -102,6 +102,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇺🇸 June 10th, 12pm CDT: [WWDC Watch Event](https://www.eventbrite.com/e/wwdc-watch-event-tickets-905139044247) – St Louis, MO, United States
 - 🇵🇭 June 11th, 12am PHT: [SwiftPH WWDC Watch Party - Manila](https://bit.ly/swiftph-members-form) - Manila, Philippines
 - 🇵🇭 June 11th, 12am PHT: [SwiftPH WWDC Watch Party - Davao](https://bit.ly/swiftph-members-form) - Davao, Philippines
+- 🇲🇰 June 10th, 7pm CEST: [CocoaHeadsMK WWDC Watch Party](https://www.linkedin.com/events/7200926206911746049/about/) – Skopje, Macedonia
 
 
 
