@@ -125,6 +125,7 @@ There is an unofficial Slack workspace where you can find some other attendees d
 ## WWDC24 Deals: Books and Courses
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
+- [Save 25% on a new Point-Free subscription](https://www.pointfree.co/discounts/dubdub24)
 
 
 <p>&nbsp;</p>
