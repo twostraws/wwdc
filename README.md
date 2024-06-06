@@ -117,6 +117,10 @@ There is an unofficial Slack workspace where you can find some other attendees d
 
 <p>&nbsp;</p>
 
+### Podcasts
+
+- [WWDC 2024 First Impressions Livecast](https://us02web.zoom.us/webinar/register/WN_P4tayylLTA28zH81OcMBZQ) from Kodeco.
+
 
 ## WWDC24 Deals: Books and Courses
 
