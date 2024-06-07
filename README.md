@@ -103,6 +103,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇵🇭 June 11th, 12am PHT: [SwiftPH WWDC Watch Party - Manila](https://bit.ly/swiftph-members-form) - Manila, Philippines
 - 🇵🇭 June 11th, 12am PHT: [SwiftPH WWDC Watch Party - Davao](https://bit.ly/swiftph-members-form) - Davao, Philippines
 - 🇲🇰 June 10th, 7pm CEST: [CocoaHeadsMK WWDC Watch Party](https://www.linkedin.com/events/7200926206911746049/about/) – Skopje, Macedonia
+- 🇫🇷 June t01h, 6pm CEST: [WWDC24 Public Viewing @ IMERIR's FabLab](https://maps.apple.com/?address=7%20Avenue%20Paul%20Pascot,%2066000%20Perpignan,%20France&auid=8284453359764424282&ll=42.674284,2.847922&lsp=9902&q=IMERIR), Perpignan, France
 
 
 
