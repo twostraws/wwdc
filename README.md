@@ -129,6 +129,7 @@ There is an unofficial Slack workspace where you can find some other attendees d
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 - [Save 25% on a new Point-Free subscription](https://www.pointfree.co/discounts/dubdub24)
+- [Save 30% on "Swift Gems" and "Integrating SwiftUI into UIKit Apps" books by Natalia Panferova](https://books.nilcoalescing.com)
 
 
 <p>&nbsp;</p>
