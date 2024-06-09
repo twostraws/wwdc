@@ -26,6 +26,7 @@ SUNDAY, June 9th
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc24/) (requires WWDC ticket)
 - 6:30pm-10:30pm: [RevenueCat's Barcade Bash](https://rcwwdc24.rsvpify.com/?securityToken=no1ZqQkqUPr5TnZvsayP3U5kcLpd3Mc3)
 - 7:00pm-9:00pm: [Dr. Funk's Tech House @ WWDC](https://www.eventbrite.com/e/dr-funks-tech-house-wwdc-tickets-899192758747?aff=github)
+- 8:30pm-11:00pm: The 🇫🇷 Frenchy Dinner - Limited Seat [Limited Seat - RSVP](https://airtable.com/app8lx6yAEzeu2jWu/pagRSdPPdpEvB5PHt/form)
 
 MONDAY, June 10th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
