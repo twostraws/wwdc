@@ -41,15 +41,16 @@ MONDAY, June 10th
 TUESDAY, June 11th
 - 8:30am-onwards: [Morning Coffee&Code](https://locals.org/coffeecode-wwdc24-loxb)
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
-- 10:00am-3:00pm: [WWDCCommunity Career Fair](https://coda.io/@wwdccommunity/wwdccommunity-career-fair)
+- 10:00am-3:00pm: [WWDCCommunity Career Match up](https://coda.io/@wwdccommunity/wwdccommunity-career-fair)
 - 11:00am-2:00pm: [Core Coffee – WWDC Edition pt.2](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300224796/)
 - 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
 - 10:00am-5:00pm: [One More Thing Conference](https://omt-conf.com/) talks TBA (requires ticket; limited capacity)
-- 3:00pm-5:00pm: [WWDCCommunity Women's Get Together](https://coda.io/@wwdccommunity/wwdccommunity-ladies-meetup)
+- 3:00pm-5:00pm: [WWDCCommunity Women Get Together](https://coda.io/@wwdccommunity/wwdccommunity-ladies-meetup)
 - 3:00pm-5:00pm: [Shortcuts User Group Meetup for WWDC’24 in San Jose](https://matthewcassinelli.com/event-join-me-at-the-shortcuts-user-group-meetup-for-wwdc24-in-san-jose/)
+- 3:00pm-5:00pm: [People in Product Catch Up over Coffee & Drinks](https://coda.io/d/People-in-Product-Catch-Up-over-Coffee-Drinks_drCJjCUUk9e/People-in-Product-Catch-Up-over-Coffee-Drinks_su-g7#_luVMz)
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077)
 - 6:00pm-9:00pm: [The Talk Show Live from WWDC 2024](https://daringfireball.net/linked/2024/06/03/tickets-for-the-talk-show-live-from-wwdc-2024)
-- 3:00pm-5:00pm: [People in Product Catch Up over Coffee & Drinks](https://coda.io/d/People-in-Product-Catch-Up-over-Coffee-Drinks_drCJjCUUk9e/People-in-Product-Catch-Up-over-Coffee-Drinks_su-g7#_luVMz)
+
 
 
 WEDNESDAY, June 12th
