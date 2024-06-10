@@ -49,6 +49,7 @@ TUESDAY, June 11th
 - 3:00pm-5:00pm: [Shortcuts User Group Meetup for WWDC’24 in San Jose](https://matthewcassinelli.com/event-join-me-at-the-shortcuts-user-group-meetup-for-wwdc24-in-san-jose/)
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC24 IRL](https://www.eventbrite.com/e/iosdevhappyhour-wwdc24-irl-tickets-890045509077)
 - 6:00pm-9:00pm: [The Talk Show Live from WWDC 2024](https://daringfireball.net/linked/2024/06/03/tickets-for-the-talk-show-live-from-wwdc-2024)
+- 3:00pm-5:00pm: [People in Product Catch Up over Coffee & Drinks](https://coda.io/d/People-in-Product-Catch-Up-over-Coffee-Drinks_drCJjCUUk9e/People-in-Product-Catch-Up-over-Coffee-Drinks_su-g7#_luVMz)
 
 
 WEDNESDAY, June 12th
