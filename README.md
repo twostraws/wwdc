@@ -137,6 +137,10 @@ There is an unofficial Slack workspace where you can find some other attendees d
 - [Save 25% on a new Point-Free subscription](https://www.pointfree.co/discounts/dubdub24)
 - [Save 30% on "Swift Gems" and "Integrating SwiftUI into UIKit Apps" books by Natalia Panferova](https://books.nilcoalescing.com)
 
+## WWDC24 Deals: Apps
+
+- [Save 20% on Snippety lifetime access](https://x.com/AppSnippety/status/1800581165507854588) from [Wojciech Kulik](https://x.com/kulik_wojciech)
+
 
 <p>&nbsp;</p>
 
