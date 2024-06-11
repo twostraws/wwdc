@@ -78,6 +78,9 @@ FRIDAY, June 14th
 
 There are lots of other events and watch parties taking place around the world and online:
 
+MONDAY, June 10th onwards
+- [WWDC Notes](https://wwdcnotes.com/beta) from voluntary members of our community, maybe you? (organized by [Cihat Gündüz](https://github.com/Jeehut))
+
 - Add your event here with a pull request!
 
 WEDNESDAY, June 12th
