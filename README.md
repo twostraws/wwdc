@@ -65,7 +65,6 @@ WEDNESDAY, June 12th
 
 THURSDAY, June 13th
 - 8:30am-onwards: [WWDC Coffee Nirvana Soul](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee)
-- 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
 - 10:00am-5:00pm: [One More Thing conference](https://omt-conf.com/) talks TBA, special event by Paul Hudson (requires ticket; limited capacity)
 - 11:00am-2:00pm: [Core Coffee – WWDC Edition pt.4](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300261523/)
 
