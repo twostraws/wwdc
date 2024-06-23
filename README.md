@@ -144,7 +144,7 @@ We are:
 - [Meng To](https://twitter.com/mengto)
 - [Donny Wals](https://twitter.com/donnywals)
 - [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
-- [SIQI(SketchK)](https://twitter.com/SketchK_47)
+- [SIQI](https://twitter.com/SwiftSIQI)
 
 If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
