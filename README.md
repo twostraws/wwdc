@@ -69,6 +69,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇨🇳 June 10th, 11pm CST: [WWDC24.playground Watch Party](https://wwdc24.swiftgg.team/en/), Beijing, China
 - 🇨🇳 June 10th, 11pm CST: [WWDC24.playground Watch Party](https://wwdc24.swiftgg.team/en/), Shanghai, China
 - 🇨🇳 June 10th, 11pm CST: [WWDC24.playground Watch Party](https://wwdc24.swiftgg.team/en/), Shenzhen, China
+- 🇨🇳 June 10th, 11pm CST: [WWDC24.playground Watch Party](https://wwdc24.swiftgg.team/en/), HangZhou, China
 - 🇩🇰 June 10th 5pm CEST: [WWDC24 BBQ & Watch Party at Shape](https://shape.dk/event/wwdc24), Copenhagen, Denmark
 - 🇩🇪 June 10th, 6:30pm CEST: [WWDC Watch Party](https://www.meetup.com/cocoaheads-berlin/events/301096559), Berlin, Germany
 - 🇩🇪 June 10th, 6:30pm CEST: [WWDC24 Watch Together](https://www.meetup.com/check-it-rhein-main/events/300948238/) - Frankfurt am Main, Germany
