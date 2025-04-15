@@ -15,6 +15,9 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
+FRIDAY, June 7th
+- 5:00pm-8:00pm: [Informal Pre-WWDC 25 Gathering](https://pre-wwdc25.splashthat.com)
+
 SUNDAY, June 9th
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 
