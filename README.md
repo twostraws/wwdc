@@ -15,7 +15,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
-SATURDAY, June 7thth
+SATURDAY, June 7th
 - 9:00am-4:00pm: [Half-Day Workshops gifted to One More Thing](https://omt-conf.com/wwdc25) (paid)
 
 SUNDAY, June 8th
