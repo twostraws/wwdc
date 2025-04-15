@@ -15,16 +15,37 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
-SUNDAY, June 9th
+SATURDAY, June 7thth
+- 9:00am-4:00pm: [Half-Day Workshops gifted to One More Thing](https://omt-conf.com/wwdc25) (paid)
+
+SUNDAY, June 8th
+- 9:30am-12:00pm: ["Level Up Your Swift" with Paul Hudson](https://omt-conf.com/wwdc25) (paid)
+- 1:00am-4:00pm: [Half Day Workshop with Matt Massicotte](https://omt-conf.com/wwdc25) (paid)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 
-MONDAY, June 10th
+MONDAY, June 9th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25) (free or paid)
+- 3:30-5:30pm: [WWDC25 Keynote Happy Hour hosted by One More Thing](https://omt-conf.com/wwdc25) (free or paid)
 
-TUESDAY, June 11th
+TUESDAY, June 10th
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:00am-5:30pm: [One More Thing 2025 - Anytime Talks & Gatherings](https://omt-conf.com/wwdc25) (free or paid)
+
+WEDNESDAY, June 11th
+- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:00am-5:30pm: [One More Thing 2025 - Anytime Talks & Gatherings](https://omt-conf.com/wwdc25) (free or paid)
+- 8:00am-5:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) (free)
+
+THURSDAY, June 12th
+- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:30am-7:00pm: [One More Thing 2025 - Anytime Talks & Gatherings](https://omt-conf.com/wwdc25) (free or paid)
+- 8:30am-10:00am: [Annual Cocoaheads (& Other Meetups) Leadership Breakfast](https://omt-conf.com/wwdc25) (request an invite)
+- 4:30pm-7:00pm: [Goodbye Party hosted by One More Thing](https://omt-conf.com/wwdc25) (free or paid)
 
 
 ### Events around the world and online
@@ -38,7 +59,7 @@ There will be lots of other events and watch parties taking place around the wor
 
 If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 10th, but events are taking place to stream it elsewhere.
 
-- Add your events here with a pull request!
+🇺🇸 June 9th, 10am PT: [WWDC25 Keynote & SOTU hosted by One More Thing](https://omt-conf.com/wwdc25) – Cupertino, CA, United States
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
@@ -46,11 +67,14 @@ You're welcome to add your own in a pull request – please ensure your country
 ### Chat groups
 
 There is an unofficial Slack workspace where you can find some other attendees discussing ad-hoc events around Cupertino:
-
 - [Join an unofficial Slack workspace](https://join.slack.com/t/slack-uhn7876/shared_invite/zt-2j7bs29bb-sJhC_gs1d_RriNGakJaQsw)
+- [One More Thing 2025](https://omt-conf/wwdc25)'s semi-private slack for volunteers, speakers, and topic-experts
 
 <p>&nbsp;</p>
 
+### WWDC25 Deals: Books and Courses
+
+- [One More Thing 2025](https://omt-conf/wwdc25)'s on-site library: [gift your book](https://onemorething.typeform.com/authors-gift)
 
 # How to contribute
 
