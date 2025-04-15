@@ -67,6 +67,7 @@ You're welcome to add your own in a pull request – please ensure your country
 ### Chat groups
 
 There is an unofficial Slack workspace where you can find some other attendees discussing ad-hoc events around Cupertino:
+
 - [Join an unofficial Slack workspace](https://join.slack.com/t/slack-uhn7876/shared_invite/zt-2j7bs29bb-sJhC_gs1d_RriNGakJaQsw)
 
 <p>&nbsp;</p>
