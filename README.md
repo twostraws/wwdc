@@ -44,7 +44,7 @@ THURSDAY, June 12th
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:30am-7:00pm: [One More Thing 2025 - Anytime Talks & Gatherings](https://omt-conf.com/wwdc25) (free or paid)
-- 8:30am-10:00am: [Annual Cocoaheads (& Other Meetups) Leadership Breakfast](https://omt-conf.com/wwdc25) (request an invite)
+- 8:30am-10:00am: [Annual Leadership Breakfast (for Cocoaheads and other meetup organizers)](https://omt-conf.com/wwdc25) (request an invite)
 - 4:30pm-7:00pm: [Goodbye Party hosted by One More Thing](https://omt-conf.com/wwdc25) (free or paid)
 
 
@@ -68,13 +68,12 @@ You're welcome to add your own in a pull request – please ensure your country
 
 There is an unofficial Slack workspace where you can find some other attendees discussing ad-hoc events around Cupertino:
 - [Join an unofficial Slack workspace](https://join.slack.com/t/slack-uhn7876/shared_invite/zt-2j7bs29bb-sJhC_gs1d_RriNGakJaQsw)
-- [One More Thing 2025](https://omt-conf/wwdc25)'s semi-private slack for volunteers, speakers, and topic-experts
 
 <p>&nbsp;</p>
 
 ### WWDC25 Deals: Books and Courses
 
-- [One More Thing 2025](https://omt-conf/wwdc25)'s on-site library: [gift your book](https://onemorething.typeform.com/authors-gift)
+- [One More Thing 2025](https://omt-conf/wwdc25)'s on-site library: [gift your book](https://onemorething.typeform.com/authors-gift) from J'aime Ohm
 
 # How to contribute
 
