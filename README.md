@@ -21,6 +21,7 @@ SUNDAY, June 9th
 MONDAY, June 10th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 7:00pm-10:00pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2025) 
 
 TUESDAY, June 11th
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
