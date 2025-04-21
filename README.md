@@ -15,17 +15,37 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
-SUNDAY, June 9th
+FRIDAY, June 6th
+- 5:00pm-8:00pm: [Informal Pre-WWDC 25 Gathering](https://pre-wwdc25.splashthat.com)
+
+SATURDAY, June 7th
+- 9:00am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
+
+SUNDAY, June 8th
+- 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 
-MONDAY, June 10th
+MONDAY, June 9th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25)
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2025) 
 
-TUESDAY, June 11th
+TUESDAY, June 10th
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
+
+WEDNESDAY, June 11th
+- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
+- 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
+
+THURSDAY, June 12th
+- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
+- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 
 
 ### Events around the world and online
@@ -38,8 +58,6 @@ There will be lots of other events and watch parties taking place around the wor
 ### Keynote watch parties
 
 If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 10th, but events are taking place to stream it elsewhere.
-
-- Add your events here with a pull request!
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
