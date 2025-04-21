@@ -15,11 +15,9 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
-FRIDAY, June 6th
-- 5:00pm-8:00pm: [Informal Pre-WWDC 25 Gathering](https://pre-wwdc25.splashthat.com)
-
 SATURDAY, June 7th
 - 9:00am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
+- 5:00pm-8:00pm: [Informal Pre-WWDC 25 Gathering](https://pre-wwdc25.splashthat.com)
 
 SUNDAY, June 8th
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
@@ -36,13 +34,11 @@ TUESDAY, June 10th
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 
 WEDNESDAY, June 11th
-- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
 
 THURSDAY, June 12th
-- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 
