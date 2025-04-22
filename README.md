@@ -40,7 +40,6 @@ WEDNESDAY, June 11th
 - 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
 
 THURSDAY, June 12th
-- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 
 
