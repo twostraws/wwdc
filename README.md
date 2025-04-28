@@ -16,8 +16,8 @@ There are lots of events happening in and around Cupertino, along with other eve
 ### Events in and around Cupertino
 
 SATURDAY, June 7th
-- 10:00am-12:00pm: [WWDC Run](https://lu.ma/uob9fld4) (registration suggested)
 - 9:00am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
+- 10:00am-12:00pm: [WWDC Run](https://lu.ma/uob9fld4) (registration suggested)
 - 5:00pm-8:00pm: [Informal Pre-WWDC 25 Gathering](https://pre-wwdc25.splashthat.com)
 
 SUNDAY, June 8th
