@@ -50,6 +50,15 @@ THURSDAY, June 12th
 
 There will be lots of other events and watch parties taking place around the world and online.
 
+TUESDAY, May 13th
+- 8:30am-5:30pm: 🇲🇰 [iOSKonf 2025 Workshops](https://ioskonf.mk), Skopje, North Macedonia (requires a ticket)
+
+WEDNESDAY, May 14th
+- 8:30am-6:00pm: [🇲🇰 iOSKonf 2025 Day 1](https://ioskonf.mk), Skopje, North Macedonia (requires a ticket)
+
+THURSDAY, May 15th
+- 8:30am-10:00pm: 🇲🇰 [iOSKonf 2025 Day 2 & After Party](https://ioskonf.mk), Skopje, North Macedonia (requires a ticket)
+
 - Add your event here with a pull request!
 
 
