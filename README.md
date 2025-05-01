@@ -23,6 +23,7 @@ SATURDAY, June 7th
 SUNDAY, June 8th
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
+- 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
 
 MONDAY, June 9th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
