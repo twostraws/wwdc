@@ -66,6 +66,8 @@ You're welcome to add your own in a pull request – please ensure your country
 
 There's a [huge Discord server hosted by CommunityKit](https://discord.gg/ZqeTvPSJ), which has channels for attendees, events, photos, and more.
 
+[Envision WWDC](https://jiaxuli.com/envisionwwdc.html) - Envision WWDC is a third-party online community activity of WWDC. Focusing on WWDC25 and visionOS. The event is held entirely online to build a platform for free communication for global developers. *We are committed to promoting the spatial computing App ecology of Apple Vision*. **You can [join on Discord](https://jiaxuli.com/envisionwwdc.html).**
+
 <p>&nbsp;</p>
 
 
