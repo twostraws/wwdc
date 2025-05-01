@@ -59,12 +59,12 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
+- 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
+
 
 ### Chat groups
 
-There is an unofficial Slack workspace where you can find some other attendees discussing ad-hoc events around Cupertino:
-
-- [Join an unofficial Slack workspace](https://join.slack.com/t/slack-uhn7876/shared_invite/zt-2j7bs29bb-sJhC_gs1d_RriNGakJaQsw)
+There's a [huge Discord server hosted by CommunityKit](https://discord.gg/ZqeTvPSJ), which has channels for attendees, events, photos, and more.
 
 <p>&nbsp;</p>
 
