@@ -36,6 +36,7 @@ TUESDAY, June 10th
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
+- 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
