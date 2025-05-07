@@ -27,7 +27,7 @@ SUNDAY, June 8th
 
 MONDAY, June 9th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
-- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 7:45am-4:00pm: [WWDC25 Keynote & SOTU Watch Party hosted by iOSDevHappyHour at CommunityKit](https://communitykit.social/schedule.html)
 - 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25)
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2025)
 - 7:00pm-10:30pm: 🇫🇷🇨🇦🇱🇺🇧🇪 [The French Dinner](https://lu.ma/9vs7dmot) (requires registration) 
