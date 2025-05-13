@@ -66,6 +66,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
 - 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
+- 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
 
 
 ### Chat groups
