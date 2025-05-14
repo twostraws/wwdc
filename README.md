@@ -47,6 +47,7 @@ WEDNESDAY, June 11th
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
+- 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt)(free)
 
 THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
