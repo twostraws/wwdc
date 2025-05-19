@@ -41,6 +41,7 @@ TUESDAY, June 10th
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
+- 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A)(requires registration)
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
