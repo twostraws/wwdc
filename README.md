@@ -42,7 +42,7 @@ TUESDAY, June 10th
 - 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
 - 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A)(requires registration)
-- 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration)
+- 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour](https://iosdevhappyhour.com)
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (Requires Registration)
 
 WEDNESDAY, June 11th
