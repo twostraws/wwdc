@@ -22,6 +22,7 @@ SATURDAY, June 7th
 - 6:30pm-10:00pm: [Apple Park Happy Hour](https://www.eventbrite.com/e/apple-park-happy-hour-tickets-1335249620559) (RSVP requested)
 
 SUNDAY, June 8th
+- 7:00am-8:00am: [WW Run](https://lu.ma/5zhaoikv) from Ed Arenberg
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
