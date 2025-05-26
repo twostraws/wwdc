@@ -26,7 +26,7 @@ SUNDAY, June 8th
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
-- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
+- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
 MONDAY, June 9th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
@@ -34,15 +34,15 @@ MONDAY, June 9th
 - 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25)
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2025)
 - 7:00pm-10:30pm: 🇫🇷🇨🇦🇱🇺🇧🇪 [The French Dinner](https://lu.ma/9vs7dmot) (requires registration)
-- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
+- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
 TUESDAY, June 10th
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
-- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
-- 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A)(requires registration)
+- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+- 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A) (requires registration)
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour](https://iosdevhappyhour.com)
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (Requires Registration)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
@@ -51,12 +51,14 @@ WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
-- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
-- 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt)(free)
+- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+- 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt) (free)
+- 4:00pm-6:00pm: [Vapor@WWDC](https://lu.ma/zihfxdqz?tk=ICYWZJ) (free)
+- 7:00pm-11:00pm: [Live near WWDC](https://livenearwwdc.com)
 
 THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
-- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc)(free)
+- 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
 ### Events around the world and online
 
