@@ -92,6 +92,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
  - [50%-off ComicReader (iOS, iPadOS, macOS) until WWDC week ends](https://apps.apple.com/us/app/comicreader-read-your-comics/id1474779693) from [Jason Baracassa](https://github.com/siilver777)
 - [Save 25% on BoltAI with WWDC25 coupon code](https://boltai.com/)
 - [Save 53% on PDF Pals with WWDC25 coupon code](https://pdfpals.com/)
+- [Save 25% on Modoki with WWDC25 coupon code](https://modoki.app/)
 
 <p>&nbsp;</p>
 
