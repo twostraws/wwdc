@@ -80,7 +80,7 @@ You're welcome to add your own in a pull request – please ensure your country
 Save money with these discounts on Swift learning material:
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
-- Add your sale here – open a pull request!
+- [Save 25% on Rudrank Riyam's books with WWDC25 coupon code](https://academy.rudrank.com/)
 
 <p>&nbsp;</p>
 
