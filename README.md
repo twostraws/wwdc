@@ -4,7 +4,7 @@
 
 The Apple development community is open and inclusive to everyone, and during WWDC we want to make sure everyone can join events, share articles about Apple’s new announcements, or just hang out with like-minded folks.
 
-So, a number of us decided to start this repository to host links to various WWDC events, news, and tutorials from around the community. That means this repo will contain links to events being organized around our community, plus content from SwiftUI Lab, Hacking with Swift, Donny Wals, Swift with Majid, and many more – and we would love to share *your* articles too.
+So, a number of us decided to start this repository to host links to various WWDC events, news, and tutorials from around the community. That means this repo will contain links to events being organized around our community, plus content from SwiftUI Lab, Hacking with Swift, Donny Wals, Swift with Majid, and many more – and we would love to share *your* articles too.
 
 
 ## Events and Meetups
@@ -66,12 +66,13 @@ THURSDAY, June 12th
 
 If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 10th, but events are taking place to stream it elsewhere.
 
-You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
+You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
 - 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
 - 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
 - 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
 - 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, USA
+- 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
 
 <p>&nbsp;</p>
 
@@ -88,6 +89,7 @@ Save money with these discounts on Swift learning material:
 
 Are you running a sale during WWDC? Open a pull request with more information!
 
+ - [50%-off ComicReader (iOS, iPadOS, macOS) until WWDC week ends](https://apps.apple.com/us/app/comicreader-read-your-comics/id1474779693) from [Jason Baracassa](https://github.com/siilver777)
 - [Save 25% on BoltAI with WWDC25 coupon code](https://boltai.com/)
 - [Save 53% on PDF Pals with WWDC25 coupon code](https://pdfpals.com/)
 
@@ -106,7 +108,7 @@ There's a [huge Discord server hosted by CommunityKit](https://discord.gg/gg2FX5
 
 This repository has a number of “official” contributors who are posting links to their work and events here and are also able to merge pull requests. But it’s completely open for everyone to contribute articles, videos, tips, and more, from any source.
 
-So, if you’ve written about something new from WWDC25, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC25 – we want to represent the full spectrum of voices in our community.
+So, if you’ve written about something new from WWDC25, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC25 – we want to represent the full spectrum of voices in our community.
 
 Please check that:
 
@@ -117,7 +119,7 @@ Please check that:
 
 If you are running sales or special offers on developer-related products, books, or services, please add them under the Offers category. **If you have several products or offers, please just send in one link to avoid overwhelming the list.**
 
-Finally, please do not link to articles that are specifically about rumors – we’re interested in sharing our knowledge and excitement, not leaks.
+Finally, please do not link to articles that are specifically about rumors – we’re interested in sharing our knowledge and excitement, not leaks.
 
 <p>&nbsp;</p>
 
@@ -131,7 +133,7 @@ And so this repository exists to promote events, articles, videos, and more from
 
 So, if you’re setting up social events, Slack groups, quiz nights or more, please add links to them here for others to find. Or if you’re writing about new APIs from WWDC25, if you’re making videos about them, or even if you’re just tweeting cool code samples or Xcode tips, we would love for you to be involved and to share them here.
 
-**We want to encourage you to contribute even if it’s your very first blog post.** This is a community effort, and we want everyone to have their voice heard – we appreciate you and your hard work, and want to celebrate that here!
+**We want to encourage you to contribute even if it’s your very first blog post.** This is a community effort, and we want everyone to have their voice heard – we appreciate you and your hard work, and want to celebrate that here!
 
 <p>&nbsp;</p>
 
@@ -162,7 +164,7 @@ We are:
 - [Sarun Wongpatcharapakorn](https://twitter.com/sarunw)
 - [Siqi Zhang](https://twitter.com/SwiftSIQI)
 
-If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
+If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
 <p>&nbsp;</p>
 
