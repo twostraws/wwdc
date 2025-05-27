@@ -93,6 +93,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [Save 25% on BoltAI with WWDC25 coupon code](https://boltai.com/)
 - [Save 53% on PDF Pals with WWDC25 coupon code](https://pdfpals.com/)
 - [Save 25% on Modoki with WWDC25 coupon code](https://modoki.app/)
+- [50%-off Pro Subscription on **Bushel** - VM app for developers (macOS) from June 1st - 23rd](https://getbushel.app) from [Leo Dion](https://brightdigit.com)
 
 <p>&nbsp;</p>
 
