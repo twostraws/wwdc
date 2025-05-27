@@ -72,7 +72,6 @@ You're welcome to add your own in a pull request – please ensure your country
 - 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
 - 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
 - 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, USA
-- 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
 
 <p>&nbsp;</p>
 
@@ -89,7 +88,8 @@ Save money with these discounts on Swift learning material:
 
 Are you running a sale during WWDC? Open a pull request with more information!
 
- - [50%-off ComicReader (iOS, iPadOS, macOS) until WWDC week ends](https://apps.apple.com/us/app/comicreader-read-your-comics/id1474779693) from [Jason Baracassa](https://github.com/siilver777)
+- [Save 25% on BoltAI with WWDC25 coupon code](https://boltai.com/)
+- [Save 53% on PDF Pals with WWDC25 coupon code](https://pdfpals.com/)
 
 <p>&nbsp;</p>
 
