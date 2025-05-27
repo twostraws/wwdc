@@ -44,7 +44,7 @@ TUESDAY, June 10th
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 - 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A) (requires registration)
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour](https://iosdevhappyhour.com)
-- 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (Requires Registration)
+- 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
 
 WEDNESDAY, June 11th
@@ -60,12 +60,7 @@ THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
-### Events around the world and online
-
-There will be lots of other events and watch parties taking place around the world and online.
-
-- Add your event here with a pull request!
-
+<p>&nbsp;</p>
 
 ### Keynote watch parties
 
@@ -78,6 +73,22 @@ You're welcome to add your own in a pull request – please ensure your country
 - 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
 - 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, USA
 
+<p>&nbsp;</p>
+
+### Course discounts
+
+Save money with these discounts on Swift learning material:
+
+- [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
+- Add your sale here – open a pull request!
+
+<p>&nbsp;</p>
+
+### App discounts
+
+Are you running a sale during WWDC? Open a pull request with more information!
+
+<p>&nbsp;</p>
 
 ### Chat groups
 
@@ -105,6 +116,7 @@ If you are running sales or special offers on developer-related products, books,
 
 Finally, please do not link to articles that are specifically about rumors – we’re interested in sharing our knowledge and excitement, not leaks.
 
+<p>&nbsp;</p>
 
 # Why does this exist?
 
@@ -118,6 +130,7 @@ So, if you’re setting up social events, Slack groups, quiz nights or more, ple
 
 **We want to encourage you to contribute even if it’s your very first blog post.** This is a community effort, and we want everyone to have their voice heard – we appreciate you and your hard work, and want to celebrate that here!
 
+<p>&nbsp;</p>
 
 # Who can merge your PR?
 
@@ -148,6 +161,7 @@ We are:
 
 If you’d like to help merge pull requests, please [get in touch](http://twitter.com/twostraws). We particularly welcome folks from underrepresented communities – please reach out!
 
+<p>&nbsp;</p>
 
 # Looking for links from previous years?
 
@@ -159,11 +173,12 @@ Previously you helped us share a huge number of tutorials, videos, events, and m
 - [WWDC21](https://github.com/twostraws/wwdc/blob/c5131a4be13cd3743a73cf829da5602e3be117d1/README.md)
 - [WWDC20](https://github.com/twostraws/wwdc/blob/3d3b093218af06465b6b268b23e13e2ad6e2d9f8/README.md)
 
+<p>&nbsp;</p>
 
 # Legal bits
 
 This is a community effort, which means it is not an official Apple initiative and neither is it endorsed by Apple.
 
-Swift, the Swift logo, Swift Playgrounds, Xcode, Instruments, Cocoa Touch, Touch ID, FaceID, iPhone, iPad, Safari, App Store, iPadOS, watchOS, tvOS, visionOS, Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
+Swift, the Swift logo, Swift Playground, Xcode, Instruments, Cocoa Touch, Touch ID, FaceID, iPhone, iPad, Safari, App Store, iPadOS, watchOS, tvOS, visionOS, Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
 
 Although we are doing our best to check every link and pull request, we’re not able to endorse the websites posted here. If you have any concerns about this project or the links here, please [get in touch by email](mailto:paul@hackingwithswift.com) or [on Twitter](https://twitter.com/twostraws).
