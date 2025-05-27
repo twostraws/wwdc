@@ -88,6 +88,8 @@ Save money with these discounts on Swift learning material:
 
 Are you running a sale during WWDC? Open a pull request with more information!
 
+ - [50%-off ComicReader (iOS, iPadOS, macOS) until WWDC week ends](https://apps.apple.com/us/app/comicreader-read-your-comics/id1474779693) from [Jason Baracassa](https://github.com/siilver777)
+
 <p>&nbsp;</p>
 
 ### Chat groups
