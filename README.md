@@ -23,6 +23,7 @@ SATURDAY, June 7th
 
 SUNDAY, June 8th
 - 7:00am-8:00am: [WW Run](https://lu.ma/5zhaoikv) from Ed Arenberg
+- 8:00am-10:00am: [Run & Walk with Ctrl+Alt+Run - WWDC 2025 Edition @ Apple Park Visitor Center, Cupertino](https://lu.ma/713c95jq)(registration suggested)
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
@@ -37,6 +38,7 @@ MONDAY, June 9th
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
 TUESDAY, June 10th
+- 7:00am-9:00am: [WWDC Women's Get-Together Breakfast](https://lu.ma/lcaz5v0q) (RSVP Required)
 - 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
@@ -68,11 +70,13 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
-- 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
-- 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
-- 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
+- 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH WWDC Keynote Watch Party](https://www.meetup.com/swiftph/events/307600367/?eventOrigin=group_upcoming_events), Manila and Davao, Philippines
 - 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, USA
 - 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
+- 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
+- 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
+- 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
+
 
 <p>&nbsp;</p>
 
