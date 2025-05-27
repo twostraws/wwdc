@@ -99,6 +99,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [Save 25% on Modoki with WWDC25 coupon code](https://modoki.app/)
 - [50%-off Pro Subscription on **Bushel** - VM app for developers (macOS) from June 1st - 23rd](https://getbushel.app) from [Leo Dion](https://brightdigit.com)
 - [50%-off Unlimited subscription for **GamingBuddy** - games tracker & discovery (iOS)](https://apps.apple.com/redeem?ctx=offercodes&id=6447783408&code=WWDC25) Ends June 13.
+- [50%-off **Stealthly** with WWDC25 coupon code - Automated Privacy for macOS Screen Sharing](https://stealthly.app) Ends June 13.
 
 <p>&nbsp;</p>
 
