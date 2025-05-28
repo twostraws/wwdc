@@ -101,6 +101,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [50%-off Unlimited subscription for **GamingBuddy** - games tracker & discovery (iOS)](https://apps.apple.com/redeem?ctx=offercodes&id=6447783408&code=WWDC25) Ends June 13.
 - [50%-off **Stealthly** with WWDC25 coupon code - Automated Privacy for macOS Screen Sharing](https://stealthly.app) Ends June 13.
 - [Save 20% on **Swifty Compiler (Swift IDE for iOS)** lifetime access](https://apps.apple.com/app/id1544749600) from [Hassan Taleb](https://x.com/hassantaleb90)
+- [50% off Lifetime License on **SimpleFill** on the Mac App Store from June 9th-14th](https://apps.apple.com/app/id6743927264) from [Ram Patra](https://x.com/rampatra_)
 
 <p>&nbsp;</p>
 
