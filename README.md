@@ -100,6 +100,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [50%-off Pro Subscription on **Bushel** - VM app for developers (macOS) from June 1st - 23rd](https://getbushel.app) from [Leo Dion](https://brightdigit.com)
 - [50%-off Unlimited subscription for **GamingBuddy** - games tracker & discovery (iOS)](https://apps.apple.com/redeem?ctx=offercodes&id=6447783408&code=WWDC25) Ends June 13.
 - [50%-off **Stealthly** with WWDC25 coupon code - Automated Privacy for macOS Screen Sharing](https://stealthly.app) Ends June 13.
+- [Save 20% on **Swifty Compiler (Swift IDE for iOS)** lifetime access](https://apps.apple.com/app/id1544749600) from [Hassan Taleb](https://x.com/hassantaleb90)
 
 <p>&nbsp;</p>
 
