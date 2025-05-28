@@ -75,6 +75,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
 - 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
 - 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
+- 🇹🇷 June 9th, 7:00pm - 10pm IST: [WWDC'25 Watch Party @ Komunite Space](https://kommunity.com/nsistanbul/events/wwdc25-seyir-partisi-6c721925), Istanbul, Turkey
 - 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
 
 
