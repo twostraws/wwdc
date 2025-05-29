@@ -104,6 +104,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [Save 20% on **Swifty Compiler (Swift IDE for iOS)** lifetime access](https://apps.apple.com/app/id1544749600) from [Hassan Taleb](https://x.com/hassantaleb90)
 - [50% off Lifetime License on **SimpleFill** on the Mac App Store from June 9th-14th](https://apps.apple.com/app/id6743927264) from [Ram Patra](https://x.com/rampatra_)
 - [100% off Epoch - TV & Movie tracker, lifetime premium (iOS)](https://apps.apple.com/app/id6502776057) from [Pavel Kroupa](https://x.com/withtabonx)
+- [Save 50% on **Manga Translator - Mangra** yearly plan](https://apps.apple.com/app/id6502868308) – Ends June 13 – from [Basel Baragabah](https://x.com/ix901)
 
 <p>&nbsp;</p>
 
