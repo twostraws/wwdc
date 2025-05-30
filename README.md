@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6a78642-a991-4d68-b5d5-95f3de28b035)<p align="center">
+<p align="center">
     <img src="https://www.hackingwithswift.com/files/wwdc/wwdc-community.png" alt="WWDC Community logo" width="600" />
 </p>
 
