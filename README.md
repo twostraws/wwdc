@@ -74,27 +74,27 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
-**France**
-- 🇫🇷 June 9th, 6:30pm - 9:30pm CEST: [CocoaHeads special WWDC chez Voodoo](https://dubdub.community/cocoaheads-special-wwdc-chez-voodoo-esbw5e), Paris, France
+**🇫🇷 France**
+- June 9th, 6:30pm - 9:30pm CEST: [CocoaHeads special WWDC chez Voodoo](https://dubdub.community/cocoaheads-special-wwdc-chez-voodoo-esbw5e), Paris, France
 
-**Israel**
-- 🇮🇱 June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
+**🇮🇱 Israel**
+- June 9th, 7:00pm - 11pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
 
-**India**
-- 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
+**🇮🇳 India**
+- June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
 
-**Philippines**
-- 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH WWDC Keynote Watch Party](https://www.meetup.com/swiftph/events/307600367/?eventOrigin=group_upcoming_events), Manila and Davao, Philippines
-- 
-**Turkey**
-- 🇹🇷 June 9th, 7:00pm - 10pm IST: [WWDC'25 Watch Party @ Komunite Space](https://kommunity.com/nsistanbul/events/wwdc25-seyir-partisi-6c721925), Istanbul, Turkey
+**🇵🇭 Philippines**
+- June 9th, 12:00am - 3:00am PHT: [SwiftPH WWDC Keynote Watch Party](https://www.meetup.com/swiftph/events/307600367/?eventOrigin=group_upcoming_events), Manila and Davao, Philippines
+  
+**🇹🇷 Turkey**
+- June 9th, 7:00pm - 10pm IST: [WWDC'25 Watch Party @ Komunite Space](https://kommunity.com/nsistanbul/events/wwdc25-seyir-partisi-6c721925), Istanbul, Turkey
 
-**UK**
-- 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
-- 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
+**🇬🇧 UK**
+- June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
+- June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
 
-**USA**
-- 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, 
+**🇺🇸 USA**
+- June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, 
 
 ### Course discounts
 
