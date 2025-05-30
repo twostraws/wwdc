@@ -105,6 +105,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [50% off Lifetime License on **SimpleFill** on the Mac App Store from June 9th-14th](https://apps.apple.com/app/id6743927264) from [Ram Patra](https://x.com/rampatra_)
 - [100% off Epoch - TV & Movie tracker, lifetime premium (iOS)](https://apps.apple.com/app/id6502776057) from [Pavel Kroupa](https://x.com/withtabonx)
 - [Save 50% on **Manga Translator - Mangra** (iOS, iPadOSو macOS) yearly plan](https://apps.apple.com/app/id6502868308) –  from June 9th to 13th – from [Basel Baragabah](https://x.com/ix901)
+- [40% off 1st year for **Pyxis Premium** with coupon code: WWDC25. Ends June 30, 2025](https://apps.apple.com/redeem?ctx=offercodes&id=6639617144&code=WWDC25) from [Armen Grewal](https://mastodon.social/deck/@armengrewal)
 
 <p>&nbsp;</p>
 
