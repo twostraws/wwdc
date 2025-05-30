@@ -57,6 +57,7 @@ WEDNESDAY, June 11th
 - 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt) (free)
 - 4:00pm-6:00pm: [Vapor@WWDC](https://lu.ma/zihfxdqz?tk=ICYWZJ) (free)
 - 7:00pm-11:00pm: [Live near WWDC](https://livenearwwdc.com)
+- 7:00pm-11:00pm: [☁️📣🍻 Cloud x Voice x Beers : Gathering by Cloudflare, 11Labs & Clevercloud](https://dubdub.community/cloud-x-voice-x-beers-wwdc-lnjjlq)
 
 THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
