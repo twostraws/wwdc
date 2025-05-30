@@ -27,6 +27,7 @@ SUNDAY, June 8th
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
+- 7:00pm-9:00pm: [Dr. Funk's Tech House @ WWDC](https://lu.ma/rk6326z7) by The App Association
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
 MONDAY, June 9th
