@@ -90,6 +90,7 @@ Save money with these discounts on Swift learning material:
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 - [Save 25% on Rudrank Riyam's books with WWDC25 coupon code](https://academy.rudrank.com/)
+- [Save 30% on books by Natalia Panferova from Nil Coalescing](https://books.nilcoalescing.com)
 
 <p>&nbsp;</p>
 
