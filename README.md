@@ -49,6 +49,7 @@ TUESDAY, June 10th
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour](https://iosdevhappyhour.com)
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
+- 6:00pm-9:00pm: [The Talk Show Live From WWDC 2025](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025) (requires a ticket)
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
