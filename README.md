@@ -52,6 +52,7 @@ TUESDAY, June 10th
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
 - 6:00pm-9:00pm: [The Talk Show Live From WWDC 2025](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025) (requires a ticket)
+- 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit] (https://lu.ma/ai6mx0lr?tk=qNXFZe) (free)
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
