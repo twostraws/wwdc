@@ -24,7 +24,7 @@ SATURDAY, June 7th
 SUNDAY, June 8th
 - 7:00am-8:00am: [WW Run](https://lu.ma/5zhaoikv) from Ed Arenberg
 - 8:00am-10:00am: [Run & Walk with Ctrl+Alt+Run - WWDC 2025 Edition @ Apple Park Visitor Center, Cupertino](https://lu.ma/713c95jq)(registration suggested)
-- 9:00am-12:00pm: [Vision Pro Community Morning Coffee Meetup](https://www.icloud.com/invites/04dtKW9oZzzgrhG1oWdXpfMIg)
+- 9:00am-12:00pm: [Vision Pro Community Morning Coffee Meetup at Philz Coffee Main Street, Cupertino](https://www.icloud.com/invites/04dtKW9oZzzgrhG1oWdXpfMIg)
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
