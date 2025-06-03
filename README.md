@@ -52,6 +52,7 @@ TUESDAY, June 10th
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
 - 6:00pm-9:00pm: [The Talk Show Live From WWDC 2025](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025) (requires a ticket)
+- 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit] (https://lu.ma/ai6mx0lr?tk=qNXFZe) (free)
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
@@ -66,6 +67,7 @@ WEDNESDAY, June 11th
 THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+- 12:00pm-6:00pm: [Code Crawl @ WWDC](https://lu.ma/lc8o9js7) (free)
 
 SATURDAY, June 14th
 - 4:30pm - 9:00pm: [Luma AI @ WWDC: Happy Hour](https://lu.ma/luma-happy-hour) (free, requires registration)
@@ -115,6 +117,9 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [40% off 1st year for **Pyxis Premium** with coupon code: WWDC25. Ends June 30, 2025](https://apps.apple.com/redeem?ctx=offercodes&id=6639617144&code=WWDC25) from [Armen Grewal](https://mastodon.social/deck/@armengrewal)
 - [50% off your first year of **Walletsmith Pro** - Custom Apple Wallet passes](https://apps.apple.com/redeem?ctx=offercodes&id=1589618453&code=WWDC25) - Ends June 30th - from [Juan Rodriguez](https://x.com/liebana_jr)
 - [Save 40% on **Store Mate Chrome Extension for App Store Connect** with WWDC2025 coupon code](https://storemate.app/) - from [Ramazan Arslan](https://x.com/arslan1845)
+- [50% off LifeList premium lifetime - Make bucketlists together](https://apps.apple.com/app/lifelists-bucketlist/id6745145322) - till the end of June - from [Maarten Borsje](https://x.com/maartenborsje)
+- [37.5% off BleepList premium yearly - The easiest shopping list for your entire family](https://apps.apple.com/app/id6467556653) - till 15th of June - from [Maarten Borsje](https://x.com/maartenborsje) 
+- [25% off with code WWDC25 on iCloudShipper. The guide to icloud sharing](https://maartenborsje.gumroad.com/l/iCloudShipper/WWDC25) - from [Maarten Borsje](https://x.com/maartenborsje) & [Tim Hilker](https://x.com/timgk1)
 <p>&nbsp;</p>
 
 ### Chat groups
