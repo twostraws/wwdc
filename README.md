@@ -49,6 +49,7 @@ TUESDAY, June 10th
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour](https://iosdevhappyhour.com)
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
+- 6:00pm-9:00pm: [The Talk Show Live From WWDC 2025](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025) (requires a ticket)
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
@@ -65,7 +66,7 @@ THURSDAY, June 12th
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 - 12:00pm-6:00pm: [Code Crawl @ WWDC](https://lu.ma/lc8o9js7) (free)
 
-Friday, June 14th
+SATURDAY, June 14th
 - 4:30pm - 9:00pm: [Luma AI @ WWDC: Happy Hour](https://lu.ma/luma-happy-hour) (free, requires registration)
 
 <p>&nbsp;</p>
@@ -91,6 +92,7 @@ Save money with these discounts on Swift learning material:
 
 - [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 - [Save 25% on Rudrank Riyam's books with WWDC25 coupon code](https://academy.rudrank.com/)
+- [Save 30% on books by Natalia Panferova from Nil Coalescing](https://books.nilcoalescing.com)
 
 <p>&nbsp;</p>
 
@@ -111,7 +113,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [Save 50% on **Manga Translator - Mangra** (iOS, iPadOSو macOS) yearly plan](https://apps.apple.com/app/id6502868308) –  from June 9th to 13th – from [Basel Baragabah](https://x.com/ix901)
 - [40% off 1st year for **Pyxis Premium** with coupon code: WWDC25. Ends June 30, 2025](https://apps.apple.com/redeem?ctx=offercodes&id=6639617144&code=WWDC25) from [Armen Grewal](https://mastodon.social/deck/@armengrewal)
 - [50% off your first year of **Walletsmith Pro** - Custom Apple Wallet passes](https://apps.apple.com/redeem?ctx=offercodes&id=1589618453&code=WWDC25) - Ends June 30th - from [Juan Rodriguez](https://x.com/liebana_jr)
-
+- [Save 40% on **Store Mate Chrome Extension for App Store Connect** with WWDC2025 coupon code](https://storemate.app/) - from [Ramazan Arslan](https://x.com/arslan1845)
 <p>&nbsp;</p>
 
 ### Chat groups
