@@ -66,6 +66,7 @@ WEDNESDAY, June 11th
 THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+- 12:00pm-6:00pm: [Code Crawl @ WWDC](https://lu.ma/lc8o9js7) (free)
 
 SATURDAY, June 14th
 - 4:30pm - 9:00pm: [Luma AI @ WWDC: Happy Hour](https://lu.ma/luma-happy-hour) (free, requires registration)
