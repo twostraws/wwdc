@@ -24,6 +24,7 @@ SATURDAY, June 7th
 SUNDAY, June 8th
 - 7:00am-8:00am: [WW Run](https://lu.ma/5zhaoikv) from Ed Arenberg
 - 8:00am-10:00am: [Run & Walk with Ctrl+Alt+Run - WWDC 2025 Edition @ Apple Park Visitor Center, Cupertino](https://lu.ma/713c95jq)(registration suggested)
+- 9:00am-12:00pm: [Vision Pro Community Morning Coffee Meetup](https://www.icloud.com/invites/04dtKW9oZzzgrhG1oWdXpfMIg)
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
 - 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
@@ -34,6 +35,7 @@ MONDAY, June 9th
 - 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
 - 7:45am-4:00pm: [WWDC25 Keynote & SOTU Watch Party hosted by iOSDevHappyHour at CommunityKit](https://communitykit.social/schedule.html)
 - 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25)
+- 4:00pm-6:00pm: [Vision Pro Meetup at CommunityKit](https://lu.ma/jz8wgmls?tk=4LWDfR)
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2025)
 - 7:00pm-10:30pm: 🇫🇷🇨🇦🇱🇺🇧🇪 [The French Dinner](https://lu.ma/9vs7dmot) (requires registration)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
@@ -83,7 +85,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇹🇷 June 9th, 7:00pm - 10pm IST: [WWDC'25 Watch Party @ Komunite Space](https://kommunity.com/nsistanbul/events/wwdc25-seyir-partisi-6c721925), Istanbul, Turkey
 - 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
 - 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
-- 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri, 
+- 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri,
 
 ### Course discounts
 
