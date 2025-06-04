@@ -120,6 +120,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [50% off LifeList premium lifetime - Make bucketlists together](https://apps.apple.com/app/lifelists-bucketlist/id6745145322) - till the end of June - from [Maarten Borsje](https://x.com/maartenborsje)
 - [37.5% off BleepList premium yearly - The easiest shopping list for your entire family](https://apps.apple.com/app/id6467556653) - till 15th of June - from [Maarten Borsje](https://x.com/maartenborsje) 
 - [25% off with code WWDC25 on iCloudShipper. The guide to icloud sharing](https://maartenborsje.gumroad.com/l/iCloudShipper/WWDC25) - from [Maarten Borsje](https://x.com/maartenborsje) & [Tim Hilker](https://x.com/timgk1)
+- [Over 50% off **LaunchBuddy Pro** - Project management made for indie developers; Releases, Tasks, Checklists, Feedback & more](https://launchbuddy.app/wwdc25) - till 15th of June - from [Flo writes Code](https://x.com/FloWritesCode)
 <p>&nbsp;</p>
 
 ### Chat groups
