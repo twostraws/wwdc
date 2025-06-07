@@ -24,15 +24,16 @@ SATURDAY, June 7th
 SUNDAY, June 8th
 - 7:00am-8:00am: [WW Run](https://lu.ma/5zhaoikv) from Ed Arenberg
 - 8:00am-10:00am: [Run & Walk with Ctrl+Alt+Run - WWDC 2025 Edition @ Apple Park Visitor Center, Cupertino](https://lu.ma/713c95jq)(registration suggested)
-- 9:00am-12:00pm: [Vision Pro Community Morning Coffee Meetup at Philz Coffee Main Street, Cupertino](https://lu.ma/ajkwy21w)
 - 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
-- 3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket)
+- 10:00am-12:00pm: [Vision Pro Community Morning Coffee Meetup at Philz Coffee Main Street, Cupertino](https://lu.ma/ajkwy21w)
+- 10:00am-12:00pm: [Core Coffee - WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/306840074/?eventOrigin=group_upcoming_events)
+- **3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket - 🍎)**
 - 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
 - 7:00pm-9:00pm: [Dr. Funk's Tech House @ WWDC](https://lu.ma/rk6326z7) by The App Association
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 
 MONDAY, June 9th
-- 9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket)
+- **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket - 🍎)**
 - 7:45am-4:00pm: [WWDC25 Keynote & SOTU Watch Party hosted by iOSDevHappyHour at CommunityKit](https://communitykit.social/schedule.html)
 - 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25)
 - 4:00pm-6:00pm: [Vision Pro Meetup at CommunityKit](https://lu.ma/jz8wgmls?tk=4LWDfR)
@@ -42,31 +43,34 @@ MONDAY, June 9th
 
 TUESDAY, June 10th
 - 7:00am-9:00am: [WWDC Women's Get-Together Breakfast](https://lu.ma/lcaz5v0q) (RSVP Required)
-- 10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket)
-- 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- **10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket - 🍎)**
+- 7:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
-- 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
-- 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A) (requires registration)
-- 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour](https://iosdevhappyhour.com)
+(https://iosdevhappyhour.com)
+- 11:00am - 1:00pm: [Core Coffee – WWDC Edition pt. 2 ☕️](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/307593020/?eventOrigin=group_upcoming_events)
 - 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
+- 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://lu.ma/ai6mx0lr?tk=qNXFZe) (free)
 - 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
 - 6:00pm-9:00pm: [The Talk Show Live From WWDC 2025](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025) (requires a ticket)
-- 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://lu.ma/ai6mx0lr?tk=qNXFZe) (free)
+- 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
+- 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A) (requires registration)
+- 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour]
 
 WEDNESDAY, June 11th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
 - 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
-- 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
-- 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt) (free)
+- 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
 - 4:00pm-6:00pm: [Vapor@WWDC](https://lu.ma/zihfxdqz?tk=ICYWZJ) (free)
+- 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt) (free)
 - 7:00pm-11:00pm: [Live near WWDC](https://livenearwwdc.com)
 - 7:00pm-11:00pm: [☁️📣🍻 Cloud x Voice x Beers : Gathering by Cloudflare, 11Labs & Clevercloud](https://dubdub.community/cloud-x-voice-x-beers-wwdc-lnjjlq)
 
 THURSDAY, June 12th
 - 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+- 11:00am-1:00pm: [Core Coffee X LookUp Anniversary](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/307594098/?eventOrigin=group_upcoming_events)
 - 12:00pm-6:00pm: [Code Crawl @ WWDC](https://lu.ma/lc8o9js7) (free)
 
 SATURDAY, June 14th
