@@ -72,6 +72,7 @@ THURSDAY, June 12th
 - 9:00am-18:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
 - 11:00am-1:00pm: [Core Coffee X LookUp Anniversary](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/307594098/?eventOrigin=group_upcoming_events)
 - 12:00pm-6:00pm: [Code Crawl @ WWDC](https://lu.ma/lc8o9js7) (free)
+- 4:00pm-6:00pm: [Stanford Spezi WWDC Meetup](http://bit.ly/SpeziWWDC) (free)
 
 SATURDAY, June 14th
 - 4:30pm - 9:00pm: [Luma AI @ WWDC: Happy Hour](https://lu.ma/luma-happy-hour) (free, requires registration)
