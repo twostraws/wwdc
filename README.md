@@ -89,6 +89,14 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
 - 🇺🇸 June 9th, 11:00am - 2pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri,
 
+### Community Learning Resources
+
+Collaborative resources created by and for the developer community:
+
+- [WWDC Notes](https://wwdcnotes.com/documentation/wwdcnotes/): Session notes written by 60+ developers – and you? [Join our Slack](https://join.slack.com/t/wwdc-notes/shared_invite/zt-1wbsoo705-bydJ430uZSRILstG5GxEzg) to help!
+
+<p>&nbsp;</p>
+
 ### Course discounts
 
 Save money with these discounts on Swift learning material:
