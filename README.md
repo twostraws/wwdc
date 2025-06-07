@@ -132,6 +132,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [Over 50% off **LaunchBuddy Pro** - Project management made for indie developers](https://launchbuddy.app/wwdc25) - till 15th of June - from [Flo writes Code](https://x.com/FloWritesCode)
 - [AzamSharp School Mega Sale - All Courses 50% Off](https://azamsharp.school)
 - [50% off 1st year of **TelemetryDeck** – App analytics that's ready in 4 minutes!](https://telemetrydeck.com/blog/wwdc25/) Ends June 13.
+- [50% off 1st year of **TranslateKit Pro/Ultra** – AI-Powered App Localization (no code needed!)](https://translatekit.app) Ends June 14 – from [Cihat Gündüz](https://www.fline.dev/about/)
 
 ### Chat groups
 
