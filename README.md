@@ -138,7 +138,7 @@ Are you running a sale during WWDC? Open a pull request with more information!
 - [AzamSharp School Mega Sale - All Courses 50% Off](https://azamsharp.school)
 - [50% off 1st year of **TelemetryDeck** – App analytics that's ready in 4 minutes!](https://telemetrydeck.com/blog/wwdc25/) Ends June 13.
 - [50% off 1st year of **TranslateKit Pro/Ultra** – AI-Powered App Localization (no code needed!)](https://translatekit.app) Ends June 14 – from [Cihat Gündüz](https://www.fline.dev/about/)
-- 20% off [**BarCuts**](https://actions.work/?ref=gh-twostraws-wwdc25) (a contextual macOS Shortcuts launcher), and [**Browser Actions**](https://actions.work/?ref=gh-twostraws-wwdc25) (macOS Shortcuts support for Google Chrome, Microsoft Edge, Vivaldi, Chromium, Brave Browser, and Safari), with code `DUBDUB25`. Ends June 13. - from [Carlo Zottmann](https://c.zottmann.dev)
+- 20% off [**BarCuts**](https://actions.work/?ref=gh-twostraws-wwdc25) (a macOS Shortcuts launcher), and [**Browser Actions**](https://actions.work/?ref=gh-twostraws-wwdc25) (macOS Shortcuts support for Google Chrome, Safari, and more), with code `DUBDUB25`. Ends June 13 - from [Carlo Zottmann](https://c.zottmann.dev)
 
 ### Chat groups
 
