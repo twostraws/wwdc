@@ -64,6 +64,7 @@ WEDNESDAY, June 11th
 - 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
 - 4:00pm-6:00pm: [Vapor@WWDC](https://lu.ma/zihfxdqz?tk=ICYWZJ) (free)
 - 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt) (free)
+- 7:00pm-8:00pm: [Vision Pro Developers Meetup](https://www.meetup.com/vision-pro-developers/)
 - 7:00pm-11:00pm: [Live near WWDC](https://livenearwwdc.com)
 - 7:00pm-11:00pm: [☁️📣🍻 Cloud x Voice x Beers : Gathering by Cloudflare, 11Labs & Clevercloud](https://dubdub.community/cloud-x-voice-x-beers-wwdc-lnjjlq)
 
