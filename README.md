@@ -15,68 +15,31 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
-SATURDAY, June 7th
-- 9:00am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
-- 10:00am-12:00pm: [WWDC Run](https://lu.ma/uob9fld4) (registration suggested)
-- 5:00pm-8:00pm: [Informal Pre-WWDC 25 Gathering](https://pre-wwdc25.splashthat.com)
-- 6:30pm-10:00pm: [Apple Park Happy Hour](https://www.eventbrite.com/e/apple-park-happy-hour-tickets-1335249620559) (RSVP requested)
+SUNDAY, June 7th
+- 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
+- 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
 
-SUNDAY, June 8th
-- 7:00am-8:00am: [WW Run](https://lu.ma/5zhaoikv) from Ed Arenberg
-- 8:00am-10:00am: [Run & Walk with Ctrl+Alt+Run - WWDC 2025 Edition @ Apple Park Visitor Center, Cupertino](https://lu.ma/713c95jq)(registration suggested)
-- 9:30am-4:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25) (requires a ticket)
-- 10:00am-12:00pm: [Vision Pro Community Morning Coffee Meetup at Philz Coffee Main Street, Cupertino](https://lu.ma/ajkwy21w)
-- 10:00am-12:00pm: [Core Coffee - WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/306840074/?eventOrigin=group_upcoming_events)
-- **3:00pm-7:00pm: [WWDC Check-in, refreshments, and games at Infinite Loop](https://developer.apple.com/wwdc25/) (requires WWDC ticket - 🍎)**
-- 6:30pm-11:00pm: [RevenueCat's Pre-WWDC Bashcade](https://lu.ma/94pquugz) (requires a ticket)
-- 7:00pm-9:00pm: [Dr. Funk's Tech House @ WWDC](https://lu.ma/rk6326z7) by The App Association
-- 9:00am-6:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+MONDAY, June 8th
+- **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
+- 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
 
-MONDAY, June 9th
-- **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc25/special-event/) (requires WWDC ticket - 🍎)**
-- 7:45am-4:00pm: [WWDC25 Keynote & SOTU Watch Party hosted by iOSDevHappyHour at CommunityKit](https://communitykit.social/schedule.html)
-- 8:00am-5:30pm: [WWDC25 Keynote & SOTU Watch Party hosted by One More Thing](https://omt-conf.com/wwdc25)
-- 4:00pm-6:00pm: [Vision Pro Meetup at CommunityKit](https://lu.ma/jz8wgmls?tk=4LWDfR)
-- 7:00pm-10:00pm: [Students, Swift, St★rs](https://ti.to/ios-conf-sg/students-swift-stars-2025)
-- 7:00pm-10:30pm: 🇫🇷🇨🇦🇱🇺🇧🇪 [The French Dinner](https://lu.ma/9vs7dmot) (requires registration)
-- 9:00am-6:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
+TUESDAY, June 9th
+- 8:00am-10:00am: [WWDC Women's Get-Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
+- 2:00pm-4:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 
-TUESDAY, June 10th
-- 7:00am-9:00am: [WWDC Women's Get-Together Breakfast](https://lu.ma/lcaz5v0q) (RSVP Required)
-- **10:00am-6:00pm: [Apple Developer Center Sessions - Morning, Afternoon, Evening](https://developer.apple.com/wwdc24/special-event/) (requires WWDC ticket - 🍎)**
-- 7:00am-5:00pm: [CommunityKit](https://communitykit.social)
-- 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
-- 9:00am-6:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
-(https://iosdevhappyhour.com)
-- 11:00am - 1:00pm: [Core Coffee – WWDC Edition pt. 2 ☕️](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/307593020/?eventOrigin=group_upcoming_events)
-- 2:00pm-4:00pm: [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q) (requires Registration)
-- 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://lu.ma/ai6mx0lr?tk=qNXFZe) (free)
-- 2:00pm-6:00pm: [The Interface: WWDC25](https://theinterface.design) (requires registration)
-- 6:00pm-9:00pm: [The Talk Show Live From WWDC 2025](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025) (requires a ticket)
-- 7:00pm-10:00pm: [#WWDCScholars meetup at WWDC25](https://forms.gle/uqf3gVhqQQG5PvSy7) (for WWDC Scholarship and Swift Student Challenge winners)
-- 7:00pm-9:00pm: [Beer with Swift @WWDC25 by createwithswift.com](https://www.icloud.com/invites/0fffU92Mu3cnJVlXnUpyZq82A) (requires registration)
-- 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC25 IRL](https://idhhwwdc25irl.eventbrite.com/) (requires registration) from [iOSDevHappyHour]
+WEDNESDAY, June 10th
+- 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
+- 11:00am-12:00pm: [Launched LIVE](https://luma.com/dxme2hiw) at CommunityKit
+- 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
 
-WEDNESDAY, June 11th
+THURSDAY, June 11th
+- 9:00am-11:00am: [Swift Small Talks](https://communitykit.social) at CommunityKit
+- 12:00pm-2:00pm: [Code Crawl](https://communitykit.social) at CommunityKit
+- 4:00pm-7:00pm: [AiOS Meetup](https://luma.com/ju8j7vtp) at CommunityKit
+- 5:00pm-10:00pm: [Bitrig Bash](https://luma.com/hbytg7n8)
+
+FRIDAY, June 12th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
-- 8:00am-5:30pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
-- 9:00am-6:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
-- 12:00pm-1:30pm: [Annual WWDC Women's Lunch (unofficial)](https://www.meetup.com/swift-language/events/307194649) (free)
-- 4:00pm-6:00pm: [Vapor@WWDC](https://lu.ma/zihfxdqz?tk=ICYWZJ) (free)
-- 4:30pm-6:00pm: [AiOS Meetup](https://lu.ma/aios-omt) (free)
-- 7:00pm-8:00pm: [Vision Pro Developers Meetup](https://www.meetup.com/vision-pro-developers/)
-- 7:00pm-11:00pm: [Live near WWDC](https://livenearwwdc.com)
-- 7:00pm-11:00pm: [☁️📣🍻 Cloud x Voice x Beers : Gathering by Cloudflare, 11Labs & Clevercloud](https://dubdub.community/cloud-x-voice-x-beers-wwdc-lnjjlq)
-
-THURSDAY, June 12th
-- 8:30am-7:00pm: [One More Thing 2025](https://omt-conf.com/wwdc25)
-- 9:00am-6:00pm: [A Vision Pro Spatial Art Experience  — Flatland: Mixed Reality Dreams](https://story.app/wwdc) (free)
-- 11:00am-1:00pm: [Core Coffee X LookUp Anniversary](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/307594098/?eventOrigin=group_upcoming_events)
-- 12:00pm-6:00pm: [Code Crawl @ WWDC](https://lu.ma/lc8o9js7) (free)
-- 4:00pm-6:00pm: [Stanford Spezi WWDC Meetup](http://bit.ly/SpeziWWDC) (free)
-
-SATURDAY, June 14th
-- 4:30pm - 9:00pm: [Luma AI @ WWDC: Happy Hour](https://lu.ma/luma-happy-hour) (free, requires registration)
 
 <p>&nbsp;</p>
 
@@ -86,70 +49,11 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
-- 🇫🇷 June 9th, 6:30pm - 9:30pm CEST: [CocoaHeads special WWDC chez Voodoo](https://dubdub.community/cocoaheads-special-wwdc-chez-voodoo-esbw5e), Paris, France
-- 🇮🇱 June 9th, 7:00pm - 11:00pm IDT: [WWDC'25 TLV Watch Party @ monday.com](https://mndy.me/wwdc25), Tel Aviv, Israel
-- 🇮🇳 June 9th, 7:30pm - 12:30am IST: [WWDC'25 Watch Party Ahmedabad](https://lu.ma/kne1yfpm), Ahmedabad, India
-- 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH WWDC Keynote Watch Party](https://www.meetup.com/swiftph/events/307600367/?eventOrigin=group_upcoming_events), Manila and Davao, Philippines
-- 🇹🇷 June 9th, 7:00pm - 10:00pm IST: [WWDC'25 Watch Party @ Komunite Space](https://kommunity.com/nsistanbul/events/wwdc25-seyir-partisi-6c721925), Istanbul, Turkey
-- 🇬🇧 June 9th, 5:30pm - 8:00pm BST: [NSManchester WWDC25 Watch Party at Jaguar Land Rover](https://www.meetup.com/nsmanchester/events/306569717), Manchester, UK
-- 🇬🇧 June 9th, 5:30pm - 8:30pm BST: [NSLondon WWDC25 keynote viewing party at Ford](https://www.meetup.com/nslondon/events/307821543/), London, United Kingdom
-- 🇺🇸 June 9th, 11:00am - 2:00pm CDT: [STL Swift WWDC Watch Event](https://www.eventbrite.com/e/stl-swift-wwdc-2025-watch-event-tickets-1363806113799), Saint Louis, Missouri,
 
-### Community Learning Resources
-
-Collaborative resources created by and for the developer community:
-
-- [WWDC Notes](https://wwdcnotes.com/documentation/wwdcnotes/): Session notes written by 60+ developers – and you? [Join our Slack](https://join.slack.com/t/wwdc-notes/shared_invite/zt-1wbsoo705-bydJ430uZSRILstG5GxEzg) to help!
-
-<p>&nbsp;</p>
-
-### Course discounts
-
-Save money with these discounts on Swift learning material:
-
-- [Save 50% on all Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
-- [Save 25% on Rudrank Riyam's books with WWDC25 coupon code](https://academy.rudrank.com/)
-- [Save 30% on books by Natalia Panferova from Nil Coalescing](https://books.nilcoalescing.com)
-- [Save 30% on a Point-Free subscription](https://www.pointfree.co/blog/posts/172-wwdc-sale-30-of-your-first-year-of-point-free)
-
-<p>&nbsp;</p>
-
-### App discounts
-
-Are you running a sale during WWDC? Open a pull request with more information!
-
- - [50%-off ComicReader (iOS, iPadOS, macOS) until WWDC week ends](https://apps.apple.com/us/app/comicreader-read-your-comics/id1474779693) from [Jason Baracassa](https://github.com/siilver777)
-- [Save 25% on BoltAI with WWDC25 coupon code](https://boltai.com/)
-- [Save 53% on PDF Pals with WWDC25 coupon code](https://pdfpals.com/)
-- [Save 25% on Modoki with WWDC25 coupon code](https://modoki.app/)
-- [50%-off Pro Subscription on **Bushel** - VM app for developers (macOS) from June 1st - 23rd](https://getbushel.app) from [Leo Dion](https://brightdigit.com)
-- [50%-off Unlimited subscription for **GamingBuddy** - games tracker & discovery (iOS)](https://apps.apple.com/redeem?ctx=offercodes&id=6447783408&code=WWDC25) Ends June 13.
-- [50%-off **Stealthly** with WWDC25 coupon code - Automated Privacy for macOS Screen Sharing](https://stealthly.app) Ends June 13.
-- [Save 20% on **Swifty Compiler (Swift IDE for iOS)** lifetime access](https://apps.apple.com/app/id1544749600) from [Hassan Taleb](https://x.com/hassantaleb90)
-- [50% off Lifetime License on **SimpleFill** on the Mac App Store from June 9th-14th](https://apps.apple.com/app/id6743927264) from [Ram Patra](https://x.com/rampatra_)
-- [100% off Epoch - TV & Movie tracker, lifetime premium (iOS)](https://apps.apple.com/app/id6502776057) from [Pavel Kroupa](https://x.com/withtabonx)
-- [Save 50% on **Manga Translator - Mangra** (iOS, iPadOSو macOS) yearly plan](https://apps.apple.com/app/id6502868308) –  from June 9th to 13th – from [Basel Baragabah](https://x.com/ix901)
-- [40% off 1st year for **Pyxis Premium** with coupon code: WWDC25. Ends June 30, 2025](https://apps.apple.com/redeem?ctx=offercodes&id=6639617144&code=WWDC25) from [Armen Grewal](https://mastodon.social/deck/@armengrewal)
-- [50% off your first year of **Walletsmith Pro** - Custom Apple Wallet passes](https://apps.apple.com/redeem?ctx=offercodes&id=1589618453&code=WWDC25) - Ends June 30th - from [Juan Rodriguez](https://x.com/liebana_jr)
-- [Save 40% on **Store Mate Chrome Extension for App Store Connect** with WWDC2025 coupon code](https://storemate.app/) - from [Ramazan Arslan](https://x.com/arslan1845)
-- [50% off LifeList premium lifetime - Make bucketlists together](https://apps.apple.com/app/lifelists-bucketlist/id6745145322) - till the end of June - from [Maarten Borsje](https://x.com/maartenborsje)
-- [37.5% off BleepList premium yearly - The easiest shopping list for your entire family](https://apps.apple.com/app/id6467556653) - till 15th of June - from [Maarten Borsje](https://x.com/maartenborsje) 
-- [25% off with code WWDC25 on iCloudShipper. The guide to icloud sharing](https://maartenborsje.gumroad.com/l/iCloudShipper/WWDC25) - from [Maarten Borsje](https://x.com/maartenborsje) & [Tim Hilker](https://x.com/timgk1)
-- [Over 50% off **LaunchBuddy Pro** - Project management made for indie developers](https://launchbuddy.app/wwdc25) - till 15th of June - from [Flo writes Code](https://x.com/FloWritesCode)
-- [AzamSharp School Mega Sale - All Courses 50% Off](https://azamsharp.school)
-- [50% off 1st year of **TelemetryDeck** – App analytics that's ready in 4 minutes!](https://telemetrydeck.com/blog/wwdc25/) Ends June 13.
-- [50% off 1st year of **TranslateKit Pro/Ultra** – AI-Powered App Localization (no code needed!)](https://translatekit.app) Ends June 14 – from [Cihat Gündüz](https://www.fline.dev/about/)
-- 20% off [**BarCuts**](https://actions.work/?ref=gh-twostraws-wwdc25) (a macOS Shortcuts launcher), and [**Browser Actions**](https://actions.work/?ref=gh-twostraws-wwdc25) (macOS Shortcuts support for Google Chrome, Safari, and more), with code `DUBDUB25`. Ends June 13 - from [Carlo Zottmann](https://c.zottmann.dev)
-- [50% off Clothing Aid Plus lifetime - Easily organize your wardrobe(s) together]((https://apps.apple.com/nl/app/clothing-aid/id6480473286)) - Ends June 16 - from [Tim Hilker](https://x.com/TimGK1)
-- [50% off Challenges Aid (one time payment) - Beat those monthly and Limited Edition Apple Watch Challenges](https://apps.apple.com/nl/app/challenges-aid/id6443764002) - Ends June 16 - from [Tim Hilker](https://x.com/TimGK1)
-- [50% off 1st year of **Placey Pro**](https://apps.apple.com/redeem?ctx=offercodes&id=6514318312&code=WWDC) - Locations Management App - from [FarouK](https://x.com/0xifarouk) (Ends June 20)
-- 40% off 1st year of [**ImpressKit**](https://impresskit.net/) - the simplest way to create press kits for your apps. Use code `WWDC25` during checkout. Ends June 16. From [Filip Němeček](https://filipnemecek.com/)
 
 ### Chat groups
 
 There's a [huge Discord server hosted by CommunityKit](https://discord.gg/gg2FX5EgGC), which has channels for attendees, events, photos, and more.
-
-[Envision WWDC](https://jiaxuli.com/envisionwwdc.html) - Envision WWDC is a third-party online community activity of WWDC. Focusing on WWDC25 and visionOS. The event is held entirely online to build a platform for free communication for global developers. *We are committed to promoting the spatial computing App ecology of Apple Vision*. **You can [join on Discord](https://discord.com/invite/ETfJKNEKnU).**
 
 <p>&nbsp;</p>
 
@@ -222,6 +126,7 @@ If you’d like to help merge pull requests, please [get in touch](http://twitte
 
 Previously you helped us share a huge number of tutorials, videos, events, and more, and you can find them all archived below:
 
+- [WWDC25](https://github.com/twostraws/wwdc/blob/283695aa26749613d91d08c151d7e5b798737ea3/README.md)
 - [WWDC24](https://github.com/twostraws/wwdc/blob/2dc4cd01948501e38bda18eb8b36f6d9aa2aba71/README.md)
 - [WWDC23](https://github.com/twostraws/wwdc/blob/8caf88a01d822a767af18a49db065d6c89959c51/README.md)
 - [WWDC22](https://github.com/twostraws/wwdc/blob/1325639286a3adfc1dddfa6d1c16a2fd222b4d0d/README.md)
