@@ -17,7 +17,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 SUNDAY, June 7th
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
-- 9:00am-11:00pm: [Step Into Vision Coffee Meetup at Philz](https://luma.com/3jsjkshu)
+- 9:00am-11:00am: [Step Into Vision Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
 
 MONDAY, June 8th
