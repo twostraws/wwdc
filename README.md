@@ -26,7 +26,7 @@ MONDAY, June 8th
 
 TUESDAY, June 9th
 - 8:00am-10:00am: [WWDC Women's Get-Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
-- 10:00pm - 12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
+- 10:00pm-12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
 - 2:00pm-4:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 
 WEDNESDAY, June 10th
