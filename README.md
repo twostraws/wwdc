@@ -27,6 +27,7 @@ SUNDAY, June 7th
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
+- [**Envision WWDC26**](https://envisionwwdc.org) Activities Start! 🎉
 
 TUESDAY, June 9th
 - 8:00am-10:00am: [WWDC Women's Get-Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
@@ -60,6 +61,9 @@ You're welcome to add your own in a pull request – please ensure your country 
 ### Chat groups
 
 There's a [huge Discord server hosted by CommunityKit](https://discord.gg/gg2FX5EgGC), which has channels for attendees, events, photos, and more.
+
+[Envision WWDC26](https://envisionwwdc.org) - Envision WWDC is a third-party online community activity of WWDC. Focusing on WWDC26 and visionOS. The event is held entirely online to build a platform for free communication for global developers. *We are committed to promoting the spatial computing App ecology of Apple Vision*.
+
 
 <p>&nbsp;</p>
 
