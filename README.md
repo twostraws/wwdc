@@ -17,7 +17,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 SATURDAY, June 6th
 - 5:00-8:00pm: [Pre-WWDC26 Gathering at San Pedro Square Patio in San Jose](https://luma.com/trtbdihd)
-- 
+
 SUNDAY, June 7th
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
@@ -37,6 +37,7 @@ WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
 - 11:00am-12:00pm: [Launched LIVE](https://luma.com/dxme2hiw) at CommunityKit
 - 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
+- 7:00pm-10:00pm: [Apple Developer Community Meetup](https://developer.apple.com/events/view/8D4G7DD8LR/dashboard) at Apple Developer Center Cupertino
 
 THURSDAY, June 11th
 - 9:00am-11:00am: [Swift Small Talks](https://communitykit.social) at CommunityKit
