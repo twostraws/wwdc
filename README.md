@@ -16,6 +16,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 ### Events in and around Cupertino
 
 SATURDAY, June 6th
+- 10:00am-12:00pm: [WWDC Run](https://luma.com/wwdc26-run)
 - 5:00-8:00pm: [Pre-WWDC26 Gathering at San Pedro Square Patio in San Jose](https://luma.com/trtbdihd)
 
 SUNDAY, June 7th
