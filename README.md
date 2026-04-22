@@ -16,6 +16,7 @@ There are lots of events happening in and around Cupertino, along with other eve
 ### Events in and around Cupertino
 
 SATURDAY, June 6th
+- 10:00am-12:00pm: [WWDC Run](https://luma.com/wwdc26-run)
 - 5:00-8:00pm: [Pre-WWDC26 Gathering at San Pedro Square Patio in San Jose](https://luma.com/trtbdihd)
 
 SUNDAY, June 7th
@@ -27,6 +28,7 @@ SUNDAY, June 7th
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
+- 7:00pm-10:30pm: [🇫🇷🇧🇪🇱🇺🇨🇦🇲🇨 French Community Gathering @ WWDC a.k.a WWDinner ](https://luma.com/wwdc26-french-gathering)
 
 TUESDAY, June 9th
 - 8:00am-10:00am: [WWDC Women's Get-Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
