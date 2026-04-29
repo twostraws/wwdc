@@ -58,7 +58,7 @@ FRIDAY, June 12th
 
 ### Keynote watch parties
 
-If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 10th, but events are taking place to stream it elsewhere.
+If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 8th, but events are taking place to stream it elsewhere.
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
@@ -80,7 +80,7 @@ There's a [huge Discord server hosted by CommunityKit](https://discord.gg/gg2FX5
 
 This repository has a number of “official” contributors who are posting links to their work and events here and are also able to merge pull requests. But it’s completely open for everyone to contribute articles, videos, tips, and more, from any source.
 
-So, if you’ve written about something new from WWDC25, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC25 – we want to represent the full spectrum of voices in our community.
+So, if you’ve written about something new from WWDC26, or if you’re organizing a community event, please open a pull request and link to it. You’re also welcome to send in links to other articles, videos, and even tweets that help folks get started with new APIs and Swift changes introduced at WWDC26 – we want to represent the full spectrum of voices in our community.
 
 Please check that:
 
