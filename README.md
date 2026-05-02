@@ -21,6 +21,7 @@ SATURDAY, June 6th
 - 6:30pm-10:00pm: [Apple Park Happy Hour](https://www.eventbrite.com/e/apple-park-happy-hour-tickets-1986822959957)
 
 SUNDAY, June 7th
+- 7:30am-9:00am: [Run & Walk Meetup with Ctrl+Alt+Run WWDC26 Edition](https://luma.com/61dpw1up)
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
@@ -33,7 +34,7 @@ MONDAY, June 8th
 - 7:00pm-10:30pm: [French-Speaking Community Gathering @ WWDC a.k.a WWDinner](https://luma.com/wwdc26-french-gathering)
 
 TUESDAY, June 9th
-- 8:00am-10:00am: [WWDC Women's Get-Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
+- 8:00am-10:00am: [WWDCWomen Get Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
 - 10:00am-12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
 - 2:00pm-4:00pm: [Indie Developer Meetup](https://luma.com/9rgkw05a) at CommunityKit
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
