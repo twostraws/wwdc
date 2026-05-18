@@ -25,11 +25,13 @@ SUNDAY, June 7th
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
+- 11:30am-8:00pm: [Flip the Script at AGI House by MacPaw](https://luma.com/flipthescript26) in Hillsborough
 - 6:30pm-10:30pm: [RevenueCat Pre-WWDC Bashcade](https://luma.com/jhm03vgs)
 - 7:00pm-10:00pm: [#WWDCScholars Meetup at WWDC26](https://www.tickettailor.com/events/wwdcscholars/2143164)
 
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
+- 9:00am-5:30pm:[Flip the Script at AGI House by MacPaw](https://luma.com/flipthescript26) in Hillsborough
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
 - 7:00pm-10:30pm: [French-Speaking Community Gathering @ WWDC a.k.a WWDinner](https://luma.com/wwdc26-french-gathering)
 
