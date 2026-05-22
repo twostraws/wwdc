@@ -25,6 +25,7 @@ SUNDAY, June 7th
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
+- 2:00pm-5:00pm: [Workshop: Inclusive by Design](https://luma.com/e8rw6fri?tk=ZCfCHV) at CommunityKit
 - 6:30pm-10:30pm: [RevenueCat Pre-WWDC Bashcade](https://luma.com/jhm03vgs)
 - 7:00pm-10:00pm: [#WWDCScholars Meetup at WWDC26](https://www.tickettailor.com/events/wwdcscholars/2143164)
 
@@ -37,6 +38,7 @@ TUESDAY, June 9th
 - 8:00am-10:00am: [WWDCWomen Get Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
 - 10:00am-12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
 - 2:00pm-4:00pm: [Indie Developer Meetup](https://luma.com/9rgkw05a) at CommunityKit
+- 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://luma.com/dnpnqonr?tk=RoVn08)
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC26 IRL](https://idhhwwdc26irl.eventbrite.com)
 
@@ -44,6 +46,7 @@ WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
 - 11:00am-12:00pm: [Launched LIVE](https://luma.com/dxme2hiw) at CommunityKit
 - 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
+- 4:00pm-6:00pm: [Make It Visible: Accessibility Meetup](https://luma.com/ro48u8fw) at CommunityKit
 - 4:30pm-6:30pm: [Swift Contributor Social](https://luma.com/f6ss3sa8) at Bowlmore Cupertino
 - 7:00pm-10:00pm: [Apple Developer Community Meetup](https://developer.apple.com/events/view/8D4G7DD8LR/dashboard) at Apple Developer Center Cupertino
 
