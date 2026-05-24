@@ -31,6 +31,7 @@ SUNDAY, June 7th
 
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
+- 9:00am-12:00pm: [Keynote Watch Party with iOSDevHappyHour](https://communitykit.social) at CommunityKit
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
 - 7:00pm-10:30pm: [French-Speaking Community Gathering @ WWDC a.k.a WWDinner](https://luma.com/wwdc26-french-gathering)
 
