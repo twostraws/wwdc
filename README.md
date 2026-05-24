@@ -47,6 +47,7 @@ TUESDAY, June 9th
 WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
 - 11:00am-12:00pm: [Launched LIVE](https://luma.com/dxme2hiw) at CommunityKit
+- 12:00pm-2:00pm: [Meet try!Swift](https://luma.com/1vi0u421) at CommunityKit
 - 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
 - 4:00pm-6:00pm: [Make It Visible: Accessibility Meetup](https://luma.com/ro48u8fw) at CommunityKit
 - 4:30pm-6:30pm: [Swift Contributor Social](https://luma.com/f6ss3sa8) at Bowlmore Cupertino
