@@ -44,6 +44,7 @@ TUESDAY, June 9th
 - 12:00pm-2:00pm: [WWDC App Money Lunch Club: Presented by RevenueCat](https://luma.com/vv8rdeci) at CommunityKit
 - 2:00pm-4:00pm: [Indie Developer Meetup](https://luma.com/9rgkw05a) at CommunityKit
 - 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://luma.com/dnpnqonr?tk=RoVn08)
+- 3:00pm-6:00pm: [The Interface WWDC26](https://luma.com/j7hmf0gm) by Tamia James
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC26 IRL](https://idhhwwdc26irl.eventbrite.com)
 
