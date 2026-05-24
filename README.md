@@ -58,6 +58,7 @@ THURSDAY, June 11th
 
 FRIDAY, June 12th
 - 9:00am-5:00pm: [CommunityKit](https://communitykit.social)
+- 1:00pm-3:00pm: [Make Something, Ship Nothing](https://luma.com/rd474f8x) at CommunityKit
 
 <p>&nbsp;</p>
 
