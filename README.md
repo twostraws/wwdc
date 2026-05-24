@@ -26,6 +26,7 @@ SUNDAY, June 7th
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
+- 11:00am-1:00pm: [Cupertino WWDC26 Buluşması](https://luma.com/67ejicon) by Seyfeddin Bassarac
 - 2:00pm-5:00pm: [Workshop: Inclusive by Design](https://luma.com/e8rw6fri?tk=ZCfCHV) at CommunityKit
 - 6:30pm-10:30pm: [RevenueCat Pre-WWDC Bashcade](https://luma.com/jhm03vgs)
 - 7:00pm-10:00pm: [#WWDCScholars Meetup at WWDC26](https://www.tickettailor.com/events/wwdcscholars/2143164)
