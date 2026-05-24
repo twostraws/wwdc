@@ -79,6 +79,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
+- 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
 - 🇮🇳 June 8th, 8:00pm - 12:30am IST: [Swift Chennai WWDC26 Watch Party](https://luma.com/q86j02km), Chennai, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Mumbai WWDC26 Watch Party](https://luma.com/ct1h2pul), Mumbai, India
 - 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH Manila WWDC26 Watch Party](https://luma.com/rywfa41u), Manila, Philippines
