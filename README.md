@@ -54,7 +54,7 @@ WEDNESDAY, June 10th
 
 THURSDAY, June 11th
 - 9:00am-11:00am: [Swift Small Talks](https://communitykit.social) at CommunityKit
-- 12:00pm-2:00pm: [Code Crawl](https://communitykit.social) at CommunityKit
+- 12:00pm-4:00pm: [Code Crawl](https://luma.com/n8qyff6o) at CommunityKit
 - 4:00pm-8:00pm: [AiOS Meetup](https://luma.com/ju8j7vtp) at CommunityKit
 - 5:00pm-10:00pm: [Bitrig Bash](https://luma.com/hbytg7n8)
 
