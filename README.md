@@ -65,6 +65,7 @@ THURSDAY, June 11th
 - 12:00pm-4:00pm: [Code Crawl](https://luma.com/n8qyff6o) at CommunityKit
 - 4:00pm-8:00pm: [AiOS Meetup](https://luma.com/ju8j7vtp) at CommunityKit
 - 5:00pm-10:00pm: [Bitrig Bash](https://luma.com/hbytg7n8)
+- 7:00pm-11:00pm: [James Dempsey and the Breakpoints — LIVE near WWDC Concert 2026](https://www.eventbrite.com/e/james-dempsey-and-the-breakpoints-live-near-wwdc-concert-2026-tickets-1989917468716)
 
 FRIDAY, June 12th
 - 10:00am-12:00pm: [Feedback Friday](https://luma.com/9z7as4f6) at CommunityKit
