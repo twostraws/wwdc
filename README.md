@@ -27,7 +27,6 @@ SUNDAY, June 7th
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
 - 11:00am-1:00pm: [Cupertino WWDC26 Buluşması](https://luma.com/67ejicon) by Seyfeddin Bassarac
-- 11:30am-8:00pm: [Flip the Script: Mac Dev Conference on Building, Distributing & Monetizing AI Apps (Day 1)](https://luma.com/flipthescript26) by MacPaw and Catalyst Bay
 - 2:00pm-5:00pm: [Workshop: Inclusive by Design](https://luma.com/e8rw6fri?tk=ZCfCHV) at CommunityKit
 - 6:30pm-10:30pm: [RevenueCat Pre-WWDC Bashcade](https://luma.com/jhm03vgs)
 - 7:00pm-10:00pm: [#WWDCScholars Meetup at WWDC26](https://www.tickettailor.com/events/wwdcscholars/2143164)
@@ -35,7 +34,6 @@ SUNDAY, June 7th
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
 - 9:00am-12:00pm: [Keynote Watch Party with iOSDevHappyHour](https://communitykit.social) at CommunityKit
-- 9:00am-5:30pm: [Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps (Day 2)](https://luma.com/flipthescript26) by MacPaw and Catalyst Bay
 - 1:00pm-4:00pm: [SOTU Watch Party](https://communitykit.social) at CommunityKit
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
 - 7:00pm-10:30pm: [French-Speaking Community Gathering @ WWDC a.k.a WWDinner](https://luma.com/wwdc26-french-gathering)
