@@ -84,6 +84,12 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇦🇺 June 9th, 10:00am - 12:00pm AEST: [Melbourne Indie Devs WWDC26 Watch Party](https://luma.com/bx77prmp), Mitcham, Australia
 - 🇧🇬 June 8th, 7:30pm EEST: [WWDC26 Keynote Watch Party](https://www.meetup.com/xcoders-sofia/events/314799753/), Sofia, Bulgaria
 - 🇦🇹 June 8th, 6:30pm CEST: [WWDC 26 Keynote \[Swift Graz\]](https://www.meetup.com/swift-graz/events/314561120/), Graz, Austria
+- 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://wwdc.swiftgg.team), Beijing, China
+- 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/468), Guangzhou, China
+- 🇨🇳 June 8th, 10:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://startlink.feishu.cn/share/base/form/shrcnCTw8NckrwO8vE5wg4UGgre), Hangzhou, China
+- 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://wwdc.swiftgg.team), Qingdao, China
+- 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://event.swiftgg.team/register/activity/wwdc26), Shanghai, China
+- 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/467), Shenzhen, China
 - 🇩🇰 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party Copenhagen](https://framna.com/events/wwdc-2026-livestream-copenhagen), Copenhagen, Denmark
 - 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
