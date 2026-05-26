@@ -79,6 +79,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
 - 🇧🇬 June 8th, 7:30pm EEST: [WWDC26 Keynote Watch Party](https://www.meetup.com/xcoders-sofia/events/314799753/), Sofia, Bulgaria
+- 🇦🇹 June 8th, 6:30pm CEST: [WWDC 26 Keynote \[Swift Graz\]](https://www.meetup.com/swift-graz/events/314561120/), Graz, Austria
 - 🇩🇰 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party Copenhagen](https://framna.com/events/wwdc-2026-livestream-copenhagen), Copenhagen, Denmark
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
