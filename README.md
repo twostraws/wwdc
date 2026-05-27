@@ -92,6 +92,8 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
+- 🇮🇳 June 8th, 8:00pm - 12:30am IST: [Conscious Engines
+ WWDC26 Watch Party](https://luma.com/1iiwmnkx), Bengaluru, India
 - 🇮🇳 June 8th, 8:00pm - 12:30am IST: [Swift Chennai WWDC26 Watch Party](https://luma.com/q86j02km), Chennai, India
 - 🇮🇳 June 8th, 8:00pm - 4:00am IST: [Swift Delhi WWDC26 Watch Party](https://luma.com/flgblcpd), Delhi, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Mumbai WWDC26 Watch Party](https://luma.com/ct1h2pul), Mumbai, India
