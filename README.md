@@ -48,6 +48,7 @@ TUESDAY, June 9th
 - 3:00pm-6:00pm: [The Interface WWDC26](https://luma.com/j7hmf0gm) by Tamia James
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC26 IRL](https://idhhwwdc26irl.eventbrite.com)
+- 7:00pm-9:00pm: [Beer with Swift @WWDC26](https://luma.com/y95acvdw) by Create with Swift
 
 WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
