@@ -60,6 +60,7 @@ WEDNESDAY, June 10th
 - 4:00pm-6:00pm: [Make It Visible: Accessibility Meetup](https://luma.com/ro48u8fw) at CommunityKit
 - 4:30pm-6:30pm: [Swift Contributor Social](https://luma.com/f6ss3sa8) at Bowlmore Cupertino
 - 5:00pm-10:00pm: [Tim Cookout](https://luma.com/superwall-cookout) by Superwall
+- 6:30pm-10:00pm: [Craft Docs Community Meetup](https://luma.com/muw05zec)
 - 7:00pm-10:00pm: [Apple Developer Community Meetup](https://developer.apple.com/events/view/8D4G7DD8LR/dashboard) at Apple Developer Center Cupertino
 
 THURSDAY, June 11th
