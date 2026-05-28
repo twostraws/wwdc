@@ -28,6 +28,7 @@ SUNDAY, June 7th
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
 - 11:00am-1:00pm: [Cupertino WWDC26 Buluşması](https://luma.com/67ejicon) by Seyfeddin Bassarac
 - 2:00pm-5:00pm: [Workshop: Inclusive by Design](https://luma.com/e8rw6fri?tk=ZCfCHV) at CommunityKit
+- **3:00pm-7:00pm: [WWDC Welcome reception at Infinite Loop](https://developer.apple.com/wwdc26/) (requires WWDC ticket)**
 - 6:30pm-10:30pm: [RevenueCat Pre-WWDC Bashcade](https://luma.com/jhm03vgs)
 - 7:00pm-10:00pm: [#WWDCScholars Meetup at WWDC26](https://www.tickettailor.com/events/wwdcscholars/2143164)
 - 7pm-11:00pm: [The AI Night at WWDC26](https://luma.com/ai-night-wwdc-26) by Clément Sauvage & ⌘+F
@@ -43,11 +44,13 @@ TUESDAY, June 9th
 - 8:00am-10:00am: [WWDCWomen Get Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
 - 10:00am-12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
 - 12:00pm-2:00pm: [WWDC App Money Lunch Club: Presented by RevenueCat](https://luma.com/vv8rdeci) at CommunityKit
+- 1:00pm - 9:00pm: [RevenueCat ~~House~~ Mansionparty: WWDC Edition](https://luma.com/mjoh0kzy) by RevenueCat
 - 2:00pm-4:00pm: [Indie Developer Meetup](https://luma.com/9rgkw05a) at CommunityKit
 - 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://luma.com/dnpnqonr?tk=RoVn08)
 - 3:00pm-6:00pm: [The Interface WWDC26](https://luma.com/j7hmf0gm) by Tamia James
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC26 IRL](https://idhhwwdc26irl.eventbrite.com)
+- 7:00pm-9:00pm: [Beer with Swift @WWDC26](https://luma.com/y95acvdw) by Create with Swift
 
 WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
@@ -57,6 +60,8 @@ WEDNESDAY, June 10th
 - 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
 - 4:00pm-6:00pm: [Make It Visible: Accessibility Meetup](https://luma.com/ro48u8fw) at CommunityKit
 - 4:30pm-6:30pm: [Swift Contributor Social](https://luma.com/f6ss3sa8) at Bowlmore Cupertino
+- 5:00pm-10:00pm: [Tim Cookout](https://luma.com/superwall-cookout) by Superwall
+- 6:30pm-10:00pm: [Craft Docs Community Meetup](https://luma.com/muw05zec)
 - 7:00pm-10:00pm: [Apple Developer Community Meetup](https://developer.apple.com/events/view/8D4G7DD8LR/dashboard) at Apple Developer Center Cupertino
 
 THURSDAY, June 11th
@@ -90,8 +95,10 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://event.swiftgg.team/register/activity/wwdc26), Shanghai, China
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/467), Shenzhen, China
 - 🇩🇰 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party Copenhagen](https://framna.com/events/wwdc-2026-livestream-copenhagen), Copenhagen, Denmark
+- 🇫🇮 June 8th, 7:00pm - 9:45pm EEST: [WWDC Watch Party](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/314896846/), Helsinki, Finland
 - 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
+- 🇬🇧 June 8th, 5:45pm - 8:45pm BST: [NSManchester WWDC 2026 Watch Party](https://www.meetup.com/nsmanchester/events/rpwfrsyjcjbcb), Manchester, United Kingdom
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Conscious Engines WWDC26 Watch Party](https://luma.com/1iiwmnkx), Bengaluru, India
 - 🇮🇳 June 8th, 7:00pm - 1:00am IST: [Swift Bengaluru WWDC26 Watch Party](https://luma.com/kur60w7l), Bengaluru, India
