@@ -23,6 +23,7 @@ SATURDAY, June 6th
 
 SUNDAY, June 7th
 - 7:30am-9:00am: [Run & Walk Meetup with Ctrl+Alt+Run WWDC26 Edition](https://luma.com/61dpw1up)
+- 8:30am-12:00pm: [Gathering Breakfast & Computer History Museum Private Tour](https://luma.com/wwdc26-chm)
 - 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
