@@ -120,6 +120,8 @@ There's a [huge Discord server hosted by CommunityKit](https://discord.gg/gg2FX5
 
 [Envision WWDC26](https://envisionwwdc.org) - Envision WWDC is a third-party online community activity of WWDC. Focusing on WWDC26 and visionOS. The event is held entirely online to build a platform for free communication for global developers. *We are committed to promoting the spatial computing App ecology of Apple Vision*.
 
+[WWDC Pioneer](https://borancui.site/WWDCPioneer/) - WWDC Pioneer is an independent online WWDC community activity connecting developers and Apple fans across China.
+
 
 <p>&nbsp;</p>
 
