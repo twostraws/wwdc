@@ -120,6 +120,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇹🇼 June 9th: [iPlayground - WWDC26 Keynote Viewing Party](https://iplayground.kktix.cc/events/2026-wwdc-party), Taipei, Taiwan
 - 🇹🇷 June 8th, 4:00pm TRT: [NSIstanbul WWDC2026 Seyir Partisi](https://kommunity.com/nsistanbul/events/wwdc2026-seyir-partisi-nsistanbul-0b284821), Istanbul, Turkey
 - 🇺🇦 June 8th: [Genesis - WWDC26 Keynote Viewing Party](https://tally.so/r/xXNol5), Kyiv, Ukraine
+- 🇬🇧 June 8th, 5:30pm BST: [WWDC Watch Party @ Ramen Space](https://www.ramenclub.so/blog/wwdc-watch-party-london), London, United Kingdom
 - 🇺🇸 June 8th, 11:00am - 3:30pm MDT: [WWDC 2026 Watch Party Utah](https://www.meetup.com/utah-ios-and-mac-developers/events/314877056/), Lehi, Utah, United States
 
 ### Chat groups
