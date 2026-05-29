@@ -112,6 +112,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇳🇱 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party @ Booking.com HQ Amsterdam](https://luma.com/143q1t0y), Amsterdam, Netherlands
 - 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH Manila WWDC26 Watch Party](https://luma.com/rywfa41u), Manila, Philippines
 - 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH Davao WWDC26 Watch Party](https://luma.com/gf2kx2qo), Davao, Philippines
+- 🇵🇱 June 8th: [iOS Developer Day - WWDC26 Keynote Viewing Party](https://luma.com/t9hlbgkg), Sopot, Poland
 - 🇪🇸 June 8th, 6:30pm - 9:00pm CEST: [Swift Barcelona WWDC 2026 Keynote Party](https://www.meetup.com/es-es/swiftbarcelona/events/314816865/), Barcelona, Spain
 - 🇹🇼 June 9th: [iPlayground - WWDC26 Keynote Viewing Party](https://iplayground.kktix.cc/events/2026-wwdc-party), Taipei, Taiwan
 - 🇹🇷 June 8th, 4:00pm TRT: [NSIstanbul WWDC2026 Seyir Partisi](https://kommunity.com/nsistanbul/events/wwdc2026-seyir-partisi-nsistanbul-0b284821), Istanbul, Turkey
