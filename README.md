@@ -97,8 +97,6 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇩🇰 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party Copenhagen](https://framna.com/events/wwdc-2026-livestream-copenhagen), Copenhagen, Denmark
 - 🇫🇮 June 8th, 7:00pm - 9:45pm EEST: [WWDC Watch Party](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/314896846/), Helsinki, Finland
 - 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
-- 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
-- 🇬🇧 June 8th, 5:45pm - 8:45pm BST: [NSManchester WWDC 2026 Watch Party](https://www.meetup.com/nsmanchester/events/rpwfrsyjcjbcb), Manchester, United Kingdom
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Conscious Engines WWDC26 Watch Party](https://luma.com/1iiwmnkx), Bengaluru, India
 - 🇮🇳 June 8th, 7:00pm - 1:00am IST: [Swift Bengaluru WWDC26 Watch Party](https://luma.com/kur60w7l), Bengaluru, India
@@ -121,6 +119,8 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇹🇷 June 8th, 4:00pm TRT: [NSIstanbul WWDC2026 Seyir Partisi](https://kommunity.com/nsistanbul/events/wwdc2026-seyir-partisi-nsistanbul-0b284821), Istanbul, Turkey
 - 🇺🇦 June 8th: [Genesis - WWDC26 Keynote Viewing Party](https://tally.so/r/xXNol5), Kyiv, Ukraine
 - 🇬🇧 June 8th, 5:30pm BST: [WWDC Watch Party @ Ramen Space](https://www.ramenclub.so/blog/wwdc-watch-party-london), London, United Kingdom
+- 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
+- 🇬🇧 June 8th, 5:45pm - 8:45pm BST: [NSManchester WWDC 2026 Watch Party](https://www.meetup.com/nsmanchester/events/rpwfrsyjcjbcb), Manchester, United Kingdom
 - 🇺🇸 June 8th, 11:00am - 3:30pm MDT: [WWDC 2026 Watch Party Utah](https://www.meetup.com/utah-ios-and-mac-developers/events/314877056/), Lehi, Utah, United States
 
 ### Chat groups
