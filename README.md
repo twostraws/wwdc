@@ -114,6 +114,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇵🇱 June 8th: [iOS Developer Day - WWDC26 Keynote Viewing Party](https://luma.com/t9hlbgkg), Sopot, Poland
 - 🇸🇦 June 8th: [Tuwaiq Academy - WWDC26 Keynote Viewing Party](https://tuwaiq.edu.sa/form/Mp7mqQ7q), Riyadh, Saudi Arabia
 - 🇫🇷 June 8th, 6:30pm CEST: [CocoaHeads Nantes - WWDC26 Keynote Viewing Party](https://www.meetup.com/cocoaheads-nantes/events/314905766/), Nantes, France
+- 🇫🇷 June 8th, 6:30pm CEST: [⌘+F - Lille's WWDC26 Keynote Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
 - 🇿🇦 June 8th, 6:00pm - 10:00pm SAST: [Glucode - WWDC26 Keynote Viewing Party](https://www.glucode.com/events/wwdc26-watch-party), Johannesburg, South Africa
 - 🇪🇸 June 8th, 6:30pm - 9:00pm CEST: [Swift Barcelona WWDC 2026 Keynote Party](https://www.meetup.com/es-es/swiftbarcelona/events/314816865/), Barcelona, Spain
 - 🇹🇼 June 9th: [iPlayground - WWDC26 Keynote Viewing Party](https://iplayground.kktix.cc/events/2026-wwdc-party), Taipei, Taiwan
