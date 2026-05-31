@@ -56,6 +56,7 @@ TUESDAY, June 9th
 WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
 - 11:00am-12:00pm: [Launched LIVE](https://luma.com/dxme2hiw) at CommunityKit
+- 11:00am-5:00pm: [Bitrig Hacks: WWDC Edition](https://events.ycombinator.com/bitrighacks-june2026) by Bitrig at YC
 - 12:00pm-2:00pm: [Meet try!Swift](https://luma.com/1vi0u421) at CommunityKit
 - 12:00pm-2:00pm: [Container Install Meetup](https://luma.com/rh1k2tpy) at CommunityKit
 - 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
@@ -104,6 +105,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇮🇳 June 8th, 8:00pm - 12:30am IST: [Swift Chennai WWDC26 Watch Party](https://luma.com/q86j02km), Chennai, India
 - 🇮🇳 June 8th, 8:00pm - 4:00am IST: [Swift Delhi WWDC26 Watch Party](https://luma.com/flgblcpd), Delhi, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Mumbai WWDC26 Watch Party](https://luma.com/ct1h2pul), Mumbai, India
+- 🇮🇳 June 8th, 8:00pm - 1:30am IST: [Swift Nagpur - WWDC26 Keynote Watch Party](https://luma.com/ownpcknh), Nagpur, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [Swift Pune, WWDC26 Watch Party](https://luma.com/2qk6jerr), Pune, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [SwiftSurat WWDC26 Watch Party](https://luma.com/kgspe1yk), Surat, India
 - 🇯🇵 June 8th, 11:30pm JST: [Extended Tokyo - WWDC 2026](https://lycorptech-jp.connpass.com/event/392383/), Tokyo, Japan
