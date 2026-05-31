@@ -54,6 +54,7 @@ TUESDAY, June 9th
 WEDNESDAY, June 10th
 - 9:00am-11:00am: [Community Breakfast & Trivia with Core Coffee](https://luma.com/afu4pnbp) at CommunityKit
 - 11:00am-12:00pm: [Launched LIVE](https://luma.com/dxme2hiw) at CommunityKit
+- 11:00am-5:00pm: [Bitrig Hacks: WWDC Edition](https://events.ycombinator.com/bitrighacks-june2026) by Bitrig at YC
 - 12:00pm-2:00pm: [Meet try!Swift](https://luma.com/1vi0u421) at CommunityKit
 - 12:00pm-2:00pm: [Container Install Meetup](https://luma.com/rh1k2tpy) at CommunityKit
 - 2:00pm-4:00pm: [Indie Fair](https://communitykit.social) at CommunityKit
