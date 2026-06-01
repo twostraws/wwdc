@@ -130,6 +130,16 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇬🇧 June 8th, 5:45pm - 8:45pm BST: [NSManchester WWDC 2026 Watch Party](https://www.meetup.com/nsmanchester/events/rpwfrsyjcjbcb), Manchester, United Kingdom
 - 🇺🇸 June 8th, 11:00am - 3:30pm MDT: [WWDC 2026 Watch Party Utah](https://www.meetup.com/utah-ios-and-mac-developers/events/314877056/), Lehi, Utah, United States
 
+<p>&nbsp;</p>
+
+### Course discounts
+
+Save money with these discounts on Swift learning material:
+
+- [Save 50% on Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
+
+<p>&nbsp;</p>
+
 ### Chat groups
 
 There's a [huge Discord server hosted by CommunityKit](https://discord.gg/gg2FX5EgGC), which has channels for attendees, events, photos, and more.
