@@ -111,6 +111,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇮🇳 June 8th, 8:00pm - 1:30am IST: [Swift Nagpur - WWDC26 Keynote Watch Party](https://luma.com/ownpcknh), Nagpur, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [Swift Pune, WWDC26 Watch Party](https://luma.com/2qk6jerr), Pune, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [SwiftSurat WWDC26 Watch Party](https://luma.com/kgspe1yk), Surat, India
+- 🇱🇹 June 8th, 7:00pm - 10:00pm EEST: [Apple WWDC26 Keynote Watch Party](https://www.eventbrite.de/e/apple-wwdc26-keynote-watch-party-tickets-1990558341584), Kaunas, Lithuania
 - 🇯🇵 June 8th, 11:30pm JST: [Extended Tokyo - WWDC 2026](https://lycorptech-jp.connpass.com/event/392383/), Tokyo, Japan
 - 🇰🇷 June 8th, 11:00pm - June 9th, 5:00am KST: [Apple Developer Academy @ POSTEHC - WWDC26 Keynote Viewing Party](https://developeracademy.postech.ac.kr/wwdc26-watchpartyinseoul), Seoul, South Korea
 - 🇳🇱 June 8th, 6:00pm - 8:00pm CEST: [Keynote meetup @ABN AMRO](https://www.meetup.com/nl-NL/cocoaheadsnl/events/314073078/), Amstelveen, Netherlands
