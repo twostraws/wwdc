@@ -123,6 +123,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇿🇦 June 8th, 6:00pm - 10:00pm SAST: [Glucode - WWDC26 Keynote Viewing Party](https://www.glucode.com/events/wwdc26-watch-party), Johannesburg, South Africa
 - 🇪🇸 June 8th, 6:30pm - 9:00pm CEST: [Swift Barcelona WWDC 2026 Keynote Party](https://www.meetup.com/es-es/swiftbarcelona/events/314816865/), Barcelona, Spain
 - 🇹🇼 June 9th: [iPlayground - WWDC26 Keynote Viewing Party](https://iplayground.kktix.cc/events/2026-wwdc-party), Taipei, Taiwan
+- 🇹🇷 June 8th: [Turkcell - WWDC26 Keynote Viewing Party](https://luma.com/tuhzzad0), Maltepe, Turkey
 - 🇹🇷 June 8th, 4:00pm TRT: [NSIstanbul WWDC2026 Seyir Partisi](https://kommunity.com/nsistanbul/events/wwdc2026-seyir-partisi-nsistanbul-0b284821), Istanbul, Turkey
 - 🇺🇦 June 8th: [Genesis - WWDC26 Keynote Viewing Party](https://tally.so/r/xXNol5), Kyiv, Ukraine
 - 🇬🇧 June 8th, 5:30pm BST: [WWDC Watch Party @ Ramen Space](https://www.ramenclub.so/blog/wwdc-watch-party-london), London, United Kingdom
