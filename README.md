@@ -15,6 +15,9 @@ There are lots of events happening in and around Cupertino, along with other eve
 
 ### Events in and around Cupertino
 
+FRIDAY, June 5th
+- 9:00am-11:00am: [iOS Folks Slack #sf-coffee Meetup](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) in San Francisco
+
 SATURDAY, June 6th
 - 09:30am-11:30pm: [WWDC Run](https://luma.com/wwdc26-run)
 - 5:00pm-8:00pm: [Pre-WWDC26 Gathering at San Pedro Square Patio in San Jose](https://luma.com/trtbdihd)
