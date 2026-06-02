@@ -50,6 +50,7 @@ TUESDAY, June 9th
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 - 6:00pm-9:00pm: [The Talk Show Live From WWDC 2026](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) by Daring Fireball
 - 7:00pm-10:00pm: [iOSDevHappyHour @ WWDC26 IRL](https://idhhwwdc26irl.eventbrite.com)
+- 7:00pm-9:00pm: [CONSUMER FOUNDER DINNER: WWDC26](https://luma.com/pryq561i) by Helium x Paddle x Autosana
 - 7:00pm-9:00pm: [Beer with Swift @WWDC26](https://luma.com/y95acvdw) by Create with Swift
 - **7:00pm: Movie with special guest at Steve Jobs Theater (requires WWDC ticket)**
 
