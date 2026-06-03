@@ -111,6 +111,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇮🇳 June 8th, 8:00pm - 12:00am IST: [The Parallel WWDC26 Historic Watch Party](https://luma.com/23gbcc1e), Indiranagar, Bengaluru, India
 - 🇮🇳 June 8th, 8:00pm - 12:30am IST: [Swift Chennai WWDC26 Watch Party](https://luma.com/q86j02km), Chennai, India
 - 🇮🇳 June 8th, 8:00pm - 4:00am IST: [Swift Delhi WWDC26 Watch Party](https://luma.com/flgblcpd), Delhi, India
+- 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Kozhikode WWDC26 Watch Party](https://lu.ma/wvgrqd6p), Kozhikode, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Mumbai WWDC26 Watch Party](https://luma.com/ct1h2pul), Mumbai, India
 - 🇮🇳 June 8th, 8:00pm - 1:30am IST: [Swift Nagpur - WWDC26 Keynote Watch Party](https://luma.com/ownpcknh), Nagpur, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [Swift Pune, WWDC26 Watch Party](https://luma.com/2qk6jerr), Pune, India
