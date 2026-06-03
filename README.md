@@ -47,7 +47,9 @@ MONDAY, June 8th
 TUESDAY, June 9th
 - 8:00am-10:00am: [WWDCWomen Get Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
 - 10:00am-12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
+- **10:00am: Developer Session at Apple Park (requires WWDC ticket)**
 - 12:00pm-2:00pm: [WWDC App Money Lunch Club: Presented by RevenueCat](https://luma.com/vv8rdeci) at CommunityKit
+- **12:00pm: Mixer at the Apple Developer Center Cupertino (requires WWDC ticket)**
 - 1:00pm - 9:00pm: [RevenueCat ~~House~~ Mansionparty: WWDC Edition](https://luma.com/mjoh0kzy) by RevenueCat
 - 2:00pm-4:00pm: [Indie Developer Meetup](https://luma.com/9rgkw05a) at CommunityKit
 - 2:00pm-4:00pm: [Apple Intelligence Automators Meetup at CommunityKit](https://luma.com/dnpnqonr?tk=RoVn08)
@@ -106,12 +108,15 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇫🇮 June 8th, 7:00pm - 9:45pm EEST: [WWDC Watch Party](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/314896846/), Helsinki, Finland
 - 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
 - 🇫🇷 June 8th, 6:00pm - 9:30pm CEST: [WWDC26 Lille's Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
+- 🇭🇺 June 8th, 6:30pm - 8:30pm CEST: [WWDC Watch Party: Apple's New Direction](https://www.meetup.com/circlebudapest/events/314879410/), Budapest, Hungary
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Conscious Engines WWDC26 Watch Party](https://luma.com/1iiwmnkx), Indiranagar, Bengaluru, India
 - 🇮🇳 June 8th, 7:00pm - 1:00am IST: [Swift Bengaluru WWDC26 Watch Party](https://luma.com/kur60w7l), Whitefield, Bengaluru, India
 - 🇮🇳 June 8th, 8:00pm - 12:00am IST: [The Parallel WWDC26 Historic Watch Party](https://luma.com/23gbcc1e), Indiranagar, Bengaluru, India
 - 🇮🇳 June 8th, 8:00pm - 12:30am IST: [Swift Chennai WWDC26 Watch Party](https://luma.com/q86j02km), Chennai, India
 - 🇮🇳 June 8th, 8:00pm - 4:00am IST: [Swift Delhi WWDC26 Watch Party](https://luma.com/flgblcpd), Delhi, India
+- 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Hyderabad WWDC26 Watch Party](https://luma.com/v8d19gd7), Hyderabad, India
+- 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Kozhikode WWDC26 Watch Party](https://lu.ma/wvgrqd6p), Kozhikode, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Swift Mumbai WWDC26 Watch Party](https://luma.com/ct1h2pul), Mumbai, India
 - 🇮🇳 June 8th, 8:00pm - 1:30am IST: [Swift Nagpur - WWDC26 Keynote Watch Party](https://luma.com/ownpcknh), Nagpur, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [Swift Pune, WWDC26 Watch Party](https://luma.com/2qk6jerr), Pune, India
