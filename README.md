@@ -42,6 +42,7 @@ MONDAY, June 8th
 TUESDAY, June 9th
 - 8:00am-10:00am: [WWDCWomen Get Together Breakfast](https://luma.com/xz8lx6c1) at CommunityKit
 - 10:00am-12:00pm: [WWDC Step Into Vision - Apple Vision Pro Meetup](https://luma.com/kdqxj5nq) at CommunityKit
+- **10:00am: Developer Session at Apple Park (requires WWDC ticket)**
 - 12:00pm-2:00pm: [WWDC App Money Lunch Club: Presented by RevenueCat](https://luma.com/vv8rdeci) at CommunityKit
 - 1:00pm - 9:00pm: [RevenueCat ~~House~~ Mansionparty: WWDC Edition](https://luma.com/mjoh0kzy) by RevenueCat
 - 2:00pm-4:00pm: [Indie Developer Meetup](https://luma.com/9rgkw05a) at CommunityKit
