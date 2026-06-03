@@ -146,6 +146,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
 - 🇬🇧 June 8th, 5:45pm - 8:45pm BST: [NSManchester WWDC 2026 Watch Party](https://www.meetup.com/nsmanchester/events/rpwfrsyjcjbcb), Manchester, United Kingdom
 - 🇺🇸 June 8th, 11:00am - 3:30pm MDT: [WWDC 2026 Watch Party Utah](https://www.meetup.com/utah-ios-and-mac-developers/events/314877056/), Lehi, Utah, United States
+- 🇲🇰 June 8th, 7:00pm - 9:00pm CEST: [CocoaHeadsMK: WWDC26 Keynote Watch Along](https://www.linkedin.com/events/cocoaheadsmk-wwdc26keynotewatch7467508108345507840/), Skopje, Macedonia
 
 <p>&nbsp;</p>
 
