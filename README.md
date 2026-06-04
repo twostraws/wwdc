@@ -97,7 +97,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇦🇺 June 9th, 10:00am - 12:00pm AEST: [Melbourne Indie Devs WWDC26 Watch Party](https://luma.com/bx77prmp), Mitcham, Australia
 - 🇧🇬 June 8th, 7:30pm - 11:00pm EEST: [WWDC26 Keynote Watch Party](https://luma.com/vqlsr5dv), Sofia, Bulgaria
 - 🇦🇹 June 8th, 6:30pm CEST: [WWDC 26 Keynote \[Swift Graz\]](https://www.meetup.com/swift-graz/events/314561120/), Graz, Austria
-- 🇧🇷 June 8th: [CocoaHeads BH - WWDC26 Keynote Viewing Party](https://www.sympla.com.br/evento/wwdc-watch-party-bh/3436374), Belo Horizonte, Brazil
+- 🇧🇷 June 8th, 1:30pm - 6:15pm BRT: [CocoaHeads BH - WWDC26 Keynote Viewing Party](https://www.sympla.com.br/evento/wwdc-watch-party-bh/3436374), Belo Horizonte, Brazil
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://wwdc.swiftgg.team), Beijing, China
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/468), Guangzhou, China
 - 🇨🇳 June 8th, 10:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://startlink.feishu.cn/share/base/form/shrcnCTw8NckrwO8vE5wg4UGgre), Hangzhou, China
