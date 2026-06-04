@@ -19,7 +19,7 @@ FRIDAY, June 5th
 - 9:00am-11:00am: [iOS Folks Slack #sf-coffee Meetup](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) in San Francisco
 
 SATURDAY, June 6th
-- 09:30am-11:30pm: [WWDC Run](https://luma.com/wwdc26-run)
+- 09:30am-11:30am: [WWDC Run](https://luma.com/wwdc26-run)
 - 5:00pm-8:00pm: [Pre-WWDC26 Gathering at San Pedro Square Patio in San Jose](https://luma.com/trtbdihd)
 - 5:00pm-8:00pm: [try! Swift WWDC Nomikai](https://luma.com/oha511rl) by try! Swift
 - 6:30pm-10:00pm: [Apple Park Happy Hour](https://www.eventbrite.com/e/apple-park-happy-hour-tickets-1986822959957)
