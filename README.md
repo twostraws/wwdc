@@ -110,6 +110,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇫🇷 June 8th, 6:00pm - 9:30pm CEST: [WWDC26 Lille's Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
 - 🇭🇺 June 8th, 6:30pm - 8:30pm CEST: [WWDC Watch Party: Apple's New Direction](https://www.meetup.com/circlebudapest/events/314879410/), Budapest, Hungary
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
+- 🇮🇩 June 9th: [WWDC Watch Party 2026](https://professionals.developerinstitute.io/events), Jakarta, Indonesia
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Conscious Engines WWDC26 Watch Party](https://luma.com/1iiwmnkx), Indiranagar, Bengaluru, India
 - 🇮🇳 June 8th, 7:00pm - 1:00am IST: [Swift Bengaluru WWDC26 Watch Party](https://luma.com/kur60w7l), Whitefield, Bengaluru, India
 - 🇮🇳 June 8th, 8:00pm - 12:00am IST: [The Parallel WWDC26 Historic Watch Party](https://luma.com/23gbcc1e), Indiranagar, Bengaluru, India
