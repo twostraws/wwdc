@@ -19,7 +19,7 @@ FRIDAY, June 5th
 - 9:00am-11:00am: [iOS Folks Slack #sf-coffee Meetup](https://www.coffeecoffeecoffee.coffee/sf-ios-coffee) in San Francisco
 
 SATURDAY, June 6th
-- 09:30am-11:30pm: [WWDC Run](https://luma.com/wwdc26-run)
+- 09:30am-11:30am: [WWDC Run](https://luma.com/wwdc26-run)
 - 5:00pm-8:00pm: [Pre-WWDC26 Gathering at San Pedro Square Patio in San Jose](https://luma.com/trtbdihd)
 - 5:00pm-8:00pm: [try! Swift WWDC Nomikai](https://luma.com/oha511rl) by try! Swift
 - 6:30pm-10:00pm: [Apple Park Happy Hour](https://www.eventbrite.com/e/apple-park-happy-hour-tickets-1986822959957)
@@ -27,8 +27,8 @@ SATURDAY, June 6th
 SUNDAY, June 7th
 - 7:30am-9:00am: [Run & Walk Meetup with Ctrl+Alt+Run WWDC26 Edition](https://luma.com/61dpw1up)
 - 8:30am-12:00pm: [Gathering Breakfast & Computer History Museum Private Tour](https://luma.com/wwdc26-chm)
-- 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 9:00am-11:00am: [Step Into Vision - Coffee Meetup at Philz](https://luma.com/3jsjkshu)
+- 9:30am-12:00pm: [Free Workshop: Write Faster, Smarter Swift](https://luma.com/nvgsjp74) at CommunityKit
 - 10:00am-12:00pm: [Core Coffee – WWDC Edition](https://luma.com/gs91csm9)
 - 11:00am-1:00pm: [Cupertino WWDC26 Buluşması](https://luma.com/67ejicon) by Seyfeddin Bassarac
 - 2:00pm-5:00pm: [Workshop: Inclusive by Design](https://luma.com/e8rw6fri?tk=ZCfCHV) at CommunityKit
@@ -94,10 +94,10 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
+- 🇦🇹 June 8th, 6:30pm CEST: [WWDC 26 Keynote \[Swift Graz\]](https://www.meetup.com/swift-graz/events/314561120/), Graz, Austria
 - 🇦🇺 June 9th, 10:00am - 12:00pm AEST: [Melbourne Indie Devs WWDC26 Watch Party](https://luma.com/bx77prmp), Mitcham, Australia
 - 🇧🇬 June 8th, 7:30pm - 11:00pm EEST: [WWDC26 Keynote Watch Party](https://luma.com/vqlsr5dv), Sofia, Bulgaria
-- 🇦🇹 June 8th, 6:30pm CEST: [WWDC 26 Keynote \[Swift Graz\]](https://www.meetup.com/swift-graz/events/314561120/), Graz, Austria
-- 🇧🇷 June 8th: [CocoaHeads BH - WWDC26 Keynote Viewing Party](https://www.sympla.com.br/evento/wwdc-watch-party-bh/3436374), Belo Horizonte, Brazil
+- 🇧🇷 June 8th, 1:30pm - 6:15pm BRT: [CocoaHeads BH - WWDC26 Keynote Viewing Party](https://www.sympla.com.br/evento/wwdc-watch-party-bh/3436374), Belo Horizonte, Brazil
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://wwdc.swiftgg.team), Beijing, China
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/468), Guangzhou, China
 - 🇨🇳 June 8th, 10:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://startlink.feishu.cn/share/base/form/shrcnCTw8NckrwO8vE5wg4UGgre), Hangzhou, China
@@ -106,8 +106,10 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/467), Shenzhen, China
 - 🇩🇰 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party Copenhagen](https://framna.com/events/wwdc-2026-livestream-copenhagen), Copenhagen, Denmark
 - 🇫🇮 June 8th, 7:00pm - 9:45pm EEST: [WWDC Watch Party](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/314896846/), Helsinki, Finland
-- 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
 - 🇫🇷 June 8th, 6:00pm - 9:30pm CEST: [WWDC26 Lille's Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
+- 🇫🇷 June 8th, 6:30pm CEST: [CocoaHeads Nantes - WWDC26 Keynote Viewing Party](https://www.meetup.com/cocoaheads-nantes/events/314905766/), Nantes, France
+- 🇫🇷 June 8th, 6:30pm CEST: [⌘+F - Lille's WWDC26 Keynote Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
+- 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
 - 🇭🇺 June 8th, 6:30pm - 8:30pm CEST: [WWDC Watch Party: Apple's New Direction](https://www.meetup.com/circlebudapest/events/314879410/), Budapest, Hungary
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Conscious Engines WWDC26 Watch Party](https://luma.com/1iiwmnkx), Indiranagar, Bengaluru, India
@@ -121,22 +123,21 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇮🇳 June 8th, 8:00pm - 1:30am IST: [Swift Nagpur - WWDC26 Keynote Watch Party](https://luma.com/ownpcknh), Nagpur, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [Swift Pune, WWDC26 Watch Party](https://luma.com/2qk6jerr), Pune, India
 - 🇮🇳 June 8th, 8:30pm - 12:00am IST: [SwiftSurat WWDC26 Watch Party](https://luma.com/kgspe1yk), Surat, India
-- 🇱🇹 June 8th, 7:00pm - 10:00pm EEST: [Apple WWDC26 Keynote Watch Party](https://www.eventbrite.de/e/apple-wwdc26-keynote-watch-party-tickets-1990558341584), Kaunas, Lithuania
+- 🇮🇩 June 9th: [WWDC Watch Party 2026](https://professionals.developerinstitute.io/events), Jakarta, Indonesia
 - 🇯🇵 June 8th, 11:30pm JST: [Extended Tokyo - WWDC 2026](https://lycorptech-jp.connpass.com/event/392383/), Tokyo, Japan
 - 🇰🇷 June 8th, 11:00pm - June 9th, 5:00am KST: [Apple Developer Academy @ POSTEHC - WWDC26 Keynote Viewing Party](https://developeracademy.postech.ac.kr/wwdc26-watchpartyinseoul), Seoul, South Korea
+- 🇱🇹 June 8th, 7:00pm - 10:00pm EEST: [Apple WWDC26 Keynote Watch Party](https://www.eventbrite.de/e/apple-wwdc26-keynote-watch-party-tickets-1990558341584), Kaunas, Lithuania
+- 🇲🇰 June 8th, 7:00pm - 9:00pm CEST: [CocoaHeadsMK: WWDC26 Keynote Watch Along](https://www.linkedin.com/events/cocoaheadsmk-wwdc26keynotewatch7467508108345507840/), Skopje, Macedonia
 - 🇳🇱 June 8th, 6:00pm - 8:00pm CEST: [Keynote meetup @ABN AMRO](https://www.meetup.com/nl-NL/cocoaheadsnl/events/314073078/), Amstelveen, Netherlands
 - 🇳🇱 June 8th, 5:00pm - 9:00pm CEST: [WWDC 2026 Watch Party @ Booking.com HQ Amsterdam](https://luma.com/143q1t0y), Amsterdam, Netherlands
 - 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH Manila WWDC26 Watch Party](https://luma.com/rywfa41u), Manila, Philippines
 - 🇵🇭 June 9th, 12:00am - 3:00am PHT: [SwiftPH Davao WWDC26 Watch Party](https://luma.com/gf2kx2qo), Davao, Philippines
-- 🇵🇱 June 8th, 6:30pm - 9:00pm CEST: [Mobile Warsaw #108 — WWDC26 Watch Party](https://www.meetup.com/mobile-warsaw/), Warsaw, Poland
-- 🇵🇱 June 8th: [iOS Developer Day - WWDC26 Keynote Viewing Party](https://luma.com/t9hlbgkg), Sopot, Poland
-- 🇵🇱 June 8th: [Mobile Warsaw #108 — WWDC26 Watch Party](https://mobilewarsaw.pl/108?s=g), Warsaw, Poland
+- 🇵🇱 June 8th, 4:00 PM - 9:00 PM CEST: [iOS Developer Day - WWDC26 Keynote Viewing Party](https://luma.com/t9hlbgkg), Sopot, Poland
+- 🇵🇱 June 8th, 6:30pm - 9:00pm CEST: [Mobile Warsaw #108 — WWDC26 Watch Party](https://mobilewarsaw.pl/108), Warsaw, Poland
 - 🇸🇦 June 8th: [Tuwaiq Academy - WWDC26 Keynote Viewing Party](https://tuwaiq.edu.sa/form/Mp7mqQ7q), Riyadh, Saudi Arabia
-- 🇫🇷 June 8th, 6:30pm CEST: [CocoaHeads Nantes - WWDC26 Keynote Viewing Party](https://www.meetup.com/cocoaheads-nantes/events/314905766/), Nantes, France
-- 🇫🇷 June 8th, 6:30pm CEST: [⌘+F - Lille's WWDC26 Keynote Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
 - 🇿🇦 June 8th, 6:00pm - 10:00pm SAST: [Glucode - WWDC26 Keynote Viewing Party](https://www.glucode.com/events/wwdc26-watch-party), Johannesburg, South Africa
-- 🇸🇪 June 8th, 6:00pm - 9:00pm CEST: [WWDC Watch Party på Compileit](https://luma.com/93h17o9g), Stockholm, Sweden
 - 🇪🇸 June 8th, 6:30pm - 9:00pm CEST: [Swift Barcelona WWDC 2026 Keynote Party](https://www.meetup.com/es-es/swiftbarcelona/events/314816865/), Barcelona, Spain
+- 🇸🇪 June 8th, 6:00pm - 9:00pm CEST: [WWDC Watch Party på Compileit](https://luma.com/93h17o9g), Stockholm, Sweden
 - 🇨🇭 June 8th, 6:00pm – 11:00pm CEST: [WWDC26 Keynote Watch Party @ Apps with love Bern](https://www.meetup.com/apps-with-love-meetups/events/315056693/), Bern, Switzerland
 - 🇹🇼 June 9th: [iPlayground - WWDC26 Keynote Viewing Party](https://iplayground.kktix.cc/events/2026-wwdc-party), Taipei, Taiwan
 - 🇹🇷 June 8th: [Turkcell - WWDC26 Keynote Viewing Party](https://luma.com/tuhzzad0), Maltepe, Turkey
@@ -145,7 +146,6 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇬🇧 June 8th, 5:30pm BST: [WWDC Watch Party @ Ramen Space](https://www.ramenclub.so/blog/wwdc-watch-party-london), London, United Kingdom
 - 🇬🇧 June 8th, 5:30pm - 8:30pm BST: [NSLondon WWDC26 keynote viewing party](https://www.meetup.com/nslondon/events/314110467), London, United Kingdom
 - 🇺🇸 June 8th, 11:00am - 3:30pm MDT: [WWDC 2026 Watch Party Utah](https://www.meetup.com/utah-ios-and-mac-developers/events/314877056/), Lehi, Utah, United States
-- 🇲🇰 June 8th, 7:00pm - 9:00pm CEST: [CocoaHeadsMK: WWDC26 Keynote Watch Along](https://www.linkedin.com/events/cocoaheadsmk-wwdc26keynotewatch7467508108345507840/), Skopje, Macedonia
 
 <p>&nbsp;</p>
 
