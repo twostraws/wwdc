@@ -155,6 +155,11 @@ Save money with these discounts on Swift learning material:
 
 - [Save 50% on Hacking with Swift books and bundles](https://www.hackingwithswift.com/offers)
 
+
+### App discounts
+Save money with these discounts on apps from the community:
+- [Enjoy 26% off on LookBack+, re-imagine NameDropping at WWDC!](https://wwdc.lookback.tech/)
+
 <p>&nbsp;</p>
 
 ### Chat groups
