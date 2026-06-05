@@ -35,7 +35,7 @@ SUNDAY, June 7th
 - **3:00pm-7:00pm: [WWDC Welcome reception at Infinite Loop](https://developer.apple.com/wwdc26/) (requires WWDC ticket)**
 - 6:30pm-10:30pm: [RevenueCat Pre-WWDC Bashcade](https://luma.com/jhm03vgs)
 - 7:00pm-10:00pm: [#WWDCScholars Meetup at WWDC26](https://www.tickettailor.com/events/wwdcscholars/2143164)
-- 7pm-11:00pm: [The AI Night at WWDC26](https://luma.com/ai-night-wwdc-26) by Clément Sauvage & ⌘+F
+- 7:00pm-11:00pm: [The AI Night at WWDC26](https://luma.com/ai-night-wwdc-26) by Clément Sauvage & ⌘+F
 
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
