@@ -80,6 +80,13 @@ FRIDAY, June 12th
 
 <p>&nbsp;</p>
 
+#### Webcal - WWDC Events
+Subscribe to this public calendar to see all WWDC-week meetups in one place. You can also pick individual events and copy them to your own calendar for easier time management during the week.
+
+For any errors or missing events, reach out to @piotrekjeremicz on Twitter.
+
+[Webcal - WWDC Events](webcal://p131-caldav.icloud.com/published/2/MTMxMDIwMTc4NTEzMTAyMG9URStgrp-6rlRdx3LNPemoDtv8SdDegsKbA3yecPHzKmTehLeJaYc4xkfJZ9Lw5zjRYkBjwR_0U-FeyU8fMAo))
+
 ### Keynote watch parties
 
 If you’d like to watch Apple’s keynote with other folks, you’re in luck! The keynote starts at 10am Pacific Time on June 8th, but events are taking place to stream it elsewhere.
