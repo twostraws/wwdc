@@ -94,6 +94,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 
 You're welcome to add your own in a pull request – please ensure your country is alphabetically sorted!
 
+- 🇦🇹 June 8th, 6:00pm - 10:00pm CEST: [Apple WWDC26 Watch Party Wien](https://luma.com/j3qlxfx3), Wien, Austria
 - 🇦🇹 June 8th, 6:30pm CEST: [WWDC 26 Keynote \[Swift Graz\]](https://www.meetup.com/swift-graz/events/314561120/), Graz, Austria
 - 🇦🇺 June 9th, 10:00am - 12:00pm AEST: [Melbourne Indie Devs WWDC26 Watch Party](https://luma.com/bx77prmp), Mitcham, Australia
 - 🇧🇬 June 8th, 7:30pm - 11:00pm EEST: [WWDC26 Keynote Watch Party](https://luma.com/vqlsr5dv), Sofia, Bulgaria
