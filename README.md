@@ -160,6 +160,7 @@ Save money with these discounts on Swift learning material:
 ### App discounts
 Save money with these discounts on apps from the community:
 - [Enjoy 26% off on LookBack+, re-imagine NameDropping at WWDC!](https://wwdc.lookback.tech/)
+- [Avail 80% Discount Lifetime Subscription - Chestly: Item Organizer](https://apps.apple.com/redeem?ctx=offercodes&id=6670334914&code=CHESTLY15)
 
 <p>&nbsp;</p>
 
