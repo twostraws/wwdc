@@ -40,6 +40,7 @@ SUNDAY, June 7th
 MONDAY, June 8th
 - **9:00am-4:00pm: [Special Event at Apple Park](https://developer.apple.com/wwdc26/special-event/) (requires WWDC ticket)**
 - 9:00am-12:00pm: [Keynote Watch Party with iOSDevHappyHour](https://communitykit.social) at CommunityKit
+- 9:30am-11:30am: [WWDC 26 Watch Party](https://partiful.com/e/9pMcYy3p0R6Ra2237QRQ) in Santa Clara
 - 1:00pm-4:00pm: [SOTU Watch Party](https://communitykit.social) at CommunityKit
 - 7:00pm-10:00pm: [Students, Swift, St★rs](https://luma.com/28tkgxwv)
 - 7:00pm-10:30pm: [French-Speaking Community Gathering @ WWDC a.k.a WWDinner](https://luma.com/wwdc26-french-gathering)
@@ -56,6 +57,7 @@ TUESDAY, June 9th
 - 3:00pm-6:00pm: [The Interface WWDC26](https://luma.com/j7hmf0gm) by Tamia James
 - 4:00pm-6:00pm: [What's new in iOS 27](https://luma.com/bwg9eoer) at CommunityKit
 - 6:00pm-9:00pm: [The Talk Show Live From WWDC 2026](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) by Daring Fireball
+- 6:30pm-11:30pm: [Spatial Computing Meetup @ WWDC26](https://luma.com/ptu4yuz0) in Cupertino
 - 5:00pm-9:00pm: [iOSDevHappyHour @ WWDC26 IRL](https://idhhwwdc26irl.eventbrite.com)
 - 7:00pm-9:00pm: [CONSUMER FOUNDER DINNER: WWDC26](https://luma.com/pryq561i) by Helium x Paddle x Autosana
 - 7:00pm-9:00pm: [Beer with Swift @WWDC26](https://luma.com/y95acvdw) by Create with Swift
