@@ -160,8 +160,7 @@ Save money with these discounts on Swift learning material:
 ### App discounts
 Save money with these discounts on apps from the community:
 - [Enjoy 26% off on LookBack+, re-imagine NameDropping at WWDC!](https://wwdc.lookback.tech/)
-
-<p>&nbsp;</p>
+- [Get 50% off SubManager+, helping you keep track of your subscriptions across all your Apple devices.](https://apps.apple.com/redeem?ctx=offercodes&id=1632853914&code=WWDC26)
 
 ### Chat groups
 
