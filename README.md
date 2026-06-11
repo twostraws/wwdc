@@ -81,6 +81,7 @@ THURSDAY, June 11th
 - 12:00pm-2:00pm: [Vapor @ WWDC](https://luma.com/49kh9w32) at CommunityKit
 - 12:00pm-4:00pm: [Code Crawl](https://luma.com/n8qyff6o) at CommunityKit
 - 4:00pm-8:00pm: [AiOS Meetup](https://luma.com/ju8j7vtp) at CommunityKit
+- 5:00pm-7:00pm: [Coffee and Champagne with 🤫 @ WWDC](https://luma.com/vjofhdm9) by Hussh
 - 5:00pm-10:00pm: [Bitrig Bash](https://luma.com/hbytg7n8)
 - 7:00pm-11:00pm: [James Dempsey and the Breakpoints — LIVE near WWDC Concert 2026](https://www.eventbrite.com/e/james-dempsey-and-the-breakpoints-live-near-wwdc-concert-2026-tickets-1989917468716)
 
