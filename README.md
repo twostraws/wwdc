@@ -81,6 +81,7 @@ THURSDAY, June 11th
 - 12:00pm-2:00pm: [Vapor @ WWDC](https://luma.com/49kh9w32) at CommunityKit
 - 12:00pm-4:00pm: [Code Crawl](https://luma.com/n8qyff6o) at CommunityKit
 - 4:00pm-8:00pm: [AiOS Meetup](https://luma.com/ju8j7vtp) at CommunityKit
+- 5:00pm-7:00pm: [Coffee and Champagne with 🤫 @ WWDC](https://luma.com/vjofhdm9) by Hussh
 - 5:00pm-10:00pm: [Bitrig Bash](https://luma.com/hbytg7n8)
 - 7:00pm-11:00pm: [James Dempsey and the Breakpoints — LIVE near WWDC Concert 2026](https://www.eventbrite.com/e/james-dempsey-and-the-breakpoints-live-near-wwdc-concert-2026-tickets-1989917468716)
 
@@ -101,6 +102,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇦🇺 June 9th, 10:00am - 12:00pm AEST: [Melbourne Indie Devs WWDC26 Watch Party](https://luma.com/bx77prmp), Mitcham, Australia
 - 🇧🇬 June 8th, 7:30pm - 11:00pm EEST: [WWDC26 Keynote Watch Party](https://luma.com/vqlsr5dv), Sofia, Bulgaria
 - 🇧🇷 June 8th, 1:30pm - 6:15pm BRT: [CocoaHeads BH - WWDC26 Keynote Viewing Party](https://www.sympla.com.br/evento/wwdc-watch-party-bh/3436374), Belo Horizonte, Brazil
+- 🇧🇷 June 8th, 1:00pm - 4:00pm BRT: [CocoaHeads SP WWDC26 Watch Party @ Apple Developer Academy \| Mackenzie](https://www.meetup.com/pt-br/cocoaheadssp/events/315000020/), Sao Paulo, Brazil
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://wwdc.swiftgg.team), Beijing, China
 - 🇨🇳 June 8th, 11:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://sspai.com/item/468), Guangzhou, China
 - 🇨🇳 June 8th, 10:00pm - June 9th, 3:00am CST: [WWDC26.Playground](https://startlink.feishu.cn/share/base/form/shrcnCTw8NckrwO8vE5wg4UGgre), Hangzhou, China
@@ -112,7 +114,9 @@ You're welcome to add your own in a pull request – please ensure your country 
 - 🇫🇷 June 8th, 6:00pm - 9:30pm CEST: [WWDC26 Lille's Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
 - 🇫🇷 June 8th, 6:30pm CEST: [CocoaHeads Nantes - WWDC26 Keynote Viewing Party](https://www.meetup.com/cocoaheads-nantes/events/314905766/), Nantes, France
 - 🇫🇷 June 8th, 6:30pm CEST: [⌘+F - Lille's WWDC26 Keynote Watch Party](https://luma.com/wwdc-lille-watch-party), Lille, France
+- 🇩🇪 June 8th, 6:00pm - 10:00pm CEST: [WWDC26 Watch Party](https://www.meetup.com/de-de/programmierbar/events/314974593/), Bad Nauheim, Germany
 - 🇩🇪 June 8th, 6:30pm - 9:00pm CEST: [WWDC 2026 Keynote – Watch Party](https://www.meetup.com/de-DE/de-DE/cocoaheads-cologne/events/314303588/), Cologne, Germany
+- 🇩🇪 June 8th, 6:45pm - 9:00pm CEST: [WWDC26: opening keynote](https://www.meetup.com/de-de/software-technology-meetup-pforzheim/events/315082188/), Pforzheim, Germany
 - 🇭🇺 June 8th, 6:30pm - 8:30pm CEST: [WWDC Watch Party: Apple's New Direction](https://www.meetup.com/circlebudapest/events/314879410/), Budapest, Hungary
 - 🇮🇳 June 8th, 8:30pm - 1:00am IST: [Swift Ahmedabad WWDC26 Watch Party](https://luma.com/b08evqjf), Ahmedabad, India
 - 🇮🇳 June 8th, 8:00pm - 1:00am IST: [Conscious Engines WWDC26 Watch Party](https://luma.com/1iiwmnkx), Indiranagar, Bengaluru, India
