@@ -193,6 +193,9 @@ Now that the big week is over, there’s a lot to discuss from what was announce
 🇱🇰 Sri Lanka
 - June 18th: [Swift Sri Lanka Meetup - Beyond WWDC](https://www.meetup.com/swift-sri-lanka/events/314936926/), Colombo, Sri Lanka
 
+🇹🇼 Taiwan
+- July 25th-26th: [iPlayground 2026](https://iplayground.kktix.cc/events/2026), Taipei, Taiwan
+
 🇦🇪 United Arab Emirates
 - June 20th: [WWDC26 Unpacked](https://luma.com/vp473z2r), Dubai, United Arab Emirates
 
